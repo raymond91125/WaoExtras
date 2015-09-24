@@ -189,52 +189,56 @@ sub printace {
 	    if ($definition) {
 		while (@parts) {
 		    print "Definition\t\"$definition\"\t";
-		    $def_ref = shift(@parts);
+ 		    $def_ref = shift(@parts);
+#		    print "DEF_REF $def_ref\n";
 		    if ($def_ref =~ /[ISBN|WB]:0-87969-307-X/) { #KLUGE
 			print "Paper_evidence WBPaper00004052";
 		    }
-		    elsif ($def_ref =~ /ISBN:(\d*) \"\"/i) {
-#		    print "Paper_evidence \[isbn$1\]";
+		    elsif ($def_ref =~ m/wb(:?)paper(:?)(\d{8})/i) {
+			print "Paper_evidence WBPaper$3";
 		    }
-		    elsif ($def_ref =~ /ISBN:(.*)/i) {
-#		    print "Paper_evidence \[isbn$1\]";
-		    }
-		    elsif ($def_ref =~ /wb:rynl/i) {
+		    elsif ($def_ref =~ m/wb:rynl/i) {
 			print "Person_evidence WBPerson363";
 		    }
-		    elsif ($def_ref =~ /wb:pws/i) {
+		    elsif ($def_ref =~ m/wb:pws/i) {
 			print "Person_evidence WBPerson625";
 		    }
-		    elsif ($def_ref =~ /wa:dh/i) {
+		    elsif ($def_ref =~ m/wa:dh/i) {
 			print "Person_evidence WBPerson233";
 		    }
-		    elsif ($def_ref =~ /wb:s[bd]m/i) { #KLUGE
+		    elsif ($def_ref =~ m/wb:s[bd]m/i) { #KLUGE
 			print "Person_evidence WBPerson1250";
 		    }
-		    elsif ($def_ref =~ /wb:wjc/i) {
+		    elsif ($def_ref =~ m/wb:wjc/i) {
 			print "Person_evidence WBPerson101";
 		    }
-		    elsif ($def_ref =~ /wb:([?)cgc938(\\?)(]?)/i) {
+		    elsif ($def_ref =~ m/wb:cgc938/i) {
 			print "Paper_evidence WBPaper00000938";
-		    } elsif ($def_ref =~ /wb:cgc938 \"\"/i) {
+		    }		    
+		    elsif ($def_ref =~ m/wb:([?)cgc938(\\?)(]?)/i) {
 			print "Paper_evidence WBPaper00000938";
 		    }
-		    elsif ($def_ref =~ /wb:\\\[cgc3760\\\]/i) {
+		    elsif ($def_ref =~ m/wb:cgc938 \"\"/i) {
+			print "Paper_evidence WBPaper00000938";
+		    }
+		    elsif ($def_ref =~ m/wb:\\\[cgc3760\\\]/i) {
 			print "Paper_evidence WBPaper00003760";
 			
-		    } elsif ($def_ref =~ /wb:Paper(.*) \"\"/i) {
+		    } elsif ($def_ref =~ m/wb:Paper(.*) \"\"/i) {
 			print "Paper_evidence WBPaper$1";
 		    }
-		    elsif ($def_ref =~ /wb:(.*) \"\"/i) {
+		    elsif ($def_ref =~ m/wb:(.*) \"\"/i) {
 			print "Paper_evidence [$1]";
 		    } 
-		    elsif ($def_ref =~ /wbpaper:(\d{8})(| \"\")/i) {   # WBPaper:00000653
+		    elsif ($def_ref =~ m/wbpaper:(\d{8})(| \"\")/i) {   # WBPaper:00000653
 			print "Paper_evidence WBPaper$1";
 		    }
-		    elsif ($def_ref =~ /caro:(.*)(|\"\")/i) { #KLUGE
+		    elsif ($def_ref =~ m/caro:(.*)(|\"\")/i) { #KLUGE
 		    }
-		    elsif ($def_ref =~ /wb(:?)paper(:?)(\d{8})/i) {
-			print "Paper_evidence WBPaper$3";
+		    elsif ($def_ref =~ m/ISBN:(\d*) \"\"/i) {
+		    }
+		    elsif ($def_ref =~ m/ISBN:(.*)/i) {
+#		    print "Paper_evidence \[isbn$1\]";
 		    }
 		    else {
 			print "UNKNOWN DEF_REF: \"$def_ref\"\n";
