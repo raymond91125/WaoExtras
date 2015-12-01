@@ -656,12 +656,11 @@ Reference "WBPaper00006226"
 Anatomy_function : "WBbtf0053"
 Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0000245"
-Involved	"WBbt:0006780"	Sufficient
-Involved	"WBbt:0006781"	Sufficient
-Involved	"WBbt:0004522"	Sufficient
-Involved	"WBbt:0006894"	Sufficient
+Involved	"WBbt:0006780"	Sufficient	"Anchor cell, ventral and dorsal uterine precursor cells and the induced VPC cells appear to all be sources of attraction and repulsion to sex myoblast migration."
+Involved	"WBbt:0006781"	Sufficient	"Anchor cell, ventral and dorsal uterine precursor cells and the induced VPC cells appear to all be sources of attraction and repulsion to sex myoblast migration."
+Involved	"WBbt:0004522"	Sufficient	"Anchor cell, ventral and dorsal uterine precursor cells and the induced VPC cells appear to all be sources of attraction and repulsion to sex myoblast migration."
+Involved	"WBbt:0007809"	Sufficient	"Anchor cell, ventral and dorsal uterine precursor cells and the induced VPC cells appear to all be sources of attraction and repulsion to sex myoblast migration."
 Not_involved	"WBbt:0005784"	Unnecessary	"Z2 and Z3 ablated animals showed normal SM migration in unc-53(ay10) mutants."
-Remark	"Anchor cell, ventral and dorsal uterine precursor cells and the induced VPC cells appear to all be sources of attraction and repulsion to sex myoblast migration."
 Reference	"WBPaper00004362"
 
 
@@ -670,7 +669,7 @@ Assay	"Genetic_mosaic"	"WBPaper00003200_1"
 Phenotype	"WBPhenotype:0000198"	Autonomous	"with respect to affecting P4.p vulval precursor cell development, bar-1 activity was not required in any cells derived from ABa, EMS or P1, nor was it required in P3.p."
 Phenotype	"WBPhenotype:0000198"	Remark	"ENTITY:WBbt:0006892(P4.p)|GO:0001708(cell fate specification) QUALITY:PATO:0001507(disrupted)"
 Gene	"WBGene00000238"	Published_as	"bar-1"
-Involved	"WBbt:0006892"	Necessary	"Analysed 13 mosaic animals in which P4.p lacked the extrachromosomal array and found that this cell adopted the F (mutant) fate in 11 cases."
+Involved	"WBbt:0008117"	Necessary	"Analysed 13 mosaic animals in which P4.p lacked the extrachromosomal array and found that this cell adopted the F (mutant) fate in 11 cases."
 Reference	"WBPaper00003200"
 
 Condition : WBPaper00003200_1
@@ -1855,11 +1854,11 @@ Anatomy_function : "WBbtf0146"
 Assay	"Laser_ablation"	"WBPaper00005989_3"
 Phenotype	"WBPhenotype:0000594"	Remark	"specific phenotype: anchor cell (AC) invasion into the underlying epidermis (vulval cells) abnormal."
 Phenotype	"WBPhenotype:0000594"	Remark	"EQ:GO:0030030(cell projection organization and biogenesis)|WBbt:0004522(anchor cell)|Life_stage:L3 larva|PATO:0000461(normal)"
-Not_involved	"WBbt:0006891"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
-Not_involved	"WBbt:0006892"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
-Not_involved	"WBbt:0006893"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
-Not_involved	"WBbt:0006895"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
-Not_involved	"WBbt:0006896"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
+Not_involved	"WBbt:0008112"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
+Not_involved	"WBbt:0008117"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
+Not_involved	"WBbt:0008121"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
+Not_involved	"WBbt:0008129"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
+Not_involved	"WBbt:0008133"	Unnecessary	"all VPCs except for P6.p were ablated at the L1 molt; isolated P6.p descendants expressed egl-17::GFP at the mid-to-late L3 and stimulated AC invasion between the P6.pap and P6.ppa cells normally (30/30 animals)."
 Reference	"WBPaper00005989"
 
 Condition : WBPaper00005989_3
@@ -1872,7 +1871,7 @@ Anatomy_function : "WBbtf0147"
 Assay	"Genetic_ablation"	"WBPaper00005989_4"
 Phenotype	"WBPhenotype:0000594"	Remark	"specific phenotype: anchor cell (AC) invasion into the underlying epidermis (vulval cells) abnormal."
 Phenotype	"WBPhenotype:0000594"	Remark	"EQ:GO:0030030(cell projection organization and biogenesis)|WBbt:0004522(anchor cell)|Life_stage:L3 larva|PATO:0000761(hypoactive)"
-Involved	"WBbt:0006894"	Necessary	"AC cell invasion occurred in only 20% of late L3 to early L4 animals containing only secondary vulval cells (similar to the quantitative level of invasion observed in animals where both primary and secondary VPCs are missing)."
+Involved	"WBbt:0008125"	Necessary	"AC cell invasion occurred in only 20% of late L3 to early L4 animals containing only secondary vulval cells (similar to the quantitative level of invasion observed in animals where both primary and secondary VPCs are missing)."
 Reference	"WBPaper00005989"
 
 Condition : WBPaper00005989_4
@@ -3054,7 +3053,7 @@ Assay	"Genetic_mosaic"	"WBPaper00003200_1"
 Phenotype	"WBPhenotype:0000198"	Autonomous	"with respect to affecting P4.p vulval precursor cell development, bar-1 activity was not required in any cells derived from ABa, EMS or P1, nor was it required in P3.p."
 Phenotype	"WBPhenotype:0000198"	Remark	"ENTITY:WBbt:0006892(P4.p)|GO:0001708(cell fate specification) QUALITY:PATO:0001507(disrupted) NOT"
 Gene	"WBGene00000238"	Published_as	"bar-1"
-Involved	"WBbt:0006892"	Sufficient	"Analyzed 24 mosaic animals in which P4.p contained the array but in which other cells had lost the array, and found that P4.p did not adopt the F (mutant) fate in any case."
+Involved	"WBbt:0008117"	Sufficient	"Analyzed 24 mosaic animals in which P4.p contained the array but in which other cells had lost the array, and found that P4.p did not adopt the F (mutant) fate in any case."
 Reference	"WBPaper00003200"
 
 Condition : WBPaper00003200_1
