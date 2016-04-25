@@ -1,7 +1,9 @@
 #!/bin/bash
 
 wao_folder="/home/raymond/Documents/work/anatomy/Wao"
+wao_extras_folder="/home/raymond/Documents/work/anatomy/WaoExtras"
 wao_upload_folder="citpub@spica.caltech.edu:/home/citpub/Data_for_Ontology"
+anat_ace_upload_folder="citpub@spica.caltech.edu:/home/citpub/Data_for_citace/Data_from_Raymond"
 
 read -p "What WS version to upload? WS " ws_ver
 
@@ -14,9 +16,9 @@ if ! [ $git_ok == "y" ]; then
 	exit 1
 fi
 
-# scp $wao_folder/WBbt.obo $wao_upload_folder/anatomy_ontology.WS$ws_ver.obo
+scp $wao_folder/WBbt.obo $wao_upload_folder/anatomy_ontology.WS$ws_ver.obo
 
-cd /home/raymond/Documents/work/anatomy/WaoExtras
+cd $wao_extras_folder
 echo $PWD
 ./obo2ace.pl WBbt.obo > temp.ace
 testfilesize=$(stat -c%s temp.ace)
@@ -34,4 +36,7 @@ else
 	git commit -a -m "Updated for WS$ws_ver."
 fi
 
+scp -r $wao_extras_folder/*.ace $anat_ace_upload_folder/.
+
+echo "All done. Bye"
 
