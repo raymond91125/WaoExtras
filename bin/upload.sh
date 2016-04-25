@@ -45,5 +45,5 @@ fi
 
 scp -r $wao_extras_folder/*.ace $anat_ace_upload_folder/.
 
-echo "All done. Bye"
+echo "\n\nAll done. Bye"
 
