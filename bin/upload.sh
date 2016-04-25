@@ -36,8 +36,8 @@ else
 	git commit -a -m "Updated for WS$ws_ver."
 fi
 
-read -p "anatomy function or other ace to upload? y or n: " other_ace_ok
-if ! [ $other_ace_ok == "y" ]; then
+read -p "New anatomy function or other ace files to fix before upload? y or n: " other_ace_ok
+if ! [ $other_ace_ok == "n" ]; then
 	echo "OK. You need to fix more ace files. Bye."
 	exit 1
 fi
