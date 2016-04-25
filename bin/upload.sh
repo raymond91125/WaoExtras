@@ -36,6 +36,12 @@ else
 	git commit -a -m "Updated for WS$ws_ver."
 fi
 
+read -p "anatomy function or other ace to upload? y or n: " other_ace_ok
+if ! [ $other_ace_ok == "y" ]; then
+	echo "OK. You need to fix more ace files. Bye."
+	exit 1
+fi
+
 scp -r $wao_extras_folder/*.ace $anat_ace_upload_folder/.
 
 echo "All done. Bye"
