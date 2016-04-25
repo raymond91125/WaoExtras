@@ -26,17 +26,17 @@ echo "Replacement ace file size = "  $testfilesize
 wbbtacefilesize=$(stat -c%s WBbt.ace)
 echo "Current WBbt.ace file size = "  $wbbtacefilesize
 if [ $wbbtacefilesize -gt $testfilesize ]; then
-	read -p "Are you OK with new ace file getting smaller? y/n " ace_ok
+	read -p "Are you OK with new ace file getting smaller? y/n: " ace_ok
 	if ! [ $ace_ok == "y" ]; then
 		echo "New ace file too small, go fix the problem first. Bye"
 		exit 1
 	fi
 else
 	mv temp.ace WBbt.ace
-	git commit -a -m "Updated for WS$ws_ver."
+	git commit -a      # "Updated for WS$ws_ver."
 fi
 
-read -p "New anatomy function or other ace files to fix before upload? y or n: " other_ace_ok
+read -p "New anatomy function or other ace files to fix before upload? y/n: " other_ace_ok
 if ! [ $other_ace_ok == "n" ]; then
 	echo "OK. You need to fix more ace files. Bye."
 	exit 1
