@@ -4,7 +4,7 @@ read -p "What is the upload server? FDQN: " server_name
 wao_folder="/home/raymond/Documents/work/anatomy/Wao"
 wao_extras_folder="/home/raymond/Documents/work/anatomy/WaoExtras"
 wao_upload_folder="citpub@$server_name:/home/citpub/Data_for_Ontology"
-anat_ace_upload_folder="citpub@server_name:/home/citpub/Data_for_citace/Data_from_Raymond"
+anat_ace_upload_folder="citpub@$server_name:/home/citpub/Data_for_citace/Data_from_Raymond"
 
 read -p "What WS version to upload? WS " ws_ver
 
