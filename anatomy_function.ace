@@ -801,10 +801,10 @@ Reference	"WBPaper00004362"
 
 Anatomy_function : "WBbtf0054"
 Assay	"Genetic_mosaic"	"WBPaper00003200_1"
-Phenotype	"WBPhenotype:0000198"	Autonomous_remark	"with respect to affecting P4.p vulval precursor cell development, bar-1 activity was not required in any cells derived from ABa, EMS or P1, nor was it required in P3.p."
-Phenotype	"WBPhenotype:0000198"	Autonomous
-Phenotype	"WBPhenotype:0000198"	Remark	"ENTITY:WBbt:0006892(P4.p)|GO:0001708(cell fate specification) QUALITY:PATO:0001507(disrupted)"
-Phenotype	"WBPhenotype:0000198"	Remark
+Phenotype	"WBPhenotype:0001272"	Autonomous_remark	"with respect to affecting P4.p vulval precursor cell development, bar-1 activity was not required in any cells derived from ABa, EMS or P1, nor was it required in P3.p."
+Phenotype	"WBPhenotype:0001272"	Autonomous
+Phenotype	"WBPhenotype:0001272"	Remark	"ENTITY:WBbt:0006892(P4.p)|GO:0001708(cell fate specification) QUALITY:PATO:0001507(disrupted)"
+Phenotype	"WBPhenotype:0001272"	Remark
 Gene	"WBGene00000238"	Published_as	"bar-1"
 Involved	"WBbt:0008117"	Necessary_remark	"Analysed 13 mosaic animals in which P4.p lacked the extrachromosomal array and found that this cell adopted the F (mutant) fate in 11 cases."
 Involved	"WBbt:0008117"	Necessary
@@ -3711,10 +3711,10 @@ Reference WBPaper00006049
 
 Anatomy_function : "WBbtf0234"
 Assay	"Genetic_mosaic"	"WBPaper00003200_1"
-Phenotype	"WBPhenotype:0000198"	Autonomous_remark	"with respect to affecting P4.p vulval precursor cell development, bar-1 activity was not required in any cells derived from ABa, EMS or P1, nor was it required in P3.p."
-Phenotype	"WBPhenotype:0000198"	Autonomous
-Phenotype	"WBPhenotype:0000198"	Remark	"ENTITY:WBbt:0006892(P4.p)|GO:0001708(cell fate specification) QUALITY:PATO:0001507(disrupted) NOT"
-Phenotype	"WBPhenotype:0000198"	Remark
+Phenotype	"WBPhenotype:0001272"	Autonomous_remark	"with respect to affecting P4.p vulval precursor cell development, bar-1 activity was not required in any cells derived from ABa, EMS or P1, nor was it required in P3.p."
+Phenotype	"WBPhenotype:0001272"	Autonomous
+Phenotype	"WBPhenotype:0001272"	Remark	"ENTITY:WBbt:0006892(P4.p)|GO:0001708(cell fate specification) QUALITY:PATO:0001507(disrupted) NOT"
+Phenotype	"WBPhenotype:0001272"	Remark
 Gene	"WBGene00000238"	Published_as	"bar-1"
 Involved	"WBbt:0008117"	Sufficient_remark	"Analyzed 24 mosaic animals in which P4.p contained the array but in which other cells had lost the array, and found that P4.p did not adopt the F (mutant) fate in any case."
 Involved	"WBbt:0008117"	Sufficient
@@ -3728,8 +3728,8 @@ Reference "WBPaper00003200"
 
 Anatomy_function : "WBbtf0235"
 Assay	"Genetic_mosaic"
-Phenotype	"WBPhenotype:0000198"	Autonomous_remark	"genetic mosaic analysis indicates bar-1 acts cell autonomously in the determination of P12 fate."
-Phenotype	"WBPhenotype:0000198"	Autonomous
+Phenotype	"WBPhenotype:0001272"	Autonomous_remark	"genetic mosaic analysis indicates bar-1 acts cell autonomously in the determination of P12 fate."
+Phenotype	"WBPhenotype:0001272"	Autonomous
 Gene	"WBGene00000238"	Published_as	"bar-1"
 Involved	"WBbt:0004409"	Remark	"data not shown."
 Involved	"WBbt:0004409"	Remark
