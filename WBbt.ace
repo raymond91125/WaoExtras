@@ -33775,7 +33775,8 @@ IS_A_p	"WBbt:0007028"
 
 Anatomy_term : "WBbt:0006235"
 Term	"MSapappp"
-Synonym	"DL1" RELATED [] {comment="Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DL1"	Remark	"Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DL1"
 Synonym	"lineage name: MSapappp"
 Synonym	"mu_bod"
 Definition	"Embryonic cell of pedigree MSapappp."	Person_evidence WBPerson363
@@ -34246,7 +34247,8 @@ IS_A_p	"WBbt:0007028"
 
 Anatomy_term : "WBbt:0006318"
 Term	"MSppappa"
-Synonym	"DR1" RELATED [] {comment="Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DR1"	Remark	"Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DR1"
 Synonym	"lineage name: MSppappa"
 Synonym	"mu_bod"
 Definition	"Embryonic cell of pedigree MSppappa."	Person_evidence WBPerson363
@@ -35044,7 +35046,8 @@ Remark	"Secondary ID WBbt:0003834"
 
 Anatomy_term : "WBbt:0006450"
 Term	"MSppappp"
-Synonym	"DR4" RELATED [] {comment="Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DR4"	Remark	"Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DR4"
 Synonym	"lineage name: MSppappp"
 Synonym	"mu_bod"
 Definition	"Embryonic cell of pedigree MSppappp."	Person_evidence WBPerson363
@@ -35307,7 +35310,8 @@ IS_A_p	"WBbt:0007028"
 
 Anatomy_term : "WBbt:0006495"
 Term	"MSapappa"
-Synonym	"DL4" RELATED [] {comment="Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DL4"	Remark	"Per Zeynep Altun and Bob Waterston (20190530 email)."
+Synonym	"DL4"
 Synonym	"lineage name: MSapappa"
 Synonym	"mu_bod"
 Definition	"Embryonic cell of pedigree MSapappa."	Person_evidence WBPerson363
