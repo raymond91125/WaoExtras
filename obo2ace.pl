@@ -1,1 +1,1 @@
-/home/raymond/local/src/git/myScripts/obo2ace.pl
+/data/local/src/gitlab/myScripts/obo2ace.pl
