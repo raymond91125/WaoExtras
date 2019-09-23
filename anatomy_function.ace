@@ -682,7 +682,6 @@ Reference	"WBPaper00005808"
 
 Condition : WBPaper00005808_1
 Genotype "atp-2(ua2) unc-32(e189) III; svDp1[sDp3[atp-2(+)]-svEx12[unc-4(+)-sur-5::gfp]] 
-Strain "LB146"
 Reference "WBPaper00005808"
 
 
@@ -737,7 +736,6 @@ Involved	"WBbt:0006874"	Sufficient
 Reference	"WBPaper00006226"
 
 Condition : WBPaper00006226_3
-Strain "CF1803"
 Genotype "daf-16(mu86); daf-2(e1370) ncl-1(e1865); muEx258"
 Temperature 26
 Remark "actual experimental temperature is 25.5 degrees"
@@ -757,7 +755,6 @@ Involved	"WBbt:0004015"	Sufficient
 Reference	"WBPaper00006226"
 
 Condition : WBPaper00006226_4
-Strain "CF1803"
 Genotype "daf-16(mu86); daf-2(e1370) ncl-1(e1865); muEx258"
 Temperature 20
 Reference "WBPaper00006226"
@@ -12675,7 +12672,6 @@ Involved	"WBbt:0004522"	Necessary
 Reference	"WBPaper00032332"
 
 Condition : WBPaper00032332_1
-Strain N2
 Reference WBPaper00032332
 
 
@@ -12691,7 +12687,6 @@ Involved	"WBbt:0004522"	Necessary
 Reference	"WBPaper00032332"
 
 Condition : WBPaper00032332_2
-Strain CB4856
 Reference WBPaper00032332
 
 
@@ -12707,7 +12702,6 @@ Involved	"WBbt:0004522"	Necessary
 Reference	"WBPaper00032332"
 
 Condition : WBPaper00032332_3
-Strain AB1
 Reference WBPaper00032332
 
 
