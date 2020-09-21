@@ -9,8 +9,6 @@ Involved	"WBbt:0005665"	Sufficient_remark	"partial rescue of gpc-1 mutant by ASH
 Involved	"WBbt:0005665"	Sufficient
 Involved	"WBbt:0005661"	Sufficient_remark	"in gpc-1 mutant, expression of GPC-1 in ADL and ASH neurons resulted in better rescue than expression in ASH neurons alone."
 Involved	"WBbt:0005661"	Sufficient
-Not_involved	"WBbt:0005663"	Sufficient_remark	"gpc-1 mutant, expression of GPC-1 in ASE neurons did not restore gustatory plasticity."
-Not_involved	"WBbt:0005663"	Insufficient
 Reference	"WBPaper00027029"
 
 
@@ -32,8 +30,6 @@ Phenotype	"WBPhenotype:0000992"	Remark
 Gene	"WBGene00003850"	Published_as	"odr-3"
 Involved	"WBbt:0005665"	Sufficient_remark	"expression of ODR-3 in ASH of odr-3 animals fully restored avoidance of 1M NaCl."
 Involved	"WBbt:0005665"	Sufficient
-Not_involved	"WBbt:0005660"	Sufficient_remark	"ADF specific expression of odr-3 did not restore avoidance of 1M NaCl."
-Not_involved	"WBbt:0005660"	Insufficient
 Reference	"WBPaper00027029"
 
 
@@ -44,8 +40,6 @@ Phenotype	"WBPhenotype:0001446"	Remark
 Gene	"WBGene00003850"	Published_as	"odr-3"
 Involved	"WBbt:0005660"	Sufficient_remark	"ADF specific expression of odr-3 restored NaCl avoidance after pre-exposure."
 Involved	"WBbt:0005660"	Sufficient
-Not_involved	"WBbt:0005665"	Sufficient_remark	"NaCl avoidance after pre-exposure was not restored by expressing odr-3 in ASH neurons."
-Not_involved	"WBbt:0005665"	Insufficient
 Reference	"WBPaper00027029"
 
 
@@ -58,40 +52,6 @@ Involved	"WBbt:0005665"	Sufficient_remark	"expression of grk-2, by srb-6::grk-2 
 Involved	"WBbt:0005665"	Sufficient
 Involved	"WBbt:0005661"	Sufficient_remark	"expression of grk-2 by srb-6::grk-2 can restore NaCl chemoattraction in grk-2 mutant."
 Involved	"WBbt:0005661"	Sufficient
-Not_involved	"WBbt:0005842"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005842"	Insufficient
-Not_involved	"WBbt:0005841"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005841"	Insufficient
-Not_involved	"WBbt:0006818"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0006818"	Insufficient
-Not_involved	"WBbt:0006819"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0006819"	Insufficient
-Not_involved	"WBbt:0005840"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005840"	Insufficient
-Not_involved	"WBbt:0006813"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0006813"	Insufficient
-Not_involved	"WBbt:0005400"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005400"	Insufficient
-Not_involved	"WBbt:0005835"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005835"	Insufficient
-Not_involved	"WBbt:0005353"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005353"	Insufficient
-Not_involved	"WBbt:0003850"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0003850"	Insufficient
-Not_involved	"WBbt:0006976"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0006976"	Insufficient
-Not_involved	"WBbt:0005346"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005346"	Insufficient
-Not_involved	"WBbt:0006822"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0006822"	Insufficient
-Not_involved	"WBbt:0004821"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0004821"	Insufficient
-Not_involved	"WBbt:0006836"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0006836"	Insufficient
-Not_involved	"WBbt:0005045"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005045"	Insufficient
-Not_involved	"WBbt:0005399"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
-Not_involved	"WBbt:0005399"	Insufficient
 Reference	"WBPaper00027029"
 
 
@@ -144,8 +104,9 @@ Reference	"WBPaper00027029"
 
 Anatomy_function : "WBbtf0010"
 Assay	"Genetic_mosaic"	"WBPaper00001254_1"
-Assay	"Genetic_mosaic"	"WBPaper00001254_2"
 Phenotype	"WBPhenotype:0000184"	Autonomous
+Phenotype	"WBPhenotype:0000184"	Remark	"Five obviously mosaic animals are described in categories 1 and 2 of Table 2. The category 1 mosaics are semi-Dpy and Unc. These animals were found to have cell death survivors only among cells generated from the ABp lineage. The category 2 mosaic, with an apparent ABa loss, was semiDpy and non-Unc (although this animal moved more slowly than does a wild-type animal). These results again indicate that ced-3 is cell autonomous and reveal that unc-26, like unc-30, acts in the ABp lineage."
+Phenotype	"WBPhenotype:0000184"	Remark
 Gene	"WBGene00000417"	Published_as	"ced-3"
 Involved	"WBbt:0006925"	Sufficient
 Involved	"WBbt:0006925"	Necessary
@@ -158,11 +119,6 @@ Genotype "unc-30(e191) ced-3(n717) dpy-4(e1166); nDp3(IV,V;f)"
 Reference WBPaper00001254
 Remark "Strain used for ced-3 mosaic analysis"
 
-
-Condition : WBPaper00001254_2
-Genotype "ced-3(n717) unc-26(e205) dpy-4(e1166); nDp3(IV,V;f)"
-Reference WBPaper00001254
-Remark "Strain used for ced-3 mosaic analysis"
 
 
 
@@ -258,20 +214,19 @@ Genotype "egl-1(n986)"
 
 Anatomy_function : "WBbtf0020"
 Assay	"Genetic_mosaic"	"WBPaper00004499_1"
-Assay	"Genetic_mosaic"	"WBPaper00004499_2"
 Phenotype	"WBPhenotype:0000800"	Autonomous_remark	"limited mosaic analysis supports the view that most of the required pal-1 functions are cell autonomous."
 Phenotype	"WBPhenotype:0000800"	Autonomous
 Phenotype	"WBPhenotype:0000800"	Remark	"posterior development defective, Nob (no back end) phenotype."
 Phenotype	"WBPhenotype:0000800"	Remark
 Gene	"WBGene00003912"	Published_as	"pal-1"
+Involved	"WBbt:0008588"	Necessary_remark	"To identify cells in which pal-1 function is required, we performed  a  limited  mosaic  analysis,  using  two  different strains. CF353 carried mutant markers in dpy-17, unc-36, ncl-1, and pal-1(ct224) on LGIII, complemented by wild-type copies on the free duplication sDp3. The losses resulting in posterior phenotypes that we were  able to score are summarized in Table 5. Three embryos that appeared to have lost the  duplication in either P2 or C [so that the entire C lineage was pal-1(2)] displayed  the Nob phenotype."
+Involved	"WBbt:0008588"	Necessary
 Reference	"WBPaper00004499"
 
 Condition : WBPaper00004499_1
 Genotype "pal-1(ct224) dpy-17(e164) ncl-1(e1865) unc-36(e251) III; sDp3(III,f); him-8(e1489) IV"
-
-Condition : WBPaper00004499_2
 Genotype "pal-1(ct224) dpy-17(e164) ncl-1(e1865) unc-36(e251) III; sDp3(III,f); him-8(e1489) IV, myo-3::gfp(ctIs34)"
-Remark "myo-3::gfp(ctIs24) is not on LGIII but otherwise unmapped."
+Reference WBPaper00004499
 
 
 
@@ -280,8 +235,6 @@ Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0000254"
 Involved	"WBbt:0003903"	Necessary_remark	"chloride chemotaxis was disrupted by ablation of ASER."
 Involved	"WBbt:0003903"	Necessary
-Not_involved	"WBbt:0003904"	Necessary_remark	"chloride chemotaxis was unaffected by ablation of ASEL."
-Not_involved	"WBbt:0003904"	Unnecessary
 Reference	"WBPaper00004609"
 
 
@@ -290,8 +243,6 @@ Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0001058"
 Involved	"WBbt:0003903"	Necessary_remark	"potassium chemotaxis was disrupted by ablation of ASER."
 Involved	"WBbt:0003903"	Necessary
-Not_involved	"WBbt:0003904"	Necessary_remark	"potassium chemotaxis was unaffected by ablation of ASEL."
-Not_involved	"WBbt:0003904"	Unnecessary
 Reference	"WBPaper00004609"
 
 
@@ -311,8 +262,6 @@ Phenotype	"WBPhenotype:0000265"	Remark	"chemotaxis towards 2,3-pentanedione abno
 Phenotype	"WBPhenotype:0000265"	Remark
 Involved	"WBbt:0005833"	Necessary_remark	"AWC-off ablated animals did not detect 2,3-pentanedione."
 Involved	"WBbt:0005833"	Necessary
-Not_involved	"WBbt:0005832"	Necessary_remark	"ablation of AWC-on did not affect chemotaxis to 2,3-pentanedione."
-Not_involved	"WBbt:0005832"	Unnecessary
 Reference	"WBPaper00004610"
 
 
@@ -322,8 +271,6 @@ Phenotype	"WBPhenotype:0000265"	Remark	"discrimination of benzaldehyde from buta
 Phenotype	"WBPhenotype:0000265"	Remark
 Involved	"WBbt:0005833"	Necessary_remark	"AWC-off ablated animals did not discriminate benzaldehyde from butanone."
 Involved	"WBbt:0005833"	Necessary
-Not_involved	"WBbt:0005832"	Necessary_remark	"ablation of AWC-on did not cause defects in butanone/benzaldehyde discrimination."
-Not_involved	"WBbt:0005832"	Unnecessary
 Reference	"WBPaper00004610"
 
 
@@ -505,14 +452,8 @@ Anatomy_function : "WBbtf0036"
 Assay	"Genetic_mosaic"	"WBPaper00001039_1"
 Phenotype	"WBPhenotype:0000117"
 Gene	"WBGene00000035"
-Involved	"WBbt:0006804"	Sufficient
+Involved	"WBbt:0006804"	Necessary_remark	"lack of ace-1(+) in the P1 lineage (which includes 94 of the 95 body muscle cells) is responsible for the Ace-Let phenotype."
 Involved	"WBbt:0006804"	Necessary
-Involved	"WBbt:0006804"	Remark	"lack of ace-1(+) in the P1 lineage (which includes 94 of the 95 body muscle cells) is responsible for the Ace-Let phenotype."
-Involved	"WBbt:0006804"	Remark
-Not_involved	"WBbt:0003679"	Insufficient
-Not_involved	"WBbt:0003679"	Unnecessary
-Not_involved	"WBbt:0003679"	Remark	"ace-2 ace-3 animals also lacking ace-1(+) in all cells of the AB lineage (which includes most of the cells making up the nervous system) are viable and fertile."
-Not_involved	"WBbt:0003679"	Remark
 Reference	"WBPaper00001039"
 
 Condition : WBPaper00001039_1
@@ -528,14 +469,8 @@ Assay	"Genetic_mosaic"	"WBPaper0003679_1"
 Phenotype	"WBPhenotype:0000646"	Remark	"Ace-Unc"
 Phenotype	"WBPhenotype:0000646"	Remark
 Gene	"WBGene00000035"
-Involved	"WBbt:0006804"	Sufficient
+Involved	"WBbt:0006804"	Necessary_remark	"loss of ace-1+ at P1 leads to an Ace-Unc phenotype."
 Involved	"WBbt:0006804"	Necessary
-Involved	"WBbt:0006804"	Remark	"loss of ace-1+ at P1 leads to an Ace-Unc phenotype."
-Involved	"WBbt:0006804"	Remark
-Not_involved	"WBbt:0003679"	Insufficient
-Not_involved	"WBbt:0003679"	Unnecessary
-Not_involved	"WBbt:0003679"	Remark	"animals showed wild-type movement despite having lost ace-1+ at ABp or AB."
-Not_involved	"WBbt:0003679"	Remark
 Reference	"WBPaper00000761"
 
 Condition : WBPaper0003679_1
@@ -550,17 +485,14 @@ Assay	"Genetic_mosaic"	"WBPaper0003679_1"
 Phenotype	"WBPhenotype:0000177"	Remark	"acetylcholinesterase activity, histochemically staining, reduced."
 Phenotype	"WBPhenotype:0000177"	Remark
 Gene	"WBGene00000035"
-Involved	"WBbt:0006804"	Sufficient
+Involved	"WBbt:0006804"	Necessary_remark	"loss of ace-1+ at P1 leads to loss of detectable acetylcholinesterase activity."
 Involved	"WBbt:0006804"	Necessary
-Involved	"WBbt:0006804"	Remark	"loss of ace-1+ at P1 leads to loss of detectable acetylcholinesterase activity."
-Involved	"WBbt:0006804"	Remark
-Not_involved	"WBbt:0003679"	Insufficient
-Not_involved	"WBbt:0003679"	Unnecessary
-Not_involved	"WBbt:0003679"	Remark	"animals showed normal acetylcholinesterase histochemical staining in nerve ring and nerve cords, despite having lost ace-1+ at ABp or AB."
-Not_involved	"WBbt:0003679"	Remark
 Reference	"WBPaper00000761"
 
 Condition : WBPaper0003679_1
+Genotype "ace-2 I; daf-6 ace-1 X; mnDp14(X;f)"
+Genotype "ace-2 I; unc-93 III; unc-3 daf-6 sup-10 ace-1 X; mnDp14(X;f)"
+Remark "two different genotypes were used separately"
 
 
 
@@ -569,9 +501,7 @@ Anatomy_function : "WBbtf0039"
 Assay	"Laser_ablation"	"WBPaper00003951_1"
 Phenotype	"WBPhenotype:0001071"
 Gene	"WBGene00001444"
-Not_involved	"WBbt:0006830"	Sufficient_remark	"HSN-ablated flp-1 animals were no more severely egg-laying defective than HSN-ablated wild-type animals."
-Not_involved	"WBbt:0006830"	Insufficient
-Not_involved	"WBbt:0006830"	Sufficient_remark	"In the presence of exogenous serotonin, HSN-ablated flp-1 animals laid eggs significantly more slowly than HSN-ablated wild-type animals."
+Not_involved	"WBbt:0006830"	Sufficient_remark	"HSN-ablated flp-1 animals were no more severely egg-laying defective than HSN-ablated wild-type animals. In the presence of exogenous serotonin, HSN-ablated flp-1 animals laid eggs significantly more slowly than HSN-ablated wild-type animals."
 Not_involved	"WBbt:0006830"	Insufficient
 Reference	"WBPaper00003951"
 
@@ -696,8 +626,6 @@ Involved	"WBbt:0003679"	Sufficient_remark	"neuronal (unc-119 promoter-driven) da
 Involved	"WBbt:0003679"	Sufficient
 Involved	"WBbt:0005792"	Sufficient_remark	"expressing daf-16 in the intestine (with a ges-1 promoter) increased lifespan by 50%-60%."
 Involved	"WBbt:0005792"	Sufficient
-Not_involved	"WBbt:0003675"	Sufficient_remark	"expressing daf-16 specifically in muscles (with a myo-3 promoter) produced no lifespan extension."
-Not_involved	"WBbt:0003675"	Insufficient
 Reference	"WBPaper00006226"
 
 Condition : WBPaper00006226_1
@@ -715,8 +643,6 @@ Involved	"WBbt:0003679"	Sufficient_remark	"neuronal (unc-119 promoter-driven) da
 Involved	"WBbt:0003679"	Sufficient
 Involved	"WBbt:0005792"	Sufficient_remark	"expressing daf-16::gfp in the intestine (with a ges-1 promoter) had a small effect on dauer formation."
 Involved	"WBbt:0005792"	Sufficient
-Not_involved	"WBbt:0003675"	Sufficient_remark	"expressing daf-16::gfp specifically in muscles (with a myo-3 promoter) did not rescue dauer formation."
-Not_involved	"WBbt:0003675"	Insufficient
 Reference	"WBPaper00006226"
 
 Condition : WBPaper00006226_2
@@ -773,10 +699,6 @@ Phenotype	"WBPhenotype:0000061"
 Gene	"WBGene00000912"
 Involved	"WBbt:0005792"	Sufficient_remark	"expressing daf-16 in the intestine (with a ges-1 promoter) completely restored the longevity of daf-16(-); mes-1(bn7) germline-less animals."
 Involved	"WBbt:0005792"	Sufficient
-Not_involved	"WBbt:0003675"	Sufficient_remark	"expressing daf-16 specifically in muscles (with a myo-3 promoter) had little or no effect on lifespan of daf-16(-); mes-1(bn7) mutants."
-Not_involved	"WBbt:0003675"	Insufficient
-Not_involved	"WBbt:0003679"	Sufficient_remark	"neuronal (unc-119 promoter-driven) daf-16 expression had little or no effect on lifespan of daf-16(-); mes-1(bn7) mutants."
-Not_involved	"WBbt:0003679"	Insufficient
 Reference	"WBPaper00006226"
 
 Condition : WBPaper00006226_5
@@ -797,8 +719,6 @@ Involved	"WBbt:0004522"	Sufficient_remark	"Anchor cell, ventral and dorsal uteri
 Involved	"WBbt:0004522"	Sufficient
 Involved	"WBbt:0007809"	Sufficient_remark	"Anchor cell, ventral and dorsal uterine precursor cells and the induced VPC cells appear to all be sources of attraction and repulsion to sex myoblast migration."
 Involved	"WBbt:0007809"	Sufficient
-Not_involved	"WBbt:0005784"	Necessary_remark	"Z2 and Z3 ablated animals showed normal SM migration in unc-53(ay10) mutants."
-Not_involved	"WBbt:0005784"	Unnecessary
 Reference	"WBPaper00004362"
 
 
@@ -855,22 +775,15 @@ Phenotype	"WBPhenotype:0000220"	Remark	"vulval primary lineage patterning (P6.px
 Phenotype	"WBPhenotype:0000220"	Remark
 Involved	"WBbt:0004522"	Necessary_remark	"ablation of AC at the late P6.px to early P6.pxx stage (but not at the late P6.pxx stage) affects zmp-1::GFP expression in P6.pxxx during L4 lethargus."
 Involved	"WBbt:0004522"	Necessary
-Not_involved	"WBbt:0006893"	Necessary_remark	"ablation of P5.p and P7.p does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
-Not_involved	"WBbt:0006893"	Unnecessary
-Not_involved	"WBbt:0006895"	Necessary_remark	"ablation of P5.p and P7.p does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
-Not_involved	"WBbt:0006895"	Unnecessary
-Not_involved	"WBbt:0006780"	Necessary_remark	"ablation of VU precursors before VPCs divide does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
-Not_involved	"WBbt:0006780"	Unnecessary
 Reference	"WBPaper00004481"
 
 
 Anatomy_function : "WBbtf0059"
 Assay	"Genetic_mosaic"	"WBPaper00003090_1"
-Phenotype	"WBPhenotype:0000885"	Remark	"mosaic analysis demonstrates that ced-6 acts within the engulfing gonadal sheath cells rather than the germline apoptotic cells."
-Phenotype	"WBPhenotype:0000885"	Remark
+Phenotype	"WBPhenotype:0000885"
 Gene	"WBGene00000420"
-Involved	"WBbt:0007803"
-Not_involved	"WBbt:0006925"
+Involved	"WBbt:0007803"	Remark	"mosaic analysis demonstrates that ced-6 acts within the engulfing gonadal sheath cells rather than the germline apoptotic cells."
+Involved	"WBbt:0007803"	Remark
 Reference	"WBPaper00003090"
 
 Condition : WBPaper00003090_1
@@ -884,8 +797,6 @@ Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0000707"	Remark	"specific defect: anterior pharyngeal extension abnormal."
 Phenotype	"WBPhenotype:0000707"	Remark
 Involved	"WBbt:0005793"
-Not_involved	"WBbt:0006699"
-Not_involved	"WBbt:0006142"
 Reference	"WBPaper00004707"
 
 
@@ -914,8 +825,6 @@ Phenotype	"WBPhenotype:0004026"	Remark
 Gene	"WBGene00001172"
 Involved	"WBbt:0007804"	Sufficient_remark	"expression of egl-3 in the command neurons (using the glr-1 promoter) rescued the glr-1 (nose touch defective) suppression defect."
 Involved	"WBbt:0007804"	Sufficient
-Not_involved	"WBbt:0005665"	Sufficient_remark	"expression of egl-3 in ASH (using the osm-10 promoter) failed to rescue the glr-1 (nose touch defective) suppression defect."
-Not_involved	"WBbt:0005665"	Insufficient
 Reference	"WBPaper00004977"
 
 Condition : WBPaper00004977_1
@@ -944,7 +853,6 @@ Phenotype	"WBPhenotype:0000643"	Remark	"specific defect: execution of the egg-la
 Phenotype	"WBPhenotype:0000643"	Remark
 Involved	"WBbt:0003851"	Necessary_remark	"in AVF-ablated animals, the velocity burst prior to egg-laying was reduced if not eliminated, and the average velocity overall was significantly reduced; in addition, the peak in directional change probability after egg-laying was eliminated."
 Involved	"WBbt:0003851"	Necessary
-Not_involved	"WBbt:0005665"	Unnecessary
 Reference	"WBPaper00004978"
 
 
@@ -1023,9 +931,6 @@ Involved	"WBbt:0006859"	Necessary_remark	"removal of both the hook sensillum and
 Involved	"WBbt:0006859"	Necessary
 Involved	"WBbt:0006930"	Necessary_remark	"removal of both the hook sensillum and the postcloacal sensilla neurons PCA and PCB resulted in males that showed no spicule activity."
 Involved	"WBbt:0006930"	Necessary
-Not_involved	"WBbt:0006862"	Unnecessary
-Not_involved	"WBbt:0007805"	Unnecessary
-Not_involved	"WBbt:0006861"	Unnecessary
 Reference	"WBPaper00005027"
 
 
@@ -1073,15 +978,6 @@ Involved	"WBbt:0006950"	Necessary_remark	"males with dorsally opening (of sensor
 Involved	"WBbt:0006950"	Necessary
 Involved	"WBbt:0006952"	Necessary_remark	"males with dorsally opening (of sensory openings) rays ablated failed to respond to dorsal contact with the hermaphrodite."
 Involved	"WBbt:0006952"	Necessary
-Not_involved	"WBbt:0006945"	Unnecessary
-Not_involved	"WBbt:0006948"	Unnecessary
-Not_involved	"WBbt:0006949"	Unnecessary
-Not_involved	"WBbt:0006951"	Unnecessary
-Not_involved	"WBbt:0006953"	Unnecessary
-Not_involved	"WBbt:0006954"	Unnecessary
-Not_involved	"WBbt:0006930"	Unnecessary
-Not_involved	"WBbt:0005487"	Unnecessary
-Not_involved	"WBbt:0005312"	Unnecessary
 Reference	"WBPaper00002109"
 
 
@@ -1221,10 +1117,6 @@ Involved	"WBbt:0005665"	Sufficient_remark	"expression of ocr-2 in the ASH or ADL
 Involved	"WBbt:0005665"	Sufficient
 Involved	"WBbt:0005661"	Sufficient_remark	"expression of ocr-2 in the ASH or ADL neurons restores aggregation behavior to ocr-2; npr-1 mutant animals."
 Involved	"WBbt:0005661"	Sufficient
-Not_involved	"WBbt:0005660"	Sufficient_remark	"expression of ocr-2 in the ADF or AWA neurons does not restore aggregation behavior to ocr-2;npr-1 mutant animals."
-Not_involved	"WBbt:0005660"	Insufficient
-Not_involved	"WBbt:0005670"	Sufficient_remark	"expression of ocr-2 in the ADF or AWA neurons does not restore aggregation behavior to ocr-2;npr-1 mutant animals."
-Not_involved	"WBbt:0005670"	Insufficient
 Reference	"WBPaper00005511"
 
 Condition : WBPaper00005511_1
@@ -1240,16 +1132,6 @@ Phenotype	"WBPhenotype:0001291"
 Gene	"WBGene00003851"
 Involved	"WBbt:0005661"	Sufficient_remark	"odr-4 expression in ADL restores social behavior to odr-4; npr-1 mutant animals."
 Involved	"WBbt:0005661"	Sufficient
-Not_involved	"WBbt:0005660"	Sufficient_remark	"odr-4 expression in ADF does not restore social behavior to odr-4; npr-1 mutant animals."
-Not_involved	"WBbt:0005660"	Insufficient
-Not_involved	"WBbt:0005670"	Sufficient_remark	"odr-4 expression in AWA, AWB, ASI, and ASK neurons also fails to restore aggregation behavior to odr-4; npr-1 animals."
-Not_involved	"WBbt:0005670"	Insufficient
-Not_involved	"WBbt:0005671"	Sufficient_remark	"odr-4 expression in AWA, AWB, ASI, and ASK neurons also fails to restore aggregation behavior to odr-4; npr-1 animals."
-Not_involved	"WBbt:0005671"	Insufficient
-Not_involved	"WBbt:0005666"	Sufficient_remark	"odr-4 expression in AWA, AWB, ASI, and ASK neurons also fails to restore aggregation behavior to odr-4; npr-1 animals."
-Not_involved	"WBbt:0005666"	Insufficient
-Not_involved	"WBbt:0005668"	Sufficient_remark	"odr-4 expression in AWA, AWB, ASI, and ASK neurons also fails to restore aggregation behavior to odr-4; npr-1 animals."
-Not_involved	"WBbt:0005668"	Insufficient
 Reference	"WBPaper00005511"
 
 Condition : WBPaper00005511_2
@@ -1339,8 +1221,6 @@ Phenotype	"WBPhenotype:0000047"
 Gene	"WBGene00004215"
 Involved	"WBbt:0003679"	Sufficient_remark	"expression of PTP-3 under the control of the pan-neural unc-119 promoter caused a significant decrease in teh lethality of vab-1 ptp-3 double mutants."
 Involved	"WBbt:0003679"	Sufficient
-Not_involved	"WBbt:0003672"	Sufficient_remark	"expression of PTP-3 using epidermal promoter (jam-1) gave partial rescue of the lethality of vab-1 ptp-3 double mutants that was not statistically significant."
-Not_involved	"WBbt:0003672"	Insufficient
 Reference	"WBPaper00005259"
 
 Condition : WBPaper00005259_1
@@ -1633,18 +1513,13 @@ Reference "WBPaper00005612"
 
 
 Anatomy_function : "WBbtf0112"
-Assay	"Expression_mosaic"	"WBPaper00005612_2"
-Phenotype	"WBPhenotype:0000134"	Autonomous
+Assay	"Expression_mosaic"
 Phenotype	"WBPhenotype:0000134"	Remark	"specific phenotype: loss of sra-6::gfp exprssion in ASH and ASI neurons."
 Phenotype	"WBPhenotype:0000134"	Remark
+Gene	"WBGene00000900"
 Not_involved	"WBbt:0003675"	Sufficient_remark	"DAF-4 expression driven by either the odr-4 or the osm-10 promoter but not the myo-3 promoter is sufficient to restore sra-6::gfp expression in the ASH and ASI neurons."
 Not_involved	"WBbt:0003675"	Insufficient
 Reference	"WBPaper00005612"
-
-Condition : WBPaper00005612_2
-Genotype "daf-4(m63); oyIs14(sra-6::gfp)"
-Reference "WBPaper00005612"
-
 
 
 Anatomy_function : "WBbtf0113"
@@ -3113,7 +2988,6 @@ Reference "WBPaper00005756"
 
 
 Anatomy_function : "WBbtf0198"
-Assay	"Laser_ablation"
 Assay	"Genetic_ablation"	"WBPaper00005760_1"
 Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000461(normal)"
 Phenotype	"WBPhenotype:0000102"	Remark
@@ -3575,8 +3449,6 @@ Phenotype	"WBPhenotype:0000400"	Remark
 Gene	"WBGene00001981"	Published_as	"hnd-1"
 Involved	"WBbt:0007810"	Sufficient_remark	"Expression of HND-1::GFP by the hlh-1 promoter rescued the hnd-1 gonadogenesis defects. hlh-1 promoter is active in body muscle and not in SGPs (somatic gonadal precursor cells)."
 Involved	"WBbt:0007810"	Sufficient
-Not_involved	"WBbt:0007854"	Necessary_remark	"Expression of HND-1::GFP by the hlh-1 promoter rescued the hnd-1 gonadogenesis defects. hlh-1 promoter is active in body muscle and not in SGPs (somatic gonadal precursor cells)."
-Not_involved	"WBbt:0007854"	Unnecessary
 Reference	"WBPaper00006002"
 
 Condition : WBPaper00006002_2
@@ -3628,10 +3500,6 @@ Involved	"WBbt:0003679"	Necessary_remark	"Early array loss at AB leads to no res
 Involved	"WBbt:0003679"	Necessary
 Involved	"WBbt:0003679"	Remark	"An extrachromosomal array was created that contains the rescuing C17D12 cosmid and two GFP reporters that mark the neuronal and muscle lineages."
 Involved	"WBbt:0003679"	Remark
-Not_involved	"WBbt:0007810"	Sufficient_remark	"Early array loss at AB leads to no rescue in animals."
-Not_involved	"WBbt:0007810"	Insufficient
-Not_involved	"WBbt:0007810"	Remark	"An extrachromosomal array was created that contains the rescuing C17D12 cosmid and two GFP reporters that mark the neuronal and muscle lineages."
-Not_involved	"WBbt:0007810"	Remark
 Reference	"WBPaper00006029"
 
 
@@ -3640,10 +3508,6 @@ Assay	"Genetic_mosaic"
 Phenotype	"WBPhenotype:0000643"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050879(multicellular organismal movement) QUALITY:PATO:0001860(decreased coordination)"
 Phenotype	"WBPhenotype:0000643"	Remark
 Gene	"WBGene00006807"	Published_as	"unc-75"
-Involved	"WBbt:0003679"	Sufficient_remark	"animals showing losses at P1 were still rescued."
-Involved	"WBbt:0003679"	Sufficient
-Involved	"WBbt:0003679"	Remark	"An extrachromosomal array was created that contains the rescuing C17D12 cosmid and two GFP reporters that mark the neuronal and muscle lineages."
-Involved	"WBbt:0003679"	Remark
 Not_involved	"WBbt:0007810"	Necessary_remark	"animals showing losses at P1 were still rescued."
 Not_involved	"WBbt:0007810"	Unnecessary
 Not_involved	"WBbt:0007810"	Remark	"An extrachromosomal array was created that contains the rescuing C17D12 cosmid and two GFP reporters that mark the neuronal and muscle lineages."
@@ -3972,12 +3836,6 @@ Phenotype	"WBPhenotype:0000195"	Remark
 Gene	"WBGene00003254"	Published_as	"mig-23"
 Involved	"WBbt:0003810"	Necessary_remark	"genetic mosaic analysis revealed that MIG-23 is required in the C lineage and NOT required in the AB, EMS and P3 lineages."
 Involved	"WBbt:0003810"	Necessary
-Not_involved	"WBbt:0006876"	Sufficient_remark	"genetic mosaic analysis revealed that MIG-23 is required in the C lineage and NOT required in the AB, EMS and P3 lineages."
-Not_involved	"WBbt:0006876"	Insufficient
-Not_involved	"WBbt:0004015"	Sufficient_remark	"genetic mosaic analysis revealed that MIG-23 is required in the C lineage and NOT required in the AB, EMS and P3 lineages."
-Not_involved	"WBbt:0004015"	Insufficient
-Not_involved	"WBbt:0006875"	Sufficient_remark	"genetic mosaic analysis revealed that MIG-23 is required in the C lineage and NOT required in the AB, EMS and P3 lineages."
-Not_involved	"WBbt:0006875"	Insufficient
 Reference	"WBPaper00006309"
 
 Condition : WBPaper00006309_1
@@ -4384,8 +4242,6 @@ Phenotype	"WBPhenotype:0000565"	Remark
 Gene	"WBGene00006845"	Published_as	"unc-122"
 Involved	"WBbt:0006804"	Necessary_remark	"mosaic animals in which AB cell descendants retained the unc-122-rescuing transgene but not P cell descendants showed coiling mutant phenotype, indicating that loss of unc-122 in muscle cell lineages affects locomotory behavior."
 Involved	"WBbt:0006804"	Necessary
-Not_involved	"WBbt:0003679"	Sufficient_remark	"mosaic animals in which AB cell descendants retained the unc-122-rescuing transgene but not P cell descendants showed coiling mutant phenotype, indicating that loss of unc-122 in muscle cell lineages affects locomotory behavior."
-Not_involved	"WBbt:0003679"	Insufficient
 Reference	"WBPaper00006427"
 
 Condition : WBPaper00006427_2
@@ -4403,8 +4259,6 @@ Phenotype	"WBPhenotype:0000565"	Remark
 Gene	"WBGene00006845"	Published_as	"unc-122"
 Involved	"WBbt:0006804"	Sufficient_remark	"mosaic animals in which P cell descendants retained the unc-122-rescuing transgene but not AB cell descendants showed rescue of the coiling mutant phenotype, indicating that loss of unc-122 in neuronal lineages has no impact on locomotory behavior."
 Involved	"WBbt:0006804"	Sufficient
-Not_involved	"WBbt:0003679"	Necessary_remark	"mosaic animals in which P cell descendants retained the unc-122-rescuing transgene but not AB cell descendants showed rescue of the coiling mutant phenotype, indicating that loss of unc-122 in neuronal lineages has no impact on locomotory behavior."
-Not_involved	"WBbt:0003679"	Unnecessary
 Reference	"WBPaper00006427"
 
 Condition : WBPaper00006427_2
@@ -4709,8 +4563,6 @@ Phenotype	"WBPhenotype:0000012"	Remark
 Gene	"WBGene00000905"	Published_as	"daf-9"
 Involved	"WBbt:0007846"	Sufficient_remark	"Mosaics arise spontaneously from transgenic lines of daf-9(dh6) containing extrachromosamal array of genomic daf-9::gfp (dhEx66). Mosaics expressing daf-9 in the hypodermis (but not XXX cells) bypassed diapause, had normal gonadal development and were fertile."
 Involved	"WBbt:0007846"	Sufficient
-Not_involved	"WBbt:0007855"	Necessary_remark	"Mosaics arise spontaneously from transgenic lines of daf-9(dh6) containing extrachromosamal array of genomic daf-9::gfp (dhEx66). Mosaics expressing daf-9 in the hypodermis (but not XXX cells) bypassed diapause, had normal gonadal development and were fertile."
-Not_involved	"WBbt:0007855"	Unnecessary
 Reference	"WBPaper00013396"
 
 Condition : WBPaper00013396_1
@@ -5049,8 +4901,6 @@ Phenotype	"WBPhenotype:0001010"	Remark
 Gene	"WBGene00003401"	Published_as	"mpk-1"
 Involved	"WBbt:0006874"	Sufficient_remark	"Mosaic animals with sDp3 losses in AB descendants when shifted to the restrictive temperature displayed the Clr phenotype, suggesting that loss of mpk-1 activity in the AB lineage is not sufficient to suppress the Clr phenotype. Therefore, mpk-1(+) activity within P1 descendants can function to prevent the Soc phenotype."
 Involved	"WBbt:0006874"	Sufficient
-Not_involved	"WBbt:0004015"	Necessary_remark	"Mosaic animals with sDp3 losses in AB descendants when shifted to the restrictive temperature displayed the Clr phenotype, suggesting that loss of mpk-1 activity in the AB lineage is not sufficient to suppress the Clr phenotype. Therefore, mpk-1(+) activity within P1 descendants can function to prevent the Soc phenotype."
-Not_involved	"WBbt:0004015"	Unnecessary
 Reference	"WBPaper00024207"
 
 Condition : WBPaper00024207_7
@@ -5066,8 +4916,6 @@ Phenotype	"WBPhenotype:0001010"	Remark
 Gene	"WBGene00003401"	Published_as	"mpk-1"
 Involved	"WBbt:0004015"	Sufficient_remark	"Mosaic animals with sDp3 losses in P1 descendants when shifted to the restrictive temperature displayed the Clr phenotype, suggesting that loss of mpk-1 activity in the P1 lineage is also not sufficient to suppress the Clr phenotype. Therefore, mpk-1(+) activity within the AB lineage can function to prevent the Soc phenotype."
 Involved	"WBbt:0004015"	Sufficient
-Not_involved	"WBbt:0006874"	Necessary_remark	"Mosaic animals with sDp3 losses in P1 descendants when shifted to the restrictive temperature displayed the Clr phenotype, suggesting that loss of mpk-1 activity in the P1 lineage is also not sufficient to suppress the Clr phenotype. Therefore, mpk-1(+) activity within the AB lineage can function to prevent the Soc phenotype."
-Not_involved	"WBbt:0006874"	Unnecessary
 Reference	"WBPaper00024207"
 
 Condition : WBPaper00024207_7
@@ -5080,12 +4928,8 @@ Assay	"Genetic_mosaic"	"WBPaper00024207_8"
 Phenotype	"WBPhenotype:0000054"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva)|GO:0040007(growth) QUALITY:PATO:0000297(arrested) NOT"
 Phenotype	"WBPhenotype:0000054"	Remark
 Gene	"WBGene00002881"	Published_as	"let-756"
-Involved	"WBbt:0006874"	Sufficient_remark	"We first screened dpy-17 let-756 ncl-1 unc-36; sDp3 animals for either Unc non-Dpy or Dpy non-Unc mosaic animals. Unc non-Dpy animals were identified as expected, and the vast majority of these animals had losses in either AB, AB.p, or"
+Involved	"WBbt:0006874"	Sufficient_remark	"We first screened dpy-17 let-756 ncl-1 unc-36; sDp3 animals for either Unc non-Dpy or Dpy non-Unc mosaic animals. Unc non-Dpy animals were identified as expected, and the vast majority of these animals had losses in either AB, AB.p, or descendants in the AB.p lineage. Besides being Unc, these mosaic animals were completely wild type, suggesting that lack of let-756(+) expression in the AB lineage is not essential for viability."
 Involved	"WBbt:0006874"	Sufficient
-Involved	"WBbt:0006874"	Sufficient_remark	"descendants in the AB.p lineage. Besides being Unc, these mosaic animals were completely wild type, suggesting that lack of let-756(+) expression in the AB lineage is not essential for viability."
-Involved	"WBbt:0006874"	Sufficient
-Not_involved	"WBbt:0004015"	Necessary_remark	"descendants in the AB.p lineage. Besides being Unc, these mosaic animals were completely wild type, suggesting that lack of let-756(+) expression in the AB lineage is not essential for viability."
-Not_involved	"WBbt:0004015"	Unnecessary
 Reference	"WBPaper00024207"
 
 Condition : WBPaper00024207_8
@@ -5102,8 +4946,6 @@ Phenotype	"WBPhenotype:0000054"	Remark
 Gene	"WBGene00002881"	Published_as	"let-756"
 Involved	"WBbt:0006874"	Necessary_remark	"We screened dpy-17 let-756 ncl-1 unc-36; sDp3 animals for mosaic animals. Dpy non-Unc animals were extremely rare, and the few Dpy non-Unc animals identified turned out to result from the breakdown of the free duplication. This striking finding suggests that the cellular focus of let-756 is not easily separable from that of dpy-17. DPY-17 is thought to be required in the P1 lineage."
 Involved	"WBbt:0006874"	Necessary
-Not_involved	"WBbt:0004015"	Sufficient_remark	"We screened dpy-17 let-756 ncl-1 unc-36; sDp3 animals for mosaic animals. Dpy non-Unc animals were extremely rare, and the few Dpy non-Unc animals identified turned out to result from the breakdown of the free duplication. This striking finding suggests that the cellular focus of let-756 is not easily separable from that of dpy-17. DPY-17 is thought to be required in the P1 lineage."
-Not_involved	"WBbt:0004015"	Insufficient
 Reference	"WBPaper00024207"
 
 Condition : WBPaper00024207_8
@@ -5446,8 +5288,6 @@ Phenotype	"WBPhenotype:0000102"	Remark
 Gene	"WBGene00001499"	Published_as	"fsn-1"
 Involved	"WBbt:0004015"	Sufficient_remark	"Eight out of eight mosaic animals expressing FSN-1(+) only in the AB lineage (not in P1 lineage) were wild-type for juIs1 synaptic marker."
 Involved	"WBbt:0004015"	Sufficient
-Not_involved	"WBbt:0006874"	Necessary_remark	"Eight out of eight mosaic animals expressing FSN-1(+) only in the AB lineage (not in P1 lineage) were wild-type for juIs1 synaptic marker."
-Not_involved	"WBbt:0006874"	Unnecessary
 Reference	"WBPaper00024212"
 
 Condition : WBPaper00024212_3
@@ -5463,8 +5303,6 @@ Phenotype	"WBPhenotype:0000102"	Remark
 Gene	"WBGene00001499"	Published_as	"fsn-1"
 Involved	"WBbt:0004015"	Necessary_remark	"All twelve animals that express FSN-1(+) only in the P1 lineage (not in AB lineage) displayed fsn-1-like juIs1 defects."
 Involved	"WBbt:0004015"	Necessary
-Not_involved	"WBbt:0006874"	Sufficient_remark	"All twelve animals that express FSN-1(+) only in the P1 lineage (not in AB lineage) displayed fsn-1-like juIs1 defects."
-Not_involved	"WBbt:0006874"	Insufficient
 Reference	"WBPaper00024212"
 
 Condition : WBPaper00024212_3
@@ -6295,15 +6133,8 @@ Assay	"Genetic_mosaic"	"WBPaper00037977_2"
 Phenotype	"WBPhenotype:0000633"	Remark	"ENTITY:WBbt:0006831(PVD)|(tertiary)|GO:0044307(dendritic branch)|GO:0048856(anatomical structure development) QUALITY:PATO:0000584(hypertrophy) NOT"
 Phenotype	"WBPhenotype:0000633"	Remark
 Gene	"WBGene00016611"	Published_as	"bicd-1"
+Involved	"WBbt:0005994"	Sufficient_remark	"genetic mosaic analyses revealed that animals that retained wild-type bicd-1 in the AB.p lineage (which gives rise to the PVD neurons) but not the P1 lineage (which gives rise to 94 out of 95 body wall muscles) exhibited partial rescue of the enhanced-branching bicd-1(ok2731) mutant phenotype."
 Involved	"WBbt:0005994"	Sufficient
-Involved	"WBbt:0005994"	Necessary_remark	""
-Involved	"WBbt:0005994"	Necessary
-Involved	"WBbt:0005994"	Remark	"genetic mosaic analyses revealed that animals that retained wild-type bicd-1 in the AB.p lineage (which gives rise to the PVD neurons) but not the P1 lineage (which gives rise to 94 out of 95 body wall muscles) exhibited partial rescue of the enhanced-branching bicd-1(ok2731) mutant phenotype."
-Involved	"WBbt:0005994"	Remark
-Not_involved	"WBbt:0006874"	Insufficient
-Not_involved	"WBbt:0006874"	Unnecessary
-Not_involved	"WBbt:0006874"	Remark	"genetic mosaic analyses revealed that animals that retained wild-type bicd-1 in the AB.p lineage (which gives rise to the PVD neurons) but not the P1 lineage (which gives rise to 94 out of 95 body wall muscles) exhibited partial rescue of the enhanced-branching bicd-1(ok2731) mutant phenotype."
-Not_involved	"WBbt:0006874"	Remark
 Reference	"WBPaper00037977"
 
 Condition : WBPaper00037977_2
@@ -6469,8 +6300,6 @@ Involved	"WBbt:0005785"	Necessary_remark	"We next examined the phenotype of egrh
 Involved	"WBbt:0005785"	Necessary
 Involved	"WBbt:0005792"	Necessary_remark	"We next examined the phenotype of egrh-1(tm1736) animals that were mosaic for a rescuing transgene. We generated the strain egrh-1(tm1736); cuEx531 containing the egrh-1(+) cosmid C27C12 and the cell autonomous marker for somatic cells sur-5::gfp. We first identified animals that specifically lost this transgene in the EMS blastomere, which is the precursor of the somatic gonad and gut but not the germline, and 95% of these animals exhibited abnormal and distal oocytes. Thus, egrh-1 function is required in somatic tissues derived from EMS. We next identified mosaic animals that lost the transgene only in MS or E, the descendants of EMS that give rise to the somatic gonad or gut, respectively. Loss in either MS or E resulted in the egrh-1 phenotype, strongly suggesting that egrh-1 function is required in both the somatic gonad and the gut for normal oocyte development."
 Involved	"WBbt:0005792"	Necessary
-Not_involved	"WBbt:0005784"	Necessary_remark	"Although we were not able to find any animals that lost the transgene only in the germline precursor P2, we did find one animal that lost the transgene in P2 but had a second loss later in the E lineage. This animal exhibited a wild-type phenotype, suggesting that egrh-1 function is not required in the germline."
-Not_involved	"WBbt:0005784"	Unnecessary
 Reference	"WBPaper00037082"
 
 Condition : WBPaper00037082_2
@@ -8151,8 +7980,6 @@ Phenotype	"WBPhenotype:0001661"	Remark
 Gene	"WBGene00003822"	Published_as	"nsy-1"
 Involved	"WBbt:0005672"	Necessary_remark	"Because the odr-3 promoter is reproducibly expressed in both AWC and AWB neurons, it is possible that nsy-1 expression in AWB rescues AWC cell fate. To rule out this possibility, we examined mosaic animals that expressed odr-3::NSY-1 in the AWB neurons but not the AWC neurons. Mosaic animals arose through the random loss of extrachromosomal arrays containing both odr-3::NSY-1 and the marker odr-1::RFP in a nsy-1 mutant background. str-2::GFP asymmetry was rescued when the arrays were present in AWC neurons, but not when they were present only in AWB neurons."
 Involved	"WBbt:0005672"	Necessary
-Not_involved	"WBbt:0005671"	Sufficient_remark	"Because the odr-3 promoter is reproducibly expressed in both AWC and AWB neurons, it is possible that nsy-1 expression in AWB rescues AWC cell fate. To rule out this possibility, we examined mosaic animals that expressed odr-3::NSY-1 in the AWB neurons but not the AWC neurons. Mosaic animals arose through the random loss of extrachromosomal arrays containing both odr-3::NSY-1 and the marker odr-1::RFP in a nsy-1 mutant background. str-2::GFP asymmetry was rescued when the arrays were present in AWC neurons, but not when they were present only in AWB neurons."
-Not_involved	"WBbt:0005671"	Insufficient
 Reference	"WBPaper00004669"
 
 Condition : WBPaper00004669_3
@@ -8170,8 +7997,6 @@ Phenotype	"WBPhenotype:0001661"	Remark
 Gene	"WBGene00006779"	Published_as	"unc-43"
 Involved	"WBbt:0005672"	Necessary_remark	"Because the odr-3 promoter is reproducibly expressed in both AWC and AWB neurons, it is possible that unc-43 expression in AWB rescues AWC cell fate. To rule out this possibility, we examined mosaic animals that expressed odr-3::UNC-43 in the AWB neurons but not the AWC neurons. Mosaic animals arose through the random loss of extrachromosomal arrays containing both odr-3::UNC-43 and the marker odr-1::RFP in a unc-43 mutant background. str-2::GFP asymmetry was rescued when the arrays were present in AWC neurons, but not when they were present only in AWB neurons."
 Involved	"WBbt:0005672"	Necessary
-Not_involved	"WBbt:0005671"	Sufficient_remark	"Because the odr-3 promoter is reproducibly expressed in both AWC and AWB neurons, it is possible that unc-43 expression in AWB rescues AWC cell fate. To rule out this possibility, we examined mosaic animals that expressed odr-3::UNC-43 in the AWB neurons but not the AWC neurons. Mosaic animals arose through the random loss of extrachromosomal arrays containing both odr-3::UNC-43 and the marker odr-1::RFP in a unc-43 mutant background. str-2::GFP asymmetry was rescued when the arrays were present in AWC neurons, but not when they were present only in AWB neurons."
-Not_involved	"WBbt:0005671"	Insufficient
 Reference	"WBPaper00004669"
 
 Condition : WBPaper00004669_4
@@ -10072,8 +9897,9 @@ Phenotype	"WBPhenotype:0001038"	Remark	"ENTITY:WBbt:0005784(germ line)|GO:000828
 Phenotype	"WBPhenotype:0001038"	Remark
 Phenotype	"WBPhenotype:0001038"	Remark	"QUALITY:PATO:0001997(reduced)"
 Phenotype	"WBPhenotype:0001038"	Remark
-Not_involved	"WBbt:0007815"	Sufficient_remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant. Although we did not recover animals with speci&#64257;c loss of the ugEx27 array in the germ line, gonads with robust somatic gonad KIN-10 expression, but very limited expression in the germ line, maintain over-proliferation in regions where KIN-10 expression is low or absent."
-Not_involved	"WBbt:0007815"	Insufficient
+Gene	"WBGene00002196"	Published_as	"kin-10"
+Involved	"WBbt:0005784"	Sufficient_remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant."
+Involved	"WBbt:0005784"	Sufficient
 Reference	"WBPaper00045273"
 
 Condition : WBPaper00045273_1
@@ -10715,12 +10541,10 @@ Assay	"Expression_mosaic"	"WBPaper00044613_2"
 Phenotype	"WBPhenotype:0000113"	Autonomous
 Phenotype	"WBPhenotype:0000113"	Remark	"ENTITY:WBbt:0005304(VC neuron)|WBGene00006744(unc-4)|GO:0016458(gene silencing)"
 Phenotype	"WBPhenotype:0000113"	Remark
-Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
+Phenotype	"WBPhenotype:0000113"	Remark	"QUALITY:PATO:0002052(deceased occurrence) NOT"
 Phenotype	"WBPhenotype:0000113"	Remark
 Gene	"WBGene00004095"	Published_as	"pqe-1"
-Involved	"WBbt:0005304"	Sufficient_remark	"Mutation of pqe-1 results in ectopic unc-4 promoter expression in all six VC neurons. Since expression of the pqe-1a isoform from the VC-expressed promoter lin-11p::pes-10p, which contains a 500 bp lin-11 enhancer and a pes-10 basal promoter, prevented the ectopic unc-4 expression, PQE-1 acts cell-autonomously and does not require the exonuclease domain. Because lin-11p::pes-10p is also expressed in secondary vulval cells, uterine pi cell progeny, and the spermatheca, we repeated the rescue experiments by expressing pqe-1a(+) from the"
-Involved	"WBbt:0005304"	Sufficient
-Involved	"WBbt:0005304"	Sufficient_remark	"ida-1 promoter, which is expressed in many neurons but only overlaps with the expression pattern of lin-11p::pes-10p in the VC cells. We obtained similar result."
+Involved	"WBbt:0005304"	Sufficient_remark	"Mutation of pqe-1 results in ectopic unc-4 promoter expression in all six VC neurons. Since expression of the pqe-1a isoform from the VC-expressed promoter lin-11p::pes-10p, which contains a 500 bp lin-11 enhancer and a pes-10 basal promoter, prevented the ectopic unc-4 expression, PQE-1 acts cell-autonomously and does not require the exonuclease domain. Because lin-11p::pes-10p is also expressed in secondary vulval cells, uterine pi cell progeny, and the spermatheca, we repeated the rescue experiments by expressing pqe-1a(+) from the ida-1 promoter, which is expressed in many neurons but only overlaps with the expression pattern of lin-11p::pes-10p in the VC cells. We obtained similar result."
 Involved	"WBbt:0005304"	Sufficient
 Reference	"WBPaper00044613"
 
@@ -10871,9 +10695,7 @@ Phenotype	"WBPhenotype:0000113"	Remark
 Phenotype	"WBPhenotype:0000113"	Remark	"QUALIFY:PATO:0002052(deceased occurrence) NOT"
 Phenotype	"WBPhenotype:0000113"	Remark
 Gene	"WBGene00003000"	Published_as	"lin-11"
-Involved	"WBbt:0005304"	Sufficient_remark	"Mutation of lin-11, which encodes a LIM homeodomain protein, eliminated uIs45"
-Involved	"WBbt:0005304"	Sufficient
-Involved	"WBbt:0005304"	Sufficient_remark	"expression in VC4 and VC5. Expression of lin-11(+) using lin-11p::pes-10p, which is active in VC neurons but transiently expressed in the developing vulval cells, mainly the vulC and vulD cells but not the vulF cells, produced a normal unc-4 expression pattern in lin-11 mutants. We obtained a similar rescue using the ida-1 promoter, which is expressed in many neurons, including the VC neurons, but not vulval cells."
+Involved	"WBbt:0005304"	Sufficient_remark	"Mutation of lin-11, which encodes a LIM homeodomain protein, eliminated uIs45 expression in VC4 and VC5. Expression of lin-11(+) using lin-11p::pes-10p, which is active in VC neurons but transiently expressed in the developing vulval cells, mainly the vulC and vulD cells but not the vulF cells, produced a normal unc-4 expression pattern in lin-11 mutants. We obtained a similar rescue using the ida-1 promoter, which is expressed in many neurons, including the VC neurons, but not vulval cells."
 Involved	"WBbt:0005304"	Sufficient
 Reference	"WBPaper00044613"
 
@@ -11139,8 +10961,6 @@ Phenotype	"WBPhenotype:0000625"	Remark
 Gene	"WBGene00004047"	Published_as	"plx-1"
 Involved	"WBbt:0004857"	Sufficient_remark	"We used a truncated unc-4 promoter (unc-4c) for expression the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in plx-1 mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::plx-1 transgene to clarify in which DA neurons PLX-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the plx-1 mutant phenotype, suggesting that PLX-1 is required in DA9. Consistent with these observations, PLX-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the plx-1 phenotype."
 Involved	"WBbt:0004857"	Sufficient
-Not_involved	"WBbt:0004858"	Necessary_remark	"We used a truncated unc-4 promoter (unc-4c) for expression the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in plx-1 mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::plx-1 transgene to clarify in which DA neurons PLX-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the plx-1 mutant phenotype, suggesting that PLX-1 is required in DA9. Consistent with these observations, PLX-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the plx-1 phenotype."
-Not_involved	"WBbt:0004858"	Unnecessary
 Reference	"WBPaper00042107"
 
 Condition : WBPaper00042107_4
@@ -11243,8 +11063,6 @@ Phenotype	"WBPhenotype:0000625"	Remark
 Gene	"WBGene00004889"	Published_as	"smp-1"
 Involved	"WBbt:0004857"	Sufficient_remark	"We used a truncated unc-4 promoter (unc-4c) for expression the smp-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in smp-1;smp-2 double mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::smp-1 transgene to clarify in which DA neurons SMP-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the mutant phenotype, suggesting that SMP-1 is required in DA9. Consistent with these observations, SMP-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the smp-1; smp-2 phenotype."
 Involved	"WBbt:0004857"	Sufficient
-Not_involved	"WBbt:0004858"	Necessary_remark	"We used a truncated unc-4 promoter (unc-4c) for expression the smp-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in smp-1;smp-2 double mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::smp-1 transgene to clarify in which DA neurons SMP-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the mutant phenotype, suggesting that SMP-1 is required in DA9. Consistent with these observations, SMP-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the smp-1; smp-2 phenotype."
-Not_involved	"WBbt:0004858"	Unnecessary
 Reference	"WBPaper00042107"
 
 Condition : WBPaper00042107_9
@@ -11740,10 +11558,6 @@ Involved	"WBbt:0005828"	Sufficient_remark	"We conducted genetic mosaic analysis 
 Involved	"WBbt:0005828"	Sufficient
 Involved	"WBbt:0005828"	Necessary_remark	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
 Involved	"WBbt:0005828"	Necessary
-Not_involved	"WBbt:0007816"	Sufficient_remark	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
-Not_involved	"WBbt:0007816"	Insufficient
-Not_involved	"WBbt:0007816"	Necessary_remark	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
-Not_involved	"WBbt:0007816"	Unnecessary
 Reference	"WBPaper00041364"
 
 Condition : WBPaper00041364_1
@@ -15045,8 +14859,6 @@ Phenotype	"WBPhenotype:0001048"	Remark	"QUALITY:PATO:0001997(decrease amount)"
 Phenotype	"WBPhenotype:0001048"	Remark
 Involved	"WBbt:0005670"	Necessary_remark	"Because we observed that ablation of AWA altered the response to diacetyl, we also tested the effect of AWA ablation on the calcium responses induced by a high concentration (10**(-3) of diacetyl in ASH neurons and found that ablation of AWA neurons enhanced the calcium response of ASH neurons, indicating that AWA maybe involved in an inhibitory circuit with ASH."
 Involved	"WBbt:0005670"	Necessary
-Not_involved	"WBbt:0005836"	Necessary_remark	"In contrast, with the exception of AIY, attraction to low concentrations (1,000X dilution) of diacetyl was unaffected by inhibition of these interneurons (AIA, AIB, AIY or AIZ)."
-Not_involved	"WBbt:0005836"	Unnecessary
 Reference	"WBPaper00045214"
 
 Condition : WBPaper00045214_10
@@ -16324,5 +16136,1050 @@ Phenotype	"WBPhenotype:0000399"	Remark
 Involved	"WBbt:0005208"	Necessary_remark	"In end-1 end-3 mutant embryos, the endodermal cell lineage is transformed to adopt epidermal- and muscle-like cell fates. In the end-1 end-3 embryos in which the PGCs failed to ingress, the SGPs extended short dynamic projections in various directions but did not migrate to the external PGCs nor wrap around any other cell. In the end-1 end-3 embryos in which one or both PGCs had ingressed, the SGPs always extended projections around the PGCs they contacted, but these projections were often shorter and thicker than in wild type. ... We conclude that endoderm is not required for SGPs to migrate posteriorly, extend projections, or wrap around the PGCs. However, endoderm is required for the normal morphology of the SGP projections, for SGPs to reach their regular final position just posterior to the PGCs, and to prevent SGPs from shifting medially and contacting the contralateral SGP and/or PGC."
 Involved	"WBbt:0005208"	Necessary
 Reference	"WBPaper00042220"
+
+
+Anatomy_function : "WBbtf1005"
+Assay	"Genetic_mosaic"	"WBPaper00001254_2"
+Phenotype	"WBPhenotype:0000184"	Autonomous
+Gene	"WBGene00000417"	Published_as	"ced-3"
+Involved	"WBbt:0006925"	Sufficient_remark	"Five obviously mosaic animals are described in categories 1 and 2 of Table 2. The category 1 mosaics are semi-Dpy and Unc. These animals were found to have cell death survivors only among cells generated from the ABp lineage. The category 2 mosaic, with an apparent ABa loss, was semiDpy and non-Unc (although this animal moved more slowly than does a wild-type animal). These results again indicate that ced-3 is cell autonomous and reveal that unc-26, like unc-30, acts in the ABp lineage."
+Involved	"WBbt:0006925"	Sufficient
+Involved	"WBbt:0006925"	Necessary
+Reference	"WBPaper00001254"
+
+Condition : WBPaper00001254_2
+Genotype "ced-3(n717) unc-26(e205) dpy-4(e1166); nDp3(IV,V;f)"
+Reference WBPaper00001254
+Remark "Strain used for ced-3 mosaic analysis"
+
+
+
+Anatomy_function : "WBbtf1006"
+Assay	"Laser_ablation"	"WBPaper00005760_1"
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0004758(HSNL)|GO:0008021(synaptic vesicle)|GO:0051179(localization) QUALITY:PATO:0000461(normal)"
+Phenotype	"WBPhenotype:0000102"	Remark
+Not_involved	"WBbt:0005821"	Necessary_remark	"The two postsynaptic targets of HSNL were eliminated during the L1 stage by killing the M cell, the precursor to all vulval muscles, in lin-39(n709ts) mutant animals, in which the VC neurons undergo programmed cell death in the L1 stage, the position and intensity of HSNL SNB-1-labeled synaptic vesicles were indistinguishable from those of wild-type animals."
+Not_involved	"WBbt:0005821"	Unnecessary
+Not_involved	"WBbt:0005304"	Necessary_remark	"The two postsynaptic targets of HSNL were eliminated during the L1 stage by killing the M cell, the precursor to all vulval muscles, in lin-39(n709ts) mutant animals, in which the VC neurons undergo programmed cell death in the L1 stage, the position and intensity of HSNL SNB-1-labeled synaptic vesicles were indistinguishable from those of wild-type animals."
+Not_involved	"WBbt:0005304"	Unnecessary
+Reference	"WBPaper00005760"
+
+Condition : WBPaper00005760_1
+Genotype "kyIs235(unc-86::snb-1::yfp);lin-39(n709ts)"
+Reference WBPaper00005760
+
+
+
+Anatomy_function : "WBbtf1007"
+Assay	"Expression_mosaic"	"WBPaper00056443_1"
+Phenotype	"WBPhenotype:0001837"
+Gene	"WBGene00004758"	Published_as	"sek-1"
+Involved	"WBbt:0005772"	Sufficient_remark	"DR longevity was fully rescued by expression of SEK-1 from its own promoter (Figure S1K), and was rescued by intestinal SEK-1 partially (Figure 1J) but less robustly than pathogen resistance (Shivers et al., 2009)."
+Involved	"WBbt:0005772"	Sufficient
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056443"
+
+Condition : WBPaper00056443_1
+Genotype "sek-1(km4);qdEx4[ges-1p::sek-1(cDNA)::GFP::unc-54-3 0 UTR + myo-2p::mStrawberry::unc-54-3 0 UTR]"
+Reference WBPaper00056443
+
+
+
+
+Anatomy_function : "WBbtf1008"
+Assay	"Expression_mosaic"	"WBPaper00056328_8"
+Phenotype	"WBPhenotype:0001234"
+Gene	"WBGene00000897"	Published_as	"daf-1"
+Not_involved	"WBbt:0005759"	Sufficient_remark	"Expressing either the genomic DNA fragment of daf-1 or the daf-1 cDNA selectively in the interneurons RIM and RIC (Pdaf-1::daf-1 or pRIM/RIC::daf-1; [70, 72]) fully rescued the defect in the daf-1(m40) mutant animals (Fig 4B and 4C), while expressing daf-1 in sensory neurons (Pbbs-1::daf-1 or Posm-6::daf-1; [70]) was not sufficient to rescue (Figs 4D and S3)."
+Not_involved	"WBbt:0005759"	Insufficient
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_8
+Genotype "daf-1(m40)IV; ftEx70[Pbbs-1::daf-1::gfp; Podr-1::dsRed]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1009"
+Assay	"Expression_mosaic"	"WBPaper00056443_2"
+Phenotype	"WBPhenotype:0001837"
+Gene	"WBGene00004758"	Published_as	"sek-1"
+Involved	"WBbt:0003679"	Sufficient_remark	"DR longevity was also partially rescued by neuronal SEK-1 (Figures 1K and 1L), although the pathogen avoidance response itself was not essential (Figure 1I)."
+Involved	"WBbt:0003679"	Sufficient
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056443"
+
+Condition : WBPaper00056443_2
+Genotype "sek-1(km4);qdEx8[unc-119p::sek-1(cDNA)::GFP::unc-54-3 0 UTR + myo-2p::mStrawberry::unc-54-3 0 UTR]"
+Reference WBPaper00056443
+
+
+
+Anatomy_function : "WBbtf1010"
+Assay	"Expression_mosaic"	"WBPaper00056328_9"
+Phenotype	"WBPhenotype:0001234"
+Gene	"WBGene00000897"	Published_as	"daf-1"
+Not_involved	"WBbt:0005759"	Sufficient_remark	"Expressing either the genomic DNA fragment of daf-1 or the daf-1 cDNA selectively in the interneurons RIM and RIC (Pdaf-1::daf-1 or pRIM/RIC::daf-1; [70, 72]) fully rescued the defect in the daf-1(m40) mutant animals (Fig 4B and 4C), while expressing daf-1 in sensory neurons (Pbbs-1::daf-1 or Posm-6::daf-1; [70]) was not sufficient to rescue (Figs 4D and S3)."
+Not_involved	"WBbt:0005759"	Insufficient
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_9
+Genotype "daf-1(m40)IV;ftEx83[osm-6p::daf-1]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1011"
+Assay	"Expression_mosaic"	"WBPaper00056443_3"
+Phenotype	"WBPhenotype:0002241"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0005772"	Sufficient_remark	"The reduction in food consumption induced by rIIS was rescued slightly by neuronal DAF-16 expression, but intestinal DAF-16 provided a more robust rescue (Figure 6B)."
+Involved	"WBbt:0005772"	Sufficient
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056443"
+
+Condition : WBPaper00056443_3
+Genotype " daf-16(mu86); daf-2(e1370); muIs142[ges-1p::GFP::daf-16 + odr-1p::RFP"
+Genotype "daf-16(mu86);daf-2(e1370);muIs120[ges-1p::GFP::daf-16+rol-6(su1006)]"
+Reference WBPaper00056443
+
+
+
+Anatomy_function : "WBbtf1012"
+Assay	"Expression_mosaic"	"WBPaper00056443_4"
+Phenotype	"WBPhenotype:0002241"
+Gene	"WBGene00000912"	Published_as	"daf-16"
+Involved	"WBbt:0003679"	Sufficient_remark	"The reduction in food consumption induced by rIIS was rescued slightly by neuronal DAF-16 expression, but intestinal DAF-16 provided a more robust rescue (Figure 6B)"
+Involved	"WBbt:0003679"	Sufficient
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056443"
+
+Condition : WBPaper00056443_4
+Genotype " daf-16(mu86); daf-2(e1370); muIs131[unc-119p::GFP::daf-16 + rol-6(su1006)]"
+Reference WBPaper00056443
+
+
+
+Anatomy_function : "WBbtf1013"
+Assay	"Genetic_ablation"	"WBPaper00056328_1"
+Phenotype	"WBPhenotype:0001234"
+Involved	"WBbt:0005671"	Necessary_remark	"Consistently, we found that the transgenic animals that selectively expressed a hyperactive form of an amiloride-sensitive sodium channel MEC-4 that generated necrosis of AWB [42, 46] did not leave the OP50 lawn when 2-nonanone was present (Fig 2A) and that many of the worms remained diffusely distributed on the food lawn by the end of the assay."
+Involved	"WBbt:0005671"	Necessary
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_1
+Genotype "kyIs102V;kyIs104[Pstr-1::mec-4(d);Pstr-1::gfp]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1014"
+Assay	"Genetic_ablation"	"WBPaper00056328_1"
+Phenotype	"WBPhenotype:0001234"
+Involved	"WBbt:0005671"	Necessary_remark	"These transgenic animals were defective in avoiding 2-nonanone in the standard chemotaxis assay (Table 1 and S1 Fig), consistent with previous findings [42]."
+Involved	"WBbt:0005671"	Necessary
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_1
+Genotype "kyIs102V;kyIs104[Pstr-1::mec-4(d);Pstr-1::gfp]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1015"
+Assay	"Genetic_ablation"	"WBPaper00056328_2"
+Phenotype	"WBPhenotype:0002545"
+Involved	"WBbt:0005668"	Necessary_remark	"The transgenic animals that contained genetically-killed ASK left the OP50 lawn significantly faster than wild type (Fig 2B-2D and Table 4)."
+Involved	"WBbt:0005668"	Necessary
+Involved	"WBbt:0005668"	Remark	"We also transgenic animals selectively express a cell-death inducing caspase, or twk-18(gf) that encodes a constitutively active form of the potassium channel TWK-18 [57], or tetanus toxin that eliminates the synaptic release [58] in the ASI, AWC, ASJ, ADL, or ASK neurons [48, 54, 59-63]."
+Involved	"WBbt:0005668"	Remark
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_2
+Genotype "qrIs2[Psra-9::mCasp1; Psra-9::gfp; Pelt-2::gfp]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1016"
+Assay	"Genetic_ablation"	"WBPaper00056328_3"
+Phenotype	"WBPhenotype:0002545"
+Involved	"WBbt:0005666"	Necessary_remark	"The transgenic animals that contained genetically-killed ASI or expressed the tetanus toxin in ADL left the OP50 lawn significantly more slowly than wild type (Fig 2B-2D and Table 4)."
+Involved	"WBbt:0005666"	Necessary
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_3
+Genotype "oyls84[Pgpa-4::TU813; Pgcy-27::TU814; Pgcy-27::gfp; Punc-122::dsRed]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1017"
+Assay	"Genetic_ablation"	"WBPaper00056328_4"
+Phenotype	"WBPhenotype:0002545"
+Involved	"WBbt:0005661"	Necessary_remark	"The transgenic animals that contained genetically-killed ASI or expressed the tetanus toxin in ADL left the OP50 lawn significantly more slowly than wild type (Fig 2B-2D and Table 4)."
+Involved	"WBbt:0005661"	Necessary
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_4
+Genotype " CX12330 Ex[Psre-1::TeTx::mCherry; Punc-122:RFP]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1018"
+Assay	"Expression_mosaic"	"WBPaper00056328_5"
+Phenotype	"WBPhenotype:0001234"
+Gene	"WBGene00000903"	Published_as	"daf-7"
+Involved	"WBbt:0005415"	Sufficient_remark	"We found that expressing daf-7 selectively in ASI (Pstr-3::daf-7[70]) did not rescue the defects in the integrated response; but expressing daf-7 in ADE (Pcat-2::daf-7) or OLQ (Pocr-4::daf-7) sensory neurons using cell-selective promoters [83-85] rescued the delayed leaving phenotype in the daf-7(e1372) mutant animals (Fig 3K-3M)"
+Involved	"WBbt:0005415"	Sufficient
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_5
+Genotype "Pcat-2::daf-7"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1019"
+Assay	"Expression_mosaic"	"WBPaper00056328_6"
+Phenotype	"WBPhenotype:0001234"
+Gene	"WBGene00000903"	Published_as	"daf-7"
+Involved	"WBbt:0006848"	Sufficient_remark	"We found that expressing daf-7 selectively in ASI (Pstr-3::daf-7[70]) did not rescue the defects in the integrated response; but expressing daf-7 in ADE (Pcat-2::daf-7) or OLQ (Pocr-4::daf-7) sensory neurons using cell-selective promoters [83-85] rescued the delayed leaving phenotype in the daf-7(e1372) mutant animals (Fig 3K-3M)"
+Involved	"WBbt:0006848"	Sufficient
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_6
+Genotype "Pocr-4::daf-7"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1020"
+Assay	"Expression_mosaic"	"WBPaper00056328_7"
+Phenotype	"WBPhenotype:0001234"
+Gene	"WBGene00000897"	Published_as	"daf-1"
+Involved	"WBbt:0005835"	Sufficient_remark	"Expressing either the genomic DNA fragment of daf-1 or the daf-1 cDNA selectively in the interneurons RIM and RIC (Pdaf-1::daf-1 or pRIM/RIC::daf-1; [70, 72]) fully rescued the defect in the daf-1(m40) mutant animals (Fig 4B and 4C)."
+Involved	"WBbt:0005835"	Sufficient
+Involved	"WBbt:0006834"	Sufficient_remark	"Expressing either the genomic DNA fragment of daf-1 or the daf-1 cDNA selectively in the interneurons RIM and RIC (Pdaf-1::daf-1 or pRIM/RIC::daf-1; [70, 72]) fully rescued the defect in the daf-1(m40) mutant animals (Fig 4B and 4C)."
+Involved	"WBbt:0006834"	Sufficient
+Remark	"Curated by Fernando Bolio."
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_7
+Genotype "daf-1(m40)IV; ftEx205[Ptdc-1::daf-1::gfp; Podr-1::dsRed],"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1021"
+Assay	"Genetic_mosaic"	"WBPaper00037977_2"
+Phenotype	"WBPhenotype:0000633"	Remark	"ENTITY:WBbt:0006831(PVD)|(tertiary)|GO:0044307(dendritic branch)|GO:0048856(anatomical structure development) QUALITY:PATO:0000584(hypertrophy) NOT"
+Phenotype	"WBPhenotype:0000633"	Remark
+Gene	"WBGene00016611"	Published_as	"bicd-1"
+Not_involved	"WBbt:0006804"	Sufficient_remark	"genetic mosaic analyses revealed that animals that retained wild-type bicd-1 in the AB.p lineage (which gives rise to the PVD neurons) but not the P1 lineage (which gives rise to 94 out of 95 body wall muscles) exhibited partial rescue of the enhanced-branching bicd-1(ok2731) mutant phenotype."
+Not_involved	"WBbt:0006804"	Insufficient
+Reference	"WBPaper00037977"
+
+Condition : WBPaper00037977_2
+Genotype "bicd-1(ok2731); otIs138[ser2prom3::GFP];Ex[bicd-1(+);myo-3prom::RFP;mec-7prom::GFP]"
+Reference WBPaper00037977
+
+
+
+Anatomy_function : "WBbtf1022"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001446"	Remark	"NaCl gustatory plasticity defective"
+Phenotype	"WBPhenotype:0001446"	Remark
+Gene	"WBGene00001681"
+Not_involved	"WBbt:0005663"	Sufficient_remark	"gpc-1 mutant, expression of GPC-1 in ASE neurons did not restore gustatory plasticity."
+Not_involved	"WBbt:0005663"	Insufficient
+Reference	"WBPaper00027029"
+
+
+Anatomy_function : "WBbtf1023"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000992"	Remark	"avoidance of 1M NaCl"
+Phenotype	"WBPhenotype:0000992"	Remark
+Gene	"WBGene00003850"
+Not_involved	"WBbt:0005660"	Sufficient_remark	"ADF specific expression of odr-3 did not restore avoidance of 1M NaCl."
+Not_involved	"WBbt:0005660"	Insufficient
+Reference	"WBPaper00027029"
+
+
+Anatomy_function : "WBbtf1024"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001446"	Remark	"NaCl gustatory plasticity defective"
+Phenotype	"WBPhenotype:0001446"	Remark
+Gene	"WBGene00003850"
+Not_involved	"WBbt:0005665"	Sufficient_remark	"NaCl avoidance after pre-exposure was not restored by expressing odr-3 in ASH neurons."
+Not_involved	"WBbt:0005665"	Insufficient
+Reference	"WBPaper00027029"
+
+
+Anatomy_function : "WBbtf1025"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001084"	Remark	"attractive response to NaCl defective"
+Phenotype	"WBPhenotype:0001084"	Remark
+Gene	"WBGene00001709"
+Not_involved	"WBbt:0005842"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
+Not_involved	"WBbt:0005842"	Insufficient
+Not_involved	"WBbt:0005841"
+Not_involved	"WBbt:0006818"
+Not_involved	"WBbt:0006819"
+Not_involved	"WBbt:0005840"
+Not_involved	"WBbt:0006813"
+Not_involved	"WBbt:0005400"
+Not_involved	"WBbt:0005835"
+Not_involved	"WBbt:0005353"
+Not_involved	"WBbt:0003850"
+Not_involved	"WBbt:0006976"
+Not_involved	"WBbt:0005346"
+Not_involved	"WBbt:0006822"
+Not_involved	"WBbt:0004821"
+Not_involved	"WBbt:0006836"
+Not_involved	"WBbt:0005045"
+Not_involved	"WBbt:0005399"
+Reference	"WBPaper00027029"
+
+
+Anatomy_function : "WBbtf1026"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0001084"	Remark	"attractive response to NaCl defective"
+Phenotype	"WBPhenotype:0001084"	Remark
+Gene	"WBGene00001709"
+Not_involved	"WBbt:0005842"	Sufficient_remark	"expression of GRK-2 using a glr-1::grk-2 construct did not restore NaCl chemotaxis."
+Not_involved	"WBbt:0005842"	Insufficient
+Not_involved	"WBbt:0005841"	Insufficient
+Not_involved	"WBbt:0006818"	Insufficient
+Not_involved	"WBbt:0006819"	Insufficient
+Not_involved	"WBbt:0005840"	Insufficient
+Not_involved	"WBbt:0006813"	Insufficient
+Not_involved	"WBbt:0005400"	Insufficient
+Not_involved	"WBbt:0005835"	Insufficient
+Not_involved	"WBbt:0005353"	Insufficient
+Not_involved	"WBbt:0003850"	Insufficient
+Not_involved	"WBbt:0006976"	Insufficient
+Not_involved	"WBbt:0005346"	Insufficient
+Not_involved	"WBbt:0006822"	Insufficient
+Not_involved	"WBbt:0004821"	Insufficient
+Not_involved	"WBbt:0006836"	Insufficient
+Not_involved	"WBbt:0005045"	Insufficient
+Not_involved	"WBbt:0005399"	Insufficient
+Reference	"WBPaper00027029"
+
+
+Anatomy_function : "WBbtf1027"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000254"
+Not_involved	"WBbt:0003904"	Necessary_remark	"chloride chemotaxis was unaffected by ablation of ASEL."
+Not_involved	"WBbt:0003904"	Unnecessary
+Reference	"WBPaper00004609"
+
+
+Anatomy_function : "WBbtf1028"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0001058"
+Not_involved	"WBbt:0003904"	Necessary_remark	"potassium chemotaxis was unaffected by ablation of ASEL."
+Not_involved	"WBbt:0003904"	Unnecessary
+Reference	"WBPaper00004609"
+
+
+Anatomy_function : "WBbtf1029"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000265"	Remark	"chemotaxis towards 2,3-pentanedione abnormal."
+Phenotype	"WBPhenotype:0000265"	Remark
+Not_involved	"WBbt:0005832"	Necessary_remark	"ablation of AWC-on did not affect chemotaxis to 2,3-pentanedione."
+Not_involved	"WBbt:0005832"	Unnecessary
+Reference	"WBPaper00004610"
+
+
+Anatomy_function : "WBbtf1030"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000265"	Remark	"discrimination of benzaldehyde from butanone abnormal."
+Phenotype	"WBPhenotype:0000265"	Remark
+Not_involved	"WBbt:0005832"	Necessary_remark	"ablation of AWC-on did not cause defects in butanone/benzaldehyde discrimination."
+Not_involved	"WBbt:0005832"	Unnecessary
+Reference	"WBPaper00004610"
+
+
+Anatomy_function : "WBbtf1031"
+Assay	"Genetic_mosaic"	"WBPaper00001039_1"
+Phenotype	"WBPhenotype:0000117"
+Gene	"WBGene00000035"
+Not_involved	"WBbt:0003679"	Necessary_remark	"ace-2 ace-3 animals also lacking ace-1(+) in all cells of the AB lineage (which includes most of the cells making up the nervous system) are viable and fertile."
+Not_involved	"WBbt:0003679"	Unnecessary
+Reference	"WBPaper00001039"
+
+Condition : WBPaper00001039_1
+Genotype "ace-2 I; ace-3 II; unc-3 daf-6 ace-1 X; mnDp14(X,f)"
+Genotype "ace-2 I; ace-3 II; unc-3 ace-1 osm-1 X; mnDp14(X,f)"
+Genotype "ace-2 I; ace-3 II; unc-94 III; unc-3 daf-6 sup-10 ace-1 X; mnDp14(X,f)"
+Remark "multiple strains were used for mosaic analysis"
+
+
+
+Anatomy_function : "WBbtf1032"
+Assay	"Genetic_mosaic"	"WBPaper0003679_1"
+Phenotype	"WBPhenotype:0000646"	Remark	"Ace-Unc"
+Phenotype	"WBPhenotype:0000646"	Remark
+Gene	"WBGene00000035"
+Not_involved	"WBbt:0003679"	Necessary_remark	"animals showed wild-type movement despite having lost ace-1+ at ABp or AB."
+Not_involved	"WBbt:0003679"	Unnecessary
+Reference	"WBPaper00000761"
+
+Condition : WBPaper0003679_1
+Genotype "ace-2 I; daf-6 ace-1 X; mnDp14(X;f)"
+Genotype "ace-2 I; unc-93 III; unc-3 daf-6 sup-10 ace-1 X; mnDp14(X;f)"
+Remark "two different genotypes were used separately"
+
+
+
+Anatomy_function : "WBbtf1033"
+Assay	"Genetic_mosaic"	"WBPaper0003679_1"
+Phenotype	"WBPhenotype:0000177"	Remark	"acetylcholinesterase activity, histochemically staining, reduced."
+Phenotype	"WBPhenotype:0000177"	Remark
+Gene	"WBGene00000035"
+Not_involved	"WBbt:0003679"	Necessary_remark	"animals showed normal acetylcholinesterase histochemical staining in nerve ring and nerve cords, despite having lost ace-1+ at ABp or AB."
+Not_involved	"WBbt:0003679"	Unnecessary
+Reference	"WBPaper00000761"
+
+Condition : WBPaper0003679_1
+Genotype "ace-2 I; daf-6 ace-1 X; mnDp14(X;f)"
+Genotype "ace-2 I; unc-93 III; unc-3 daf-6 sup-10 ace-1 X; mnDp14(X;f)"
+Remark "two different genotypes were used separately"
+
+
+
+Anatomy_function : "WBbtf1034"
+Assay	"Expression_mosaic"	"WBPaper00006226_1"
+Phenotype	"WBPhenotype:0000061"
+Gene	"WBGene00000912"
+Not_involved	"WBbt:0003675"	Sufficient_remark	"expressing daf-16 specifically in muscles (with a myo-3 promoter) produced no lifespan extension."
+Not_involved	"WBbt:0003675"	Insufficient
+Reference	"WBPaper00006226"
+
+Condition : WBPaper00006226_1
+Genotype "daf-16(mu86); daf-2(e1370)"
+Temperature 20
+Reference "WBPaper00006226"
+
+
+
+Anatomy_function : "WBbtf1035"
+Assay	"Expression_mosaic"	"WBPaper00006226_2"
+Phenotype	"WBPhenotype:0000013"
+Gene	"WBGene00000912"
+Not_involved	"WBbt:0003675"	Sufficient_remark	"expressing daf-16::gfp specifically in muscles (with a myo-3 promoter) did not rescue dauer formation."
+Not_involved	"WBbt:0003675"	Insufficient
+Reference	"WBPaper00006226"
+
+Condition : WBPaper00006226_2
+Genotype "daf-16(mu86); daf-2(e1370)"
+Temperature 25
+Reference "WBPaper00006226"
+
+
+
+Anatomy_function : "WBbtf1036"
+Assay	"Expression_mosaic"	"WBPaper00006226_5"
+Phenotype	"WBPhenotype:0000061"
+Gene	"WBGene00000912"
+Not_involved	"WBbt:0003675"	Sufficient_remark	"expressing daf-16 specifically in muscles (with a myo-3 promoter) had little or no effect on lifespan of daf-16(-); mes-1(bn7) mutants."
+Not_involved	"WBbt:0003675"	Insufficient
+Not_involved	"WBbt:0003679"	Sufficient_remark	"neuronal (unc-119 promoter-driven) daf-16 expression had little or no effect on lifespan of daf-16(-); mes-1(bn7) mutants."
+Not_involved	"WBbt:0003679"	Insufficient
+Reference	"WBPaper00006226"
+
+Condition : WBPaper00006226_5
+Genotype "daf-16(mu86); mes-1(bn7)"
+Temperature 20
+Reference "WBPaper00006226"
+
+
+
+Anatomy_function : "WBbtf1037"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000245"
+Not_involved	"WBbt:0005784"	Necessary_remark	"Z2 and Z3 ablated animals showed normal SM migration in unc-53(ay10) mutants."
+Not_involved	"WBbt:0005784"	Unnecessary
+Reference	"WBPaper00004362"
+
+
+Anatomy_function : "WBbtf1038"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000220"	Remark	"vulval primary lineage patterning (P6.pxx, vulE vs. vulF fates) defective."
+Phenotype	"WBPhenotype:0000220"	Remark
+Not_involved	"WBbt:0006893"	Necessary_remark	"ablation of P5.p and P7.p does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
+Not_involved	"WBbt:0006893"	Unnecessary
+Not_involved	"WBbt:0006895"	Necessary_remark	"ablation of P5.p and P7.p does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
+Not_involved	"WBbt:0006895"	Unnecessary
+Not_involved	"WBbt:0006780"	Necessary_remark	"ablation of VU precursors before VPCs divide does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
+Not_involved	"WBbt:0006780"	Unnecessary
+Reference	"WBPaper00004362"
+
+
+Anatomy_function : "WBbtf1039"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000220"	Remark	"vulval primary lineage patterning (P6.pxx, vulE vs. vulF fates) defective."
+Phenotype	"WBPhenotype:0000220"	Remark
+Not_involved	"WBbt:0006893"	Necessary_remark	"ablation of P5.p and P7.p does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
+Not_involved	"WBbt:0006893"	Unnecessary
+Not_involved	"WBbt:0006895"	Necessary_remark	"ablation of P5.p and P7.p does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
+Not_involved	"WBbt:0006895"	Unnecessary
+Not_involved	"WBbt:0006780"	Necessary_remark	"ablation of VU precursors before VPCs divide does not affect zmp-1::GFP expression in P6.pxxx during L4 lethargus."
+Not_involved	"WBbt:0006780"	Unnecessary
+Reference	"WBPaper00004481"
+
+
+Anatomy_function : "WBbtf1040"
+Assay	"Genetic_mosaic"	"WBPaper00003090_1"
+Phenotype	"WBPhenotype:0000885"
+Not_involved	"WBbt:0006925"	Remark	"mosaic analysis demonstrates that ced-6 acts within the engulfing gonadal sheath cells rather than the germline apoptotic cells."
+Not_involved	"WBbt:0006925"	Remark
+Reference	"WBPaper00003090"
+
+Condition : WBPaper00003090_1
+Genotype "dpy-17(e164) ced-6(n1813) mec-14(u55) ncl-1(e1865) unc-36(e251)III; sDp3"
+Reference "WBPaper00003090"
+
+
+
+Anatomy_function : "WBbtf1041"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000707"	Remark	"specific defect: anterior pharyngeal extension abnormal."
+Phenotype	"WBPhenotype:0000707"	Remark
+Not_involved	"WBbt:0006699"
+Not_involved	"WBbt:0006142"
+Reference	"WBPaper00004707"
+
+
+Anatomy_function : "WBbtf1042"
+Assay	"Expression_mosaic"	"WBPaper00004977_1"
+Phenotype	"WBPhenotype:0004026"	Remark	"glr-1 single mutants are nose-touch insensitive, whereas glr-1;egl-3 double mutants are nose-touch sensitive."
+Phenotype	"WBPhenotype:0004026"	Remark
+Gene	"WBGene00001172"
+Not_involved	"WBbt:0005665"	Sufficient_remark	"expression of egl-3 in ASH (using the osm-10 promoter) failed to rescue the glr-1 (nose touch defective) suppression defect."
+Not_involved	"WBbt:0005665"	Insufficient
+Reference	"WBPaper00004977"
+
+Condition : WBPaper00004977_1
+Genotype "glr-1(n2461);egl-3(nu349)"
+Reference "WBPaper00004977"
+
+
+
+Anatomy_function : "WBbtf1043"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000643"	Remark	"specific defect: execution of the egg-laying motor program correlates with two changes in locomotive behavior: an increased propensity for forward locomotion before egg-laying, and an increased propensity for directional changes, in particular reversals, during and after an egg-laying event."
+Phenotype	"WBPhenotype:0000643"	Remark
+Not_involved	"WBbt:0005665"	Unnecessary
+Reference	"WBPaper00004978"
+
+
+Anatomy_function : "WBbtf1044"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000643"	Remark	"specific defect: execution of the egg-laying motor program correlates with two changes in locomotive behavior: an increased propensity for forward locomotion before egg-laying, and an increased propensity for directional changes, in particular reversals, during and after an egg-laying event."
+Phenotype	"WBPhenotype:0000643"	Remark
+Not_involved	"WBbt:0005665"	Necessary_remark	"We also examined the effect of ablating the ASH neurons, another set of neurons that receive synaptic input from the HSNs and have synaptic output to the command interneurons. In contrast to the results of AVF ablation experiment, ablation of the ASH neurons did not cause a significant change in either the general pattern of locomotion (Table 1) or the velocity and reversal bursts around egg-laying [Fig. 5(a) and (b)]."
+Not_involved	"WBbt:0005665"	Unnecessary
+Reference	"WBPaper00004978"
+
+
+Anatomy_function : "WBbtf1045"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0004007"
+Not_involved	"WBbt:0006862"	Necessary_remark	"Ablation of SPD and SPV neurons (n=14 males) at early L4 stage or damage"
+Not_involved	"WBbt:0006862"	Unnecessary
+Not_involved	"WBbt:0006862"	Necessary_remark	"to their sensory endings via laser cauterization of the spicule tips at"
+Not_involved	"WBbt:0006862"	Unnecessary
+Not_involved	"WBbt:0006862"	Necessary_remark	"adult stage (n=10 animals) did not interfere with males' ability to prod"
+Not_involved	"WBbt:0006862"	Unnecessary
+Not_involved	"WBbt:0006862"	Necessary_remark	"or insert their spicules into hermaphrodites."
+Not_involved	"WBbt:0006862"	Unnecessary
+Not_involved	"WBbt:0007805"	Necessary_remark	"Ablation of SPD and SPV neurons (n=14 males) at early L4 stage or damage"
+Not_involved	"WBbt:0007805"	Unnecessary
+Not_involved	"WBbt:0007805"	Necessary_remark	"to their sensory endings via laser cauterization of the spicule tips at"
+Not_involved	"WBbt:0007805"	Unnecessary
+Not_involved	"WBbt:0007805"	Necessary_remark	"adult stage (n=10 animals) did not interfere with males' ability to prod"
+Not_involved	"WBbt:0007805"	Unnecessary
+Not_involved	"WBbt:0007805"	Necessary_remark	"or insert their spicules into hermaphrodites."
+Not_involved	"WBbt:0007805"	Unnecessary
+Not_involved	"WBbt:0006861"	Necessary_remark	"When SPC-ablated males (n=10) were mated to easily penetrable 96 hr unc-31 adult hermaphrodites, they did not extend their spicules through the vulva, but continuously prodded the vulval slit. Therefore, SPC neurons are required for prolonged protractor contraction but not for initiating or sustaining periodic contractions."
+Not_involved	"WBbt:0006861"	Unnecessary
+Reference	"WBPaper00005027"
+
+
+Anatomy_function : "WBbtf1046"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000279"
+Not_involved	"WBbt:0006862"	Necessary_remark	"When SPC-ablated males (n=10) were mated to easily penetrable 96 hr unc-31 adult hermaphrodites, they did not extend their spicules through the vulva, but continuously prodded the vulval slit. Therefore, SPC neurons are required for prolonged protractor contraction but not for initiating or sustaining periodic contractions."
+Not_involved	"WBbt:0006862"	Unnecessary
+Not_involved	"WBbt:0007805"	Necessary_remark	"When SPC-ablated males (n=10) were mated to easily penetrable 96 hr unc-31 adult hermaphrodites, they did not extend their spicules through the vulva, but continuously prodded the vulval slit. Therefore, SPC neurons are required for prolonged protractor contraction but not for initiating or sustaining periodic contractions."
+Not_involved	"WBbt:0007805"	Unnecessary
+Reference	"WBPaper00005027"
+
+
+Anatomy_function : "WBbtf1047"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000279"
+Not_involved	"WBbt:0006862"	Necessary_remark	"When SPC-ablated males (n=10) were mated to easily penetrable 96 hr unc-31 adult hermaphrodites, they did not extend their spicules through the vulva, but continuously prodded the vulval slit. Therefore, SPC neurons are required for prolonged protractor contraction but not for initiating or sustaining periodic contractions."
+Not_involved	"WBbt:0006862"	Unnecessary
+Not_involved	"WBbt:0007805"	Necessary_remark	"When SPC-ablated males (n=10) were mated to easily penetrable 96 hr unc-31 adult hermaphrodites, they did not extend their spicules through the vulva, but continuously prodded the vulval slit. Therefore, SPC neurons are required for prolonged protractor contraction but not for initiating or sustaining periodic contractions."
+Not_involved	"WBbt:0007805"	Unnecessary
+Reference	"WBPaper00005027"
+
+
+Anatomy_function : "WBbtf1048"
+Assay	"Expression_mosaic"	"WBPaper00005511_1"
+Phenotype	"WBPhenotype:0001291"
+Gene	"WBGene00003839"
+Not_involved	"WBbt:0005660"	Sufficient_remark	"expression of ocr-2 in the ADF or AWA neurons does not restore aggregation behavior to ocr-2;npr-1 mutant animals."
+Not_involved	"WBbt:0005660"	Insufficient
+Not_involved	"WBbt:0005670"	Sufficient_remark	"expression of ocr-2 in the ADF or AWA neurons does not restore aggregation behavior to ocr-2;npr-1 mutant animals."
+Not_involved	"WBbt:0005670"	Insufficient
+Reference	"WBPaper00005511"
+
+Condition : WBPaper00005511_1
+Genotype "ocr-2(ak47) IV; npr-1(ad609) lin-15(n765ts)"
+Remark "strain name CX4827"
+Reference "WBPaper00005511"
+
+
+
+Anatomy_function : "WBbtf1049"
+Assay	"Expression_mosaic"	"WBPaper00005511_2"
+Phenotype	"WBPhenotype:0001291"
+Gene	"WBGene00003851"
+Not_involved	"WBbt:0005660"	Sufficient_remark	"odr-4 expression in ADF does not restore social behavior to odr-4; npr-1 mutant animals."
+Not_involved	"WBbt:0005660"	Insufficient
+Not_involved	"WBbt:0005670"	Sufficient_remark	"odr-4 expression in AWA, AWB, ASI, and ASK neurons also fails to restore aggregation behavior to odr-4; npr-1 animals."
+Not_involved	"WBbt:0005670"	Insufficient
+Not_involved	"WBbt:0005671"
+Not_involved	"WBbt:0005666"
+Not_involved	"WBbt:0005668"
+Reference	"WBPaper00005511"
+
+Condition : WBPaper00005511_2
+Genotype "odr-4(n2144) III; npr-1(ad609) lin-15(n765ts) X"
+Remark "strain name AX215"
+Reference "WBPaper00005511"
+
+
+
+Anatomy_function : "WBbtf1050"
+Assay	"Expression_mosaic"	"WBPaper00005259_1"
+Phenotype	"WBPhenotype:0000047"
+Gene	"WBGene00004215"
+Not_involved	"WBbt:0003672"	Sufficient_remark	"expression of PTP-3 using epidermal promoter (jam-1) gave partial rescue of the lethality of vab-1 ptp-3 double mutants that was not statistically significant."
+Not_involved	"WBbt:0003672"	Insufficient
+Reference	"WBPaper00005259"
+
+Condition : WBPaper00005259_1
+Genotype "vab-1(e2) ptp-3(op147)"
+Reference "WBPaper00005259"
+
+
+
+Anatomy_function : "WBbtf1051"
+Assay	"Genetic_mosaic"	"WBPaper00006309_1"
+Phenotype	"WBPhenotype:0000195"	Remark	"ENTITY:WBbt:0006865(DTC)|GO:0016477(cell migration)|PATO:0001233(dorsal to)|WBbt:0005753(seam cell) QUALITY:PATO:0000468(reduced)"
+Phenotype	"WBPhenotype:0000195"	Remark
+Gene	"WBGene00003254"
+Not_involved	"WBbt:0006876"	Necessary_remark	"genetic mosaic analysis revealed that MIG-23 is required in the C lineage and NOT required in the AB, EMS and P3 lineages."
+Not_involved	"WBbt:0006876"	Unnecessary
+Not_involved	"WBbt:0004015"	Necessary_remark	"genetic mosaic analysis revealed that MIG-23 is required in the C lineage and NOT required in the AB, EMS and P3 lineages."
+Not_involved	"WBbt:0004015"	Unnecessary
+Not_involved	"WBbt:0006875"	Necessary_remark	"genetic mosaic analysis revealed that MIG-23 is required in the C lineage and NOT required in the AB, EMS and P3 lineages."
+Not_involved	"WBbt:0006875"	Unnecessary
+Reference	"WBPaper00006309"
+
+Condition : WBPaper00006309_1
+Genotype "mig-23(k180); ncl-1(e1865); Ex[mig-23(+),sur-5::GFP,ncl-1(+)]"
+Reference WBPaper00006309
+
+
+
+Anatomy_function : "WBbtf1052"
+Assay	"Genetic_mosaic"	"WBPaper00006427_2"
+Phenotype	"WBPhenotype:0000565"	Remark	"ENTITY:WBbt:0005740(midbody) QUALITY:PATO:0000404(coiled)"
+Phenotype	"WBPhenotype:0000565"	Remark
+Phenotype	"WBPhenotype:0000565"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion) QUALITY:PATO:0000770(uncoordinated)"
+Phenotype	"WBPhenotype:0000565"	Remark
+Gene	"WBGene00006845"	Published_as	"unc-122"
+Not_involved	"WBbt:0003679"	Sufficient_remark	"mosaic animals in which AB cell descendants retained the unc-122-rescuing transgene but not P cell descendants showed coiling mutant phenotype, indicating that loss of unc-122 in muscle cell lineages affects locomotory behavior."
+Not_involved	"WBbt:0003679"	Insufficient
+Reference	"WBPaper00006427"
+
+Condition : WBPaper00006427_2
+Genotype "unc-122(e2520);Ex[unc-122,myo-3::gfp,ttx-3::gfp]"
+Reference WBPaper00006427
+
+
+
+Anatomy_function : "WBbtf1053"
+Assay	"Genetic_mosaic"	"WBPaper00006427_2"
+Phenotype	"WBPhenotype:0000565"	Remark	"ENTITY:WBbt:0005740(midbody) QUALITY:PATO:0000404(coiled)"
+Phenotype	"WBPhenotype:0000565"	Remark
+Phenotype	"WBPhenotype:0000565"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion) QUALITY:PATO:0000770(uncoordinated)"
+Phenotype	"WBPhenotype:0000565"	Remark
+Gene	"WBGene00006845"	Published_as	"unc-122"
+Not_involved	"WBbt:0003679"	Necessary_remark	"mosaic animals in which P cell descendants retained the unc-122-rescuing transgene but not AB cell descendants showed rescue of the coiling mutant phenotype, indicating that loss of unc-122 in neuronal lineages has no impact on locomotory behavior."
+Not_involved	"WBbt:0003679"	Unnecessary
+Reference	"WBPaper00006427"
+
+Condition : WBPaper00006427_2
+Genotype "unc-122(e2520);Ex[unc-122,myo-3::gfp,ttx-3::gfp]"
+Reference WBPaper00006427
+
+
+
+Anatomy_function : "WBbtf1054"
+Assay	"Genetic_mosaic"	"WBPaper00013396_1"
+Phenotype	"WBPhenotype:0000012"	Nonautonomous
+Phenotype	"WBPhenotype:0000012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0055115(diapause) QUALITY:PATO:0000760(hyperactive) NOT"
+Phenotype	"WBPhenotype:0000012"	Remark
+Phenotype	"WBPhenotype:0000012"	Remark	"ENTITY:WBbt:0006865(DTC)|GO:0016477(cell migration) QUALITY:PATO:0000692(heterochronic) NOT"
+Phenotype	"WBPhenotype:0000012"	Remark
+Phenotype	"WBPhenotype:0000012"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0000003(reproduction) QUALITY:PATO:0001997(reduced) NOT"
+Phenotype	"WBPhenotype:0000012"	Remark
+Gene	"WBGene00000905"	Published_as	"daf-9"
+Not_involved	"WBbt:0007855"	Necessary_remark	"Mosaics arise spontaneously from transgenic lines of daf-9(dh6) containing extrachromosamal array of genomic daf-9::gfp (dhEx66). Mosaics expressing daf-9 in the hypodermis (but not XXX cells) bypassed diapause, had normal gonadal development and were fertile."
+Not_involved	"WBbt:0007855"	Unnecessary
+Reference	"WBPaper00013396"
+
+Condition : WBPaper00013396_1
+Genotype "daf-9(dh6); dhEx66[daf-9::gfp]"
+Reference WBPaper00013396
+
+
+
+Anatomy_function : "WBbtf1055"
+Assay	"Genetic_mosaic"	"WBPaper00024207_7"
+Phenotype	"WBPhenotype:0001010"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050878(regulation of body fluid levels) QUALITY:PATO:0001507(disrupted)"
+Phenotype	"WBPhenotype:0001010"	Remark
+Gene	"WBGene00003401"	Published_as	"mpk-1"
+Not_involved	"WBbt:0004015"	Necessary_remark	"Mosaic animals with sDp3 losses in AB descendants when shifted to the restrictive temperature displayed the Clr phenotype, suggesting that loss of mpk-1 activity in the AB lineage is not sufficient to suppress the Clr phenotype. Therefore, mpk-1(+) activity within P1 descendants can function to prevent the Soc phenotype."
+Not_involved	"WBbt:0004015"	Unnecessary
+Reference	"WBPaper00024207"
+
+Condition : WBPaper00024207_7
+Genotype "clr-1(e1745ts); mpk-1 ncl-1 unc-36; sDp3"
+Reference WBPaper00024207
+
+
+
+Anatomy_function : "WBbtf1056"
+Assay	"Genetic_mosaic"	"WBPaper00024207_7"
+Phenotype	"WBPhenotype:0001010"	Remark	"ENTITY:WBbt:0007833(organism)|GO:0050878(regulation of body fluid levels) QUALITY:PATO:0001507(disrupted)"
+Phenotype	"WBPhenotype:0001010"	Remark
+Gene	"WBGene00003401"	Published_as	"mpk-1"
+Not_involved	"WBbt:0006874"	Necessary_remark	"Mosaic animals with sDp3 losses in P1 descendants when shifted to the restrictive temperature displayed the Clr phenotype, suggesting that loss of mpk-1 activity in the P1 lineage is also not sufficient to suppress the Clr phenotype. Therefore, mpk-1(+) activity within the AB lineage can function to prevent the Soc phenotype."
+Not_involved	"WBbt:0006874"	Unnecessary
+Reference	"WBPaper00024207"
+
+Condition : WBPaper00024207_7
+
+
+
+
+Anatomy_function : "WBbtf1057"
+Assay	"Genetic_mosaic"	"WBPaper00024207_8"
+Phenotype	"WBPhenotype:0000054"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva)|GO:0040007(growth) QUALITY:PATO:0000297(arrested) NOT"
+Phenotype	"WBPhenotype:0000054"	Remark
+Gene	"WBGene00002881"	Published_as	"let-756"
+Not_involved	"WBbt:0004015"	Necessary_remark	"descendants in the AB.p lineage. Besides being Unc, these mosaic animals were completely wild type, suggesting that lack of let-756(+) expression in the AB lineage is not essential for viability."
+Not_involved	"WBbt:0004015"	Unnecessary
+Reference	"WBPaper00024207"
+
+Condition : WBPaper00024207_8
+Genotype "dpy-17 let-756 ncl-1 unc-36; sDp3"
+Reference WBPaper00024207
+
+
+
+
+Anatomy_function : "WBbtf1058"
+Assay	"Genetic_mosaic"	"WBPaper00024207_8"
+Phenotype	"WBPhenotype:0000054"	Remark	"ENTITY:WBbt:0007833(organism)|WBls:0000023(larva)|GO:0040007(growth) QUALITY:PATO:0000297(arrested)"
+Phenotype	"WBPhenotype:0000054"	Remark
+Gene	"WBGene00002881"	Published_as	"let-756"
+Not_involved	"WBbt:0004015"	Sufficient_remark	"We screened dpy-17 let-756 ncl-1 unc-36; sDp3 animals for mosaic animals. Dpy non-Unc animals were extremely rare, and the few Dpy non-Unc animals identified turned out to result from the breakdown of the free duplication. This striking finding suggests that the cellular focus of let-756 is not easily separable from that of dpy-17. DPY-17 is thought to be required in the P1 lineage."
+Not_involved	"WBbt:0004015"	Insufficient
+Reference	"WBPaper00024207"
+
+Condition : WBPaper00024207_8
+Genotype "dpy-17 let-756 ncl-1 unc-36; sDp3"
+Reference WBPaper00024207
+
+
+
+
+Anatomy_function : "WBbtf1059"
+Assay	"Genetic_mosaic"	"WBPaper00024212_3"
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005190(GABAergic neuron)|GO:0031594(neuromuscular junction)|GO:0008021(synaptic vesicle) QUALITY:PATO:0000628(mislocalized) NOT"
+Phenotype	"WBPhenotype:0000102"	Remark
+Gene	"WBGene00001499"	Published_as	"fsn-1"
+Not_involved	"WBbt:0006874"	Necessary_remark	"Eight out of eight mosaic animals expressing FSN-1(+) only in the AB lineage (not in P1 lineage) were wild-type for juIs1 synaptic marker."
+Not_involved	"WBbt:0006874"	Unnecessary
+Reference	"WBPaper00024212"
+
+Condition : WBPaper00024212_3
+Genotype "fsn-1(hp1);juIs1; Ex[sur-5::GFP, fsn-1(+)]"
+Reference WBPaper00024212
+
+
+
+Anatomy_function : "WBbtf1060"
+Assay	"Genetic_mosaic"	"WBPaper00024212_3"
+Phenotype	"WBPhenotype:0000102"	Remark	"ENTITY:WBbt:0005190(GABAergic neuron)|GO:0031594(neuromuscular junction)|GO:0008021(synaptic vesicle) QUALITY:PATO:0000628(mislocalized)"
+Phenotype	"WBPhenotype:0000102"	Remark
+Gene	"WBGene00001499"	Published_as	"fsn-1"
+Not_involved	"WBbt:0006874"	Sufficient_remark	"All twelve animals that express FSN-1(+) only in the P1 lineage (not in AB lineage) displayed fsn-1-like juIs1 defects."
+Not_involved	"WBbt:0006874"	Insufficient
+Reference	"WBPaper00024212"
+
+Condition : WBPaper00024212_3
+Genotype "fsn-1(hp1);juIs1; Ex[sur-5::GFP, fsn-1(+)]"
+Reference WBPaper00024212
+
+
+
+Anatomy_function : "WBbtf1061"
+Assay	"Genetic_mosaic"	"WBPaper00037082_2"
+Phenotype	"WBPhenotype:0000107"	Remark	"ENTITY:WBbt:0007849(hermaphrodite)|GO:0030728(ovulation) QUALITY:PATO:0000694(premature)"
+Phenotype	"WBPhenotype:0000107"	Remark
+Gene	"WBGene00007772"	Published_as	"egrh-1"
+Not_involved	"WBbt:0005784"	Necessary_remark	"Although we were not able to find any animals that lost the transgene only in the germline precursor P2, we did find one animal that lost the transgene in P2 but had a second loss later in the E lineage. This animal exhibited a wild-type phenotype, suggesting that egrh-1 function is not required in the germline."
+Not_involved	"WBbt:0005784"	Unnecessary
+Reference	"WBPaper00037082"
+
+Condition : WBPaper00037082_2
+Genotype "egrh-1(tm1736); CuEx531[egrh-1(+) sur-5::gfp]"
+Reference WBPaper00037082
+
+
+
+Anatomy_function : "WBbtf1062"
+Assay	"Genetic_mosaic"	"WBPaper00004669_3"
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005832(AWC-ON)|GO:0009855(determination of bilateral asymmetry)"
+Phenotype	"WBPhenotype:0001661"	Remark
+Phenotype	"WBPhenotype:0001661"	Remark	"QUALITY:PATO:0002051(increased occurrence)"
+Phenotype	"WBPhenotype:0001661"	Remark
+Gene	"WBGene00003822"	Published_as	"nsy-1"
+Not_involved	"WBbt:0005671"	Sufficient_remark	"Because the odr-3 promoter is reproducibly expressed in both AWC and AWB neurons, it is possible that nsy-1 expression in AWB rescues AWC cell fate. To rule out this possibility, we examined mosaic animals that expressed odr-3::NSY-1 in the AWB neurons but not the AWC neurons. Mosaic animals arose through the random loss of extrachromosomal arrays containing both odr-3::NSY-1 and the marker odr-1::RFP in a nsy-1 mutant background. str-2::GFP asymmetry was rescued when the arrays were present in AWC neurons, but not when they were present only in AWB neurons."
+Not_involved	"WBbt:0005671"	Insufficient
+Reference	"WBPaper00004669"
+
+Condition : WBPaper00004669_3
+Genotype "nsy-1(n397); Ex[odr-3::NSY-1 elt-2::GFP odr-1::RFP]"
+Reference WBPaper00004669
+
+
+
+Anatomy_function : "WBbtf1063"
+Assay	"Genetic_mosaic"	"WBPaper00004669_4"
+Phenotype	"WBPhenotype:0001661"	Remark	"ENTITY:WBbt:0005832(AWC-ON)|GO:0009855(determination of bilateral asymmetry)"
+Phenotype	"WBPhenotype:0001661"	Remark
+Phenotype	"WBPhenotype:0001661"	Remark	"QUALITY:PATO:0002051(increased occurrence)"
+Phenotype	"WBPhenotype:0001661"	Remark
+Gene	"WBGene00006779"	Published_as	"unc-43"
+Not_involved	"WBbt:0005671"	Sufficient_remark	"Because the odr-3 promoter is reproducibly expressed in both AWC and AWB neurons, it is possible that unc-43 expression in AWB rescues AWC cell fate. To rule out this possibility, we examined mosaic animals that expressed odr-3::UNC-43 in the AWB neurons but not the AWC neurons. Mosaic animals arose through the random loss of extrachromosomal arrays containing both odr-3::UNC-43 and the marker odr-1::RFP in a unc-43 mutant background. str-2::GFP asymmetry was rescued when the arrays were present in AWC neurons, but not when they were present only in AWB neurons."
+Not_involved	"WBbt:0005671"	Insufficient
+Reference	"WBPaper00004669"
+
+Condition : WBPaper00004669_4
+Genotype "unc-43(n1186); Ex[odr-3::UNC-43 elt-2::GFP odr-1::RFP]"
+Reference WBPaper00004669
+
+
+
+Anatomy_function : "WBbtf1064"
+Assay	"Genetic_mosaic"	"WBPaper00045273_1"
+Phenotype	"WBPhenotype:0001038"	Remark	"ENTITY:WBbt:0005784(germ line)|GO:0008283(cell proliferation)"
+Phenotype	"WBPhenotype:0001038"	Remark
+Phenotype	"WBPhenotype:0001038"	Remark	"QUALITY:PATO:0001997(reduced)"
+Phenotype	"WBPhenotype:0001038"	Remark
+Gene	"WBGene00002196"	Published_as	"kin-10"
+Not_involved	"WBbt:0007815"	Necessary_remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant. Although we did not recover animals with speci&#64257;c loss of the ugEx27 array in the germ line, gonads with robust somatic gonad KIN-10 expression, but very limited expression in the germ line, maintain over-proliferation in regions where KIN-10 expression is low or absent."
+Not_involved	"WBbt:0007815"	Unnecessary
+Reference	"WBPaper00045273"
+
+Condition : WBPaper00045273_1
+Genotype "kin-10(ok1751);glp-1(ar202gf); ugEx27[kin-10::FLAG]"
+Reference WBPaper00045273
+
+
+
+
+Anatomy_function : "WBbtf1065"
+Assay	"Expression_mosaic"	"WBPaper00042107_4"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Phenotype	"WBPhenotype:0000625"	Remark
+Gene	"WBGene00004047"	Published_as	"plx-1"
+Not_involved	"WBbt:0004858"	Necessary_remark	"We used a truncated unc-4 promoter (unc-4c) for expression the plx-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in plx-1 mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::plx-1 transgene to clarify in which DA neurons PLX-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the plx-1 mutant phenotype, suggesting that PLX-1 is required in DA9. Consistent with these observations, PLX-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the plx-1 phenotype."
+Not_involved	"WBbt:0004858"	Unnecessary
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_4
+Genotype "plx-1(nc36); Ex[Pmig-13::plx-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf1066"
+Assay	"Expression_mosaic"	"WBPaper00042107_9"
+Phenotype	"WBPhenotype:0000625"	Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:0003002(regionalization)|GO:0048859(formation of anatomical boundary)|GO:0060386(synapse assembly involved in innervation)"
+Phenotype	"WBPhenotype:0000625"	Remark
+Phenotype	"WBPhenotype:0000625"	Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
+Phenotype	"WBPhenotype:0000625"	Remark
+Gene	"WBGene00004889"	Published_as	"smp-1"
+Not_involved	"WBbt:0004858"	Necessary_remark	"We used a truncated unc-4 promoter (unc-4c) for expression the smp-1 cDNA in the DA motor neurons including both DA8 and DA9. The synaptic tiling phenotype in smp-1;smp-2 double mutants was almost completely rescued. Utilizing the mosaicism of the extrachromosomal array, we conducted genetic mosaic experiments with the Punc-4c::smp-1 transgene to clarify in which DA neurons SMP-1 functions. We found that mosaic animals that lost the rescuing array in DA9 did not rescue the mutant phenotype, suggesting that SMP-1 is required in DA9. Consistent with these observations, SMP-1 expression in DA9, but not DA8 (Pmig-13), was also sufficient to rescue the smp-1; smp-2 phenotype."
+Not_involved	"WBbt:0004858"	Unnecessary
+Reference	"WBPaper00042107"
+
+Condition : WBPaper00042107_9
+Genotype "smp-1; smp-2; Ex[Pmig-13::smp-1]"
+Reference WBPaper00042107
+
+
+
+Anatomy_function : "WBbtf1067"
+Assay	"Genetic_mosaic"	"WBPaper00041364_1"
+Phenotype	"WBPhenotype:0000105"	Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)"
+Phenotype	"WBPhenotype:0000105"	Remark
+Phenotype	"WBPhenotype:0000105"	Remark	"QUALIFY:PATO:0002052(decreased occurance)"
+Phenotype	"WBPhenotype:0000105"	Remark
+Gene	"WBGene00002189"	Published_as	"kin-1"
+Not_involved	"WBbt:0007816"	Sufficient_remark	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
+Not_involved	"WBbt:0007816"	Insufficient
+Not_involved	"WBbt:0007816"	Necessary_remark	"We conducted genetic mosaic analysis using the kin-1(ok338) deletion allele. We sought array losses in the MS lineage, which gives rise to the somatic cells of the gonad. kin-1(+) somatic gonad-loss mosaics exhibit sterility because oocytes fail to undergo meiotic maturation, ovulation, and fertilization, Complex losses found within the sheath-spermathecal lineages suggest that kin-1 is needed in the gonadal sheath cells, not in the spermatheca, for meiotic maturation."
+Not_involved	"WBbt:0007816"	Unnecessary
+Reference	"WBPaper00041364"
+
+Condition : WBPaper00041364_1
+Genotype "kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]"
+Reference WBPaper00041364
+
+
+
+Anatomy_function : "WBbtf1068"
+Assay	"Genetic_ablation"	"WBPaper00045214_10"
+Phenotype	"WBPhenotype:0001048"	Remark	"ENTITY:WBbt:0005665(ASH)|CHEBI:29108(calcium(2+))|GO:0050801(ion homeostasis)|PATO:0000077(response to)|PATO:0001159(concentrated)|CHEBI:16583(diacetyl)"
+Phenotype	"WBPhenotype:0001048"	Remark
+Phenotype	"WBPhenotype:0001048"	Remark	"QUALITY:PATO:0001997(decrease amount)"
+Phenotype	"WBPhenotype:0001048"	Remark
+Not_involved	"WBbt:0005836"	Necessary_remark	"In contrast, with the exception of AIY, attraction to low concentrations (1,000X dilution) of diacetyl was unaffected by inhibition of these interneurons (AIA, AIB, AIY or AIZ)."
+Not_involved	"WBbt:0005836"	Unnecessary
+Reference	"WBPaper00045214"
+
+Condition : WBPaper00045214_10
+Genotype "Ex[Podr-10::mCap1]"
+Reference WBPaper00045214
+
+
+
+Anatomy_function : "WBbtf1069"
+Assay	"Chemogenetics"	"WBPaper00056328_10"
+Phenotype	"WBPhenotype:0002545"
+Not_involved	"WBbt:0005835"	Necessary_remark	"To further interrogate the role of the RIM/RIC neurons in multisensory integration, we examined the transgenic animals that expressed a histamine-gated chloride channel in the RIM and RIC neurons under the histamine-treated condition [86] or the transgenic animals that expressed tetanus toxin [58] in RIM and RIC. We found that these transgenic animals were normal in leaving the OP50 lawn when 2-nonanone was present (Fig 4E and 4F)."
+Not_involved	"WBbt:0005835"	Unnecessary
+Not_involved	"WBbt:0006834"	Necessary_remark	"To further interrogate the role of the RIM/RIC neurons in multisensory integration, we examined the transgenic animals that expressed a histamine-gated chloride channel in the RIM and RIC neurons under the histamine-treated condition [86] or the transgenic animals that expressed tetanus toxin [58] in RIM and RIC. We found that these transgenic animals were normal in leaving the OP50 lawn when 2-nonanone was present (Fig 4E and 4F)."
+Not_involved	"WBbt:0006834"	Unnecessary
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_10
+Genotype "kyEx5464[Ptdc-1::HisCl1::SL2mCherry]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1070"
+Assay	"Neuronal_genetics"	"WBPaper00056328_11"
+Phenotype	"WBPhenotype:0002545"
+Not_involved	"WBbt:0005835"	Necessary_remark	"To further interrogate the role of the RIM/RIC neurons in multisensory integration, we examined the transgenic animals that expressed a histamine-gated chloride channel in the RIM and RIC neurons under the histamine-treated condition [86] or the transgenic animals that expressed tetanus toxin [58] in RIM and RIC. We found that these transgenic animals were normal in leaving the OP50 lawn when 2-nonanone was present (Fig 4E and 4F)."
+Not_involved	"WBbt:0005835"	Unnecessary
+Not_involved	"WBbt:0006834"	Necessary_remark	"To further interrogate the role of the RIM/RIC neurons in multisensory integration, we examined the transgenic animals that expressed a histamine-gated chloride channel in the RIM and RIC neurons under the histamine-treated condition [86] or the transgenic animals that expressed tetanus toxin [58] in RIM and RIC. We found that these transgenic animals were normal in leaving the OP50 lawn when 2-nonanone was present (Fig 4E and 4F)."
+Not_involved	"WBbt:0006834"	Unnecessary
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_11
+Genotype "kyEx4962[Ptdc-1::TeTx::mCherry]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1071"
+Assay	"Genetic_ablation"	"WBPaper00056328_12"
+Phenotype	"WBPhenotype:0002545"
+Involved	"WBbt:0005413"	Necessary_remark	"To disrupt the function of AIY, we selectively expressed in AIY a gain-of-function isoform of a potassium channel TWK-18 [57] to inhibit the activity of AIY (Pttx-3::twk-18(gf)) or the tetanus toxin (Pttx-3::TeTx) to block the synaptic release. We also tested the ttx-3(mg158) mutants that fail to develop AIY interneurons [88]. All three mutations delayed the decision to leave the lawn (Fig 5A*5C)."
+Involved	"WBbt:0005413"	Necessary
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_12
+Genotype "ttx-3(mg158)"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1072"
+Assay	"Neuronal_genetics"	"WBPaper00056328_13"
+Phenotype	"WBPhenotype:0002545"
+Involved	"WBbt:0005413"	Necessary_remark	"To disrupt the function of AIY, we selectively expressed in AIY a gain-of-function isoform of a potassium channel TWK-18 [57] to inhibit the activity of AIY (Pttx-3::twk-18(gf)) or the tetanus toxin (Pttx-3::TeTx) to block the synaptic release. We also tested the ttx-3(mg158) mutants that fail to develop AIY interneurons [88]. All three mutations delayed the decision to leave the lawn (Fig 5A*5C)."
+Involved	"WBbt:0005413"	Necessary
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_13
+Genotype "yxEx1248[Pttx-3::twk18(gf)::mCherry;Punc-122::RFP]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1073"
+Assay	"Neuronal_genetics"	"WBPaper00056328_14"
+Phenotype	"WBPhenotype:0002545"
+Involved	"WBbt:0005413"	Necessary_remark	"To disrupt the function of AIY, we selectively expressed in AIY a gain-of-function isoform of a potassium channel TWK-18 [57] to inhibit the activity of AIY (Pttx-3::twk-18(gf)) or the tetanus toxin (Pttx-3::TeTx) to block the synaptic release. We also tested the ttx-3(mg158) mutants that fail to develop AIY interneurons [88]. All three mutations delayed the decision to leave the lawn (Fig 5A*5C)."
+Involved	"WBbt:0005413"	Necessary
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_14
+Genotype "yxIs25[Pttx-3::TeTx::mCherry;Punc-122::gfp]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1074"
+Assay	"Neuronal_genetics"	"WBPaper00056328_15"
+Phenotype	"WBPhenotype:0002545"
+Not_involved	"WBbt:0006813"	Necessary_remark	"In contrast, selectively expressing the tetanus toxin in the AIB interneurons or treating the transgenic animals expressing the histamine-gated chloride channel in AIB with histamine did not significantly alter the decision to leave the OP50 lawn that was paired with 2-nanonone (Fig 5D and 5E)."
+Not_involved	"WBbt:0006813"	Unnecessary
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_15
+Genotype "kyEx4779[Pinx-1::TeTx::mCherry;Punc-122::gfp]"
+Reference WBPaper00056328
+
+
+
+Anatomy_function : "WBbtf1075"
+Assay	"Chemogenetics"	"WBPaper00056328_16"
+Phenotype	"WBPhenotype:0002545"
+Not_involved	"WBbt:0006813"	Necessary_remark	"In contrast, selectively expressing the tetanus toxin in the AIB interneurons or treating the transgenic animals expressing the histamine-gated chloride channel in AIB with histamine did not significantly alter the decision to leave the OP50 lawn that was paired with 2-nanonone (Fig 5D and 5E)."
+Not_involved	"WBbt:0006813"	Unnecessary
+Reference	"WBPaper00056328"
+
+Condition : WBPaper00056328_16
+Genotype "kyEx4866[Pinx-1::HisCl1::SL2mCherry;Punc-122::dsRed]"
+Reference WBPaper00056328
+
 
 
