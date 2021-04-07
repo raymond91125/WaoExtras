@@ -13171,3 +13171,25 @@ Remark	"Author Statement \"Next, we expressed cdc-42 or pes-7 cDNA with tissue-s
 Reference	"WBPaper00059357"
 
 
+Anatomy_function : "WBbtf1089"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000386"	Autonomous
+Gene	"WBGene00000467"
+Involved	"WBbt:0006796"	Sufficient
+Involved	"WBbt:0006796"	Necessary
+Remark	"GIGA = Gliadin-induced germ cell apoptosis"
+Remark	"Author Statement \"cep-1 depletion by RNAi in rrf-1 mutants suppressed GIGA, as observed in cep-1 mutants (Figure 8A and Figure 9A). Conversely, depletion of cep-1 by RNAi in the ppw-1 mutants did not suppress GIGA (Figure 9A). These results clearly indicate that cep-1 is required in the germ line, but not in somatic cells, for normal levels of GIGA.\""
+Reference	"WBPaper00058851"
+
+
+Anatomy_function : "WBbtf1090"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000012"
+Gene	"WBGene00003407"
+Involved	"WBbt:0005451"	Sufficient
+Involved	"WBbt:0003679"	Sufficient
+Involved	"WBbt:0005792"	Sufficient
+Remark	"Author Statement \"Expression of MRP-1 in only one tissue (neurons, intestinal cells or pharyngeal muscles) rescued the dauer larva formation abnormality only weakly. By contrast, the abnormality was rescued efficiently by expressing MRP-1 in two or three tissues (Fig. 6).\""
+Reference	"WBPaper00026626"
+
+
