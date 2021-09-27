@@ -111,7 +111,7 @@ Gene	"WBGene00000417"
 Involved	"WBbt:0006925"	Sufficient
 Involved	"WBbt:0006925"	Necessary
 Involved	"WBbt:0006925"	Remark
-Remark	"Five obviously mosaic animals are described in categories 1 and 2 of Table 2. The category 1 mosaics are semi-Dpy and Unc. These animals were found to have cell death survivors only among cells generated from the ABp lineage. The category 2 mosaic, with an apparent ABa loss, was semiDpy and non-Unc (although this animal moved more slowly than does a wild-type animal). These results again indicate that ced-3 is cell autonomous and reveal that unc-26, like unc-30, acts in the ABp lineage. "
+Remark	"Five obviously mosaic animals are described in categories 1 and 2 of Table 2. The category 1 mosaics are semi-Dpy and Unc. These animals were found to have cell death survivors only among cells generated from the ABp lineage. The category 2 mosaic, with an apparent ABa loss, was semiDpy and non-Unc (although this animal moved more slowly than does a wild-type animal). These results again indicate that ced-3 is cell autonomous and reveal that unc-26, like unc-30, acts in the ABp lineage."
 Remark	"Genotype \"unc-30(e191) ced-3(n717) dpy-4(e1166); nDp3(IV,V;f)\""
 Remark	"Published_as ced-3"
 Remark	"Strain used for ced-3 mosaic analysis"
@@ -305,7 +305,7 @@ Phenotype	"WBPhenotype:0001506"
 Not_involved	"WBbt:0004577"	Unnecessary
 Not_involved	"WBbt:0004574"	Unnecessary
 Remark	"laser ablation of Z1 and Z4 does not affect rate of spontaneous reversal during normal locomotion."
-Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal. "
+Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal."
 Reference	"WBPaper00026650"
 
 
@@ -316,7 +316,7 @@ Gene	"WBGene00003001"
 Not_involved	"WBbt:0004577"	Unnecessary
 Not_involved	"WBbt:0004574"	Unnecessary
 Remark	"Z1-Z4-killed lin-12(RNAi) animals maintained high reversal rates comparable to mock treated animals."
-Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal. "
+Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal."
 Reference	"WBPaper00026650"
 
 
@@ -327,7 +327,7 @@ Gene	"WBGene00003001"
 Not_involved	"WBbt:0004577"	Unnecessary
 Not_involved	"WBbt:0004574"	Unnecessary
 Remark	"Z1-Z4-killed lin-12p::lin-12(OE) animals maintained high reversal rates comparable to mock treated animals."
-Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal. "
+Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal."
 Reference	"WBPaper00026650"
 
 
@@ -337,7 +337,7 @@ Phenotype	"WBPhenotype:0001506"
 Gene	"WBGene00003001"
 Involved	"WBbt:0006836"	Necessary
 Remark	"increased lin-12 activity in the RIG neurons of adult animals increases reversal rates."
-Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal. "
+Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal."
 Reference	"WBPaper00026650"
 
 
@@ -349,7 +349,7 @@ Involved	"WBbt:0006836"	Necessary
 Remark	"Genotype \"lin-12(n137n460)\""
 Remark	"increased lin-12 activity in the RIG neurons of adult animals increases reversal rates."
 Remark	"lin-12(gfcs)"
-Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal. "
+Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal."
 Reference	"WBPaper00026650"
 
 
@@ -395,7 +395,7 @@ Involved	"WBbt:0005346"	Sufficient
 Involved	"WBbt:0005346"	Necessary
 Remark	"effects of all the cells were tested together as a whole set, using glr-1 promoter, rather than individually."
 Remark	"each configuration was used separately to affect lin-12 expression in glr-1-expressing cells"
-Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal. "
+Remark	"rate of spontaneous reversal during normal locomotion (~10 per 3 minutes) abnormal."
 Reference	"WBPaper00026650"
 
 
@@ -632,7 +632,7 @@ Anatomy_function : "WBbtf0058"
 Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0000220"
 Involved	"WBbt:0004522"	Necessary
-Remark	"ablation of AC at the late P6.px to early P6.pxx stage (but not at the late P6.pxx stage) affects zmp-1::GFP expression in P6.pxxx during L4 lethargus. "
+Remark	"ablation of AC at the late P6.px to early P6.pxx stage (but not at the late P6.pxx stage) affects zmp-1::GFP expression in P6.pxxx during L4 lethargus."
 Remark	"vulval primary lineage patterning (P6.pxx, vulE vs. vulF fates) defective."
 Reference	"WBPaper00004481"
 
@@ -663,7 +663,7 @@ Involved	"WBbt:0006925"	Necessary
 Involved	"WBbt:0007803"	Necessary
 Remark	"Genotype \"ncl-1(e1865) unc-36(e251) ced-7(n1892); qDp3(ncl-1(+) unc-36(+) ced-7(+))\""
 Remark	"mosaic animals that lost qDp3 in sheath cells of the gonad arms showed the Ced-7 phenotype."
-Remark	"mosaic animals that lost qDp3 in the germline showed the Ced-7 phenotype. "
+Remark	"mosaic animals that lost qDp3 in the germline showed the Ced-7 phenotype."
 Remark	"strain name MT9149"
 Reference	"WBPaper00003091"
 
@@ -804,7 +804,7 @@ Involved	"WBbt:0006930"	Necessary
 Involved	"WBbt:0005487"	Necessary
 Involved	"WBbt:0005312"	Necessary
 Remark	"males lacking ventral sensory organs and the ventrally opening rays do not respond to ventral contact with the hermaphrodite."
-Remark	"males lacking ventral sensory organs and the ventrally opening rays do not respond to ventral contact with the hermaphrodite. "
+Remark	"males lacking ventral sensory organs and the ventrally opening rays do not respond to ventral contact with the hermaphrodite."
 Remark	"specific phenotype: male response to ventral tail contact of hermaphrodite abnormal."
 Reference	"WBPaper00002109"
 
@@ -815,7 +815,7 @@ Phenotype	"WBPhenotype:0000227"
 Involved	"WBbt:0006952"	Necessary
 Involved	"WBbt:0006953"	Necessary
 Involved	"WBbt:0006954"	Necessary
-Remark	"TL/R.ap ablated (missing rays 7-9) males swim past the end of the hermaphrodite, losing contact and ending with their tail in a tight ventral coil. "
+Remark	"TL/R.ap ablated (missing rays 7-9) males swim past the end of the hermaphrodite, losing contact and ending with their tail in a tight ventral coil."
 Reference	"WBPaper00002109"
 
 
@@ -1186,7 +1186,7 @@ Phenotype	"WBPhenotype:0000134"	Autonomous
 Involved	"WBbt:0005665"	Sufficient
 Involved	"WBbt:0005666"	Sufficient
 Remark	"DAF-4 expression driven by either the odr-4 or the osm-10 promoter but not the myo-3 promoter is sufficient to restore sra-6::gfp expression in the ASH and ASI neurons."
-Remark	"DAF-4 expression driven by either the odr-4 or the osm-10 promoter but not the myo-3 promoter is sufficient to restore sra-6::gfp expression in the ASH and ASI neurons. "
+Remark	"DAF-4 expression driven by either the odr-4 or the osm-10 promoter but not the myo-3 promoter is sufficient to restore sra-6::gfp expression in the ASH and ASI neurons."
 Remark	"Genotype \"daf-4(m63); oyIs14(sra-6::gfp)\""
 Remark	"specific phenotype: loss of sra-6::gfp exprssion in ASH and ASI neurons."
 Reference	"WBPaper00005612"
@@ -1197,8 +1197,7 @@ Assay	"Expression_mosaic"
 Phenotype	"WBPhenotype:0000134"
 Gene	"WBGene00000900"
 Not_involved	"WBbt:0003675"	Insufficient
-Remark	" "
-Remark	"DAF-4 expression driven by either the odr-4 or the osm-10 promoter but not the myo-3 promoter is sufficient to restore sra-6::gfp expression in the ASH and ASI neurons. "
+Remark	"DAF-4 expression driven by either the odr-4 or the osm-10 promoter but not the myo-3 promoter is sufficient to restore sra-6::gfp expression in the ASH and ASI neurons."
 Remark	"specific phenotype: loss of sra-6::gfp exprssion in ASH and ASI neurons."
 Reference	"WBPaper00005612"
 
@@ -1239,7 +1238,7 @@ Involved	"WBbt:0006766"	Sufficient
 Involved	"WBbt:0007813"	Sufficient
 Remark	"lin-11-A also drives GFP expression in VC and PVQ neurons."
 Remark	"Genotype \"lin-11(n389)\""
-Remark	"Vulval-specific (controlled by lin-11-A element) and uterine-specific (controlled by lin-11-B element) expression of lin-11 together rescues the Egg-laying defect of lin-11(n389) mutant. "
+Remark	"Vulval-specific (controlled by lin-11-A element) and uterine-specific (controlled by lin-11-B element) expression of lin-11 together rescues the Egg-laying defect of lin-11(n389) mutant."
 Reference	"WBPaper00005357"
 
 
@@ -1267,7 +1266,7 @@ Phenotype	"WBPhenotype:0000289"
 Gene	"WBGene00003000"
 Involved	"WBbt:0007813"	Sufficient
 Remark	"Genotype \"lin-11(n389)\""
-Remark	"uterine pi-specific (controlled by lin-11-B element) expression of lin-11 rescued only the utse defect (as revealed by the expression of cog-2::GFP) of lin-11(n389) mutant. "
+Remark	"uterine pi-specific (controlled by lin-11-B element) expression of lin-11 rescued only the utse defect (as revealed by the expression of cog-2::GFP) of lin-11(n389) mutant."
 Reference	"WBPaper00005357"
 
 
@@ -1341,7 +1340,7 @@ Involved	"WBbt:0003927"	Necessary
 Involved	"WBbt:0005663"	Necessary
 Involved	"WBbt:0005662"	Necessary
 Involved	"WBbt:0006825"	Necessary
-Remark	"A promoter mutation (p694) that disrupts tax-2 expression in the AQR, ASE, AFD and BAG sensory neurons also disrupted social feeding of npr-1(ad609) animal. "
+Remark	"A promoter mutation (p694) that disrupts tax-2 expression in the AQR, ASE, AFD and BAG sensory neurons also disrupted social feeding of npr-1(ad609) animal."
 Remark	"Genotype \"npr-1(ad609); tax-2(p694)\""
 Remark	"specific phenotype: aggregation in groups and bordering."
 Reference	"WBPaper00005512"
@@ -1355,7 +1354,7 @@ Involved	"WBbt:0003927"	Necessary
 Involved	"WBbt:0005663"	Necessary
 Involved	"WBbt:0005662"	Necessary
 Involved	"WBbt:0006825"	Necessary
-Remark	"A promoter mutation (p694) that disrupts tax-2 expression in the AQR, ASE, AFD and BAG sensory neurons restored a slowing response to food of npr-1(ad609) animal. "
+Remark	"A promoter mutation (p694) that disrupts tax-2 expression in the AQR, ASE, AFD and BAG sensory neurons restored a slowing response to food of npr-1(ad609) animal."
 Remark	"Genotype \"npr-1(ad609); tax-2(p694)\""
 Reference	"WBPaper00005512"
 
@@ -2083,7 +2082,7 @@ Involved	"WBbt:0004489"	Remark
 Remark	"ENTITY:WBls:0000056(adult male)|WBbt:0005741(tail)|GO:0035178(turning behavior)|GO:0007617(mating behavior) QUALITY:PATO:0001677(inefficient)"
 Remark	"Published_as sel-12"
 Remark	"expression of sel-12 in M lineage by hlh-8::sel-12 transgene rescued defects in male tail turning behavior."
-Remark	"turning behavior deficiency is likely caused by male sex muscle defects. "
+Remark	"turning behavior deficiency is likely caused by male sex muscle defects."
 Reference	"WBPaper00005557"
 
 
@@ -2096,7 +2095,7 @@ Involved	"WBbt:0004489"	Remark
 Remark	"ENTITY:WBls:0000056(adult male)|WBbt:0005741(tail)|PATO:0000617(bent)|PATO:0000077(response to)|CHEBI:28790(SEROTONIN) QUALITY:PATO:0000468(reduced)"
 Remark	"Published_as sel-12"
 Remark	"expression of sel-12 in M lineage by hlh-8::sel-12 transgene rescued defects in male curling response to 20 mM serotonin."
-Remark	"tail curling in response to 5-HT deficiency is likely caused by male sex muscle defects. "
+Remark	"tail curling in response to 5-HT deficiency is likely caused by male sex muscle defects."
 Reference	"WBPaper00005557"
 
 
@@ -2139,7 +2138,6 @@ Assay	"Expression_mosaic"
 Phenotype	"WBPhenotype:0000134"	Autonomous
 Gene	"WBGene00000899"
 Involved	"WBbt:0005665"	Sufficient
-Remark	" "
 Remark	"ENTITY:Genotype:daf-7(e1372)|WBbt:0005665(ASH)|WBGene00005032(sra-6)|GO:0010467(gene expression) QUALITY:PATO:0000071(amount)"
 Remark	"Genotype \"daf-7(e1372); daf-3(mgDf90); oyIs14(sra-6::gfp); Ex(osm-10::daf-3)\""
 Remark	"Published_as daf-3"
@@ -2177,7 +2175,6 @@ Assay	"Expression_mosaic"
 Phenotype	"WBPhenotype:0000637"
 Gene	"WBGene00000899"
 Involved	"WBbt:0003679"	Sufficient
-Remark	" "
 Remark	"ENTITY:Genotype:daf-7(e1372)|WBls:0000032(dauer larva)|GO:0032502(developmental process) QUALITY:PATO:0001707(active)"
 Remark	"Genotype \"daf-7(e1372); daf-3(mgDf90); oyIs14(sra-6::gfp); Ex(unc-14::daf-3)\""
 Remark	"Published_as daf-3"
@@ -2559,7 +2556,7 @@ Remark	"ENTITY:WBbt:0005175(gonad)|GO:0048513(organ development) QUALITY:PATO:00
 Remark	"ENTITY:WBbt:0007854(somatic gonad precursor cell)|GO:0045165(cell fate commitment) QUALITY:PATO:0001507(disrupted) NOT"
 Remark	"Genotype \"hnd-1(q740);qEx495[hnd-1(+) myo-3::YFP pes-1::CFP]\""
 Remark	"Published_as hnd-1"
-Remark	"‘germline mosaics’, animals that retained the (hnd-1 genomic fragment transgene) array in somatic tissues but failed to transmit it to their progeny; such animals have lost the array in divisions generating the germline blastomere P4. All six germline mosaics had a wild-type gonadal primordium."
+Remark	"'germline mosaics', animals that retained the (hnd-1 genomic fragment transgene) array in somatic tissues but failed to transmit it to their progeny; such animals have lost the array in divisions generating the germline blastomere P4. All six germline mosaics had a wild-type gonadal primordium."
 Reference	"WBPaper00006002"
 
 
@@ -3278,7 +3275,7 @@ Gene	"WBGene00002003"
 Involved	"WBbt:0007846"	Sufficient
 Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0048812(neurite morphogenesis) QUALITY:PATO:0000460(abnormal)"
 Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001959(defasciculated)"
-Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001953(	decussate) "
+Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001953(	decussate)"
 Remark	"Genotype \"hse-5; Ex[dpy-7::hse-5]\""
 Remark	"Published_as hse-5"
 Remark	"hse-5 expressed under the control of hypodermis-specific cis-regulatory elements from the dpy-7 gene can rescue the defects of hse-5 mutant midline crossover defects of PVQ axons."
@@ -3292,7 +3289,7 @@ Gene	"WBGene00002029"
 Involved	"WBbt:0007846"	Sufficient
 Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0048812(neurite morphogenesis) QUALITY:PATO:0000460(abnormal)"
 Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001959(defasciculated)"
-Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001953(	decussate) "
+Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001953(	decussate)"
 Remark	"Genotype \"hst-2; Ex[dpy-7::hst-2]\""
 Remark	"Published_as hst-2"
 Remark	"hst-2 expressed under the control of hypodermis-specific cis-regulatory elements from the dpy-7 gene can rescue the defects of hst-2 mutant midline crossover defects of PVQ axons."
@@ -3306,7 +3303,7 @@ Gene	"WBGene00002031"
 Not_involved	"WBbt:0007846"	Insufficient
 Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0048812(neurite morphogenesis) QUALITY:PATO:0000460(abnormal)"
 Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001959(defasciculated)"
-Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001953(	decussate) "
+Remark	"ENTITY:WBbt:0006976(PVQ)|GO:0043005(neuron projection) QUALITY:PATO:0001953(	decussate)"
 Remark	"Genotype \"hst-6; Ex[dpy-7::hst-6]\""
 Remark	"Published_as hst-6"
 Remark	"hst-6 expressed under the control of hypodermis-specific cis-regulatory elements from the dpy-7 gene does not rescue the defects of hst-6 mutant midline crossover defects of PVQ axons."
@@ -5368,7 +5365,7 @@ Involved	"WBbt:0006876"	Necessary
 Remark	"ENTITY:WBbt:0006873(Psub2)|WP:CE24910(GPR-1)|GO:0008104(protein localization) QUALITY:PATO:0000628(ectopic) NOT"
 Remark	"Genotype \"mes-1(bn7)\""
 Remark	"Published_as mes-1"
-Remark	"the ectopic P2-EMS contacts can recruit GPR-1 as endogenous P2-EMS contacts do, and hence that cell-cell contact can enrich GPR-1 at a cortical site. This appears to depend on MES-1 signaling specifically at the P2-EMS contact, as control recombinations between P2-EMS pairs and the other two cells of the four-cell stage – ABa and ABp – referred to as ABx here, and contacts with P2-EMS pairs that lack MES-1 failed to accumulate similar levels of mCherry::GPR-1."
+Remark	"the ectopic P2-EMS contacts can recruit GPR-1 as endogenous P2-EMS contacts do, and hence that cell-cell contact can enrich GPR-1 at a cortical site. This appears to depend on MES-1 signaling specifically at the P2-EMS contact, as control recombinations between P2-EMS pairs and the other two cells of the four-cell stage - ABa and ABp - referred to as ABx here, and contacts with P2-EMS pairs that lack MES-1 failed to accumulate similar levels of mCherry::GPR-1."
 Reference	"WBPaper00040172"
 
 
@@ -5413,7 +5410,7 @@ Involved	"WBbt:0003679"	Sufficient
 Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Remark	"Genotype \"Prgef-1::unc-22ds; rde-4(-); Prgef-1::rde-1(+)\""
 Remark	"Published_as rde-4"
-Remark	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in rde-4(−) animals that expressed rde-4(+) in neurons. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing."
+Remark	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in rde-4(&minus;) animals that expressed rde-4(+) in neurons. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing."
 Reference	"WBPaper00040276"
 
 
@@ -5425,7 +5422,7 @@ Involved	"WBbt:0003679"	Sufficient
 Remark	"ENTITY:WBbt:0006804(body wall muscle cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Remark	"Genotype \"Prgef-1::unc-22ds; mut-2(-); Prgef-1::mut-2(+)\""
 Remark	"Published_as mut-2"
-Remark	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in mut-2(−) animals that expressed mut-2(+) in neurons, and this silencing was due to mobile RNA because it required SID-1."
+Remark	"We rescued RNAi pathway mutants only in neurons of animals that contain the neur::u22ds transgene and measured silencing of the target gene unc-22 in mutant muscle cells. We detected unc-22 silencing in mut-2(&minus;) animals that expressed mut-2(+) in neurons, and this silencing was due to mobile RNA because it required SID-1."
 Reference	"WBPaper00040276"
 
 
@@ -5437,7 +5434,7 @@ Involved	"WBbt:0006804"	Sufficient
 Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Remark	"Genotype \"sur-5::gfp; rde-4(-); Pmyo-3::rde-4(+)\""
 Remark	"Published_as rde-4"
-Remark	"We generated rde-4(−); sur-5::gfp animals and moved a representative transgene that expresses rde-4 in bwm cells (bwm::rde-4(+)) into these animals. Significant silencing (P < 0.05) was detected in tissues other than muscle in the resultant mosaic animals and was most easily observed in the prominent gut nuclei. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing of gut nuclei."
+Remark	"We generated rde-4(&minus;); sur-5::gfp animals and moved a representative transgene that expresses rde-4 in bwm cells (bwm::rde-4(+)) into these animals. Significant silencing (P < 0.05) was detected in tissues other than muscle in the resultant mosaic animals and was most easily observed in the prominent gut nuclei. Consistent with silencing due to mobile RNAs, SID-1 was required for the observed silencing of gut nuclei."
 Reference	"WBPaper00040276"
 
 
@@ -5448,7 +5445,7 @@ Gene	"WBGene00003499"
 Involved	"WBbt:0006804"	Sufficient
 Remark	"ENTITY:WBbt:0005792(intestinal cell)|GO:0016246(RNA interference) QUALITY:PATO:0001997(reduced) NOT"
 Remark	"Genotype \"sur-5::gfp; mut-2(-); Pmyo-3::mut-2(+)\""
-Remark	"Moving a representative transgene that expressed mut-2(+) in bwm cells (bwm::mut-2(+)) into mut-2(−); sur-5::gfp animals resulted in the silencing of GFP expression in the gut. The observed silencing was dependent on SID-1, showing that mobile RNA triggered the silencing in mut-2(−) gut cells."
+Remark	"Moving a representative transgene that expressed mut-2(+) in bwm cells (bwm::mut-2(+)) into mut-2(&minus;); sur-5::gfp animals resulted in the silencing of GFP expression in the gut. The observed silencing was dependent on SID-1, showing that mobile RNA triggered the silencing in mut-2(&minus;) gut cells."
 Remark	"Published_as mut-2"
 Reference	"WBPaper00040276"
 
@@ -5547,7 +5544,7 @@ Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
 Remark	"QUALITY:PATO:0001997(reduced) NOT"
 Remark	"Genotype \"hpl-2(tm1489); daf-2(e1370); Ex[Prab-3::hpl-2]\""
 Remark	"Published_as hpl-2"
-Remark	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the pan neuronal rab-3 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
+Remark	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22&deg;C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the pan neuronal rab-3 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
 Reference	"WBPaper00040560"
 
 
@@ -5560,7 +5557,7 @@ Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
 Remark	"QUALITY:PATO:0001997(reduced) NOT"
 Remark	"Genotype \"hpl-2(tm1489); daf-2(e1370); Ex[Pges-1::hpl-2]\""
 Remark	"Published_as hpl-2"
-Remark	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the intestinal ges-1 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
+Remark	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22&deg;C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the intestinal ges-1 promoter allowed more than 30% of hpl-2;daf-2(e1370) mutant animals to exit the dauer stage."
 Reference	"WBPaper00040560"
 
 
@@ -5573,7 +5570,7 @@ Remark	"ENTITY:WBls:0000032(dauer larva)|GO:0043054(dauer exit)"
 Remark	"QUALITY:PATO:0001997(reduced)"
 Remark	"Genotype \"hpl-2(tm1489); daf-2(e1370); Ex[Plin-31::hpl-2]\""
 Remark	"Published_as hpl-2"
-Remark	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22°C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the lin-31 promoter, which is expressed in vulval precursor cells, failed to promote rescue."
+Remark	"To establish in which tissue HPL-2 acts to influence dauer development, we carried out tissue-specific rescue experiments on hpl-2;daf-2(e1370) animals raised at 22&deg;C. While at this temperature all daf-2 animals reenter the reproductive cycle after 7 days, less than 1% of the double hpl-2;daf-2 mutants ever exit the dauer stage. Expression of hpl-2 under the control of the lin-31 promoter, which is expressed in vulval precursor cells, failed to promote rescue."
 Reference	"WBPaper00040560"
 
 
@@ -6949,7 +6946,7 @@ Anatomy_function : "WBbtf0580"
 Assay	"Laser_ablation"
 Phenotype	"WBPhenotype:0001858"
 Involved	"WBbt:0005842"	Necessary
-Remark	"AVA-ablated animals back in response to anterior touch, but backing is uncoordinated (Chalfie et al., 1985). We found that head oscillations were not suppressed in response to anterior touch in AVA-ablated animals, suggesting that the gap junctions between the RIM and AVA neurons are important in linking the touch response to the suppression of head oscillations. "
+Remark	"AVA-ablated animals back in response to anterior touch, but backing is uncoordinated (Chalfie et al., 1985). We found that head oscillations were not suppressed in response to anterior touch in AVA-ablated animals, suggesting that the gap junctions between the RIM and AVA neurons are important in linking the touch response to the suppression of head oscillations."
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0009612(response to mechanical stimulus)|PATO:0002052(decreased occurrence)|WBbt:0005739(head)|GO:0050881(movement)|GO:0014703(oscillatory muscle contraction)"
 Remark	"QUALITY:PATO:0002052(decreased occurrence)"
 Reference	"WBPaper00025096"
@@ -7017,7 +7014,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0006935(chemotaxis)|CHEBI:15837(isoamyl
 Remark	"QUALITY:PATO:0000460(defective)"
 Remark	"Genotype \"arr-1(ok401); Ex[ODR-3::ARR-1] \""
 Remark	"Published_as arr-1"
-Remark	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1–368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
+Remark	"To determine whether the defects in adaptation in arr-1(ok401) animals were because of the loss of ARR-1 in the chemosensory neurons, 2.7 kb of the odr-3 promoter was used to drive expression of wild-type ARR-1 (ODR-3::WT) or C-terminally truncated ARR-1 (ODR-3::1-368) in the AWC neurons of arr-1(ok401) null mutants. These transgenic strains were then tested for their ability to adapt to isoamyl alcohol in both the standard adaptation and time course chemotaxis assays. The arr-1(ok401) adaptation defect was fully rescued in both transgenic strains."
 Reference	"WBPaper00025173"
 
 
@@ -7212,7 +7209,7 @@ Remark	"ENTITY:WBbt:0003832(AVM)|GO:0030424(axon)|GO:0007411(axon guidance)"
 Remark	"QUALITY:PATO:0000460(defective)"
 Remark	"Genotype \"ebax-1(ju699); unc-6(ev400); Ex[Pebax-1::EBAX-1]\""
 Remark	"Published_as ebax-1"
-Remark	"We performed mosaic analysis in unc-6; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&#64257;ed animals speci&#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-6 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
+Remark	"We performed mosaic analysis in unc-6; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&amp;#64257;ed animals speci&amp;#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-6 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
 Reference	"WBPaper00044158"
 
 
@@ -7226,7 +7223,7 @@ Remark	"ENTITY:WBbt:0003832(AVM)|GO:0030424(axon)|GO:0007411(axon guidance)"
 Remark	"QUALITY:PATO:0000460(defective)"
 Remark	"Genotype \"ebax-1(ju699); unc-40(e1430); Ex[Pebax-1::EBAX-1]\""
 Remark	"Published_as ebax-1"
-Remark	"We performed mosaic analysis in unc-40; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&#64257;ed animals speci&#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-40 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
+Remark	"We performed mosaic analysis in unc-40; ebax-1 double mutants coexpressing a rescuing transgene Pebax-1::EBAX-1 and a coinjection marker Psur-5::SUR-5::mCherry that labels nuclei of cells carrying the transgene. We then identi&amp;#64257;ed animals speci&amp;#64257;cally losing the transgenes either in the AB lineage-derived cells (mainly neurons) or in the P1 lineage-derived cells (mainly nonneuronal cells) and scored them for AVM guidance defects. AB-loss animals showed the same severity of axon guidance defects as ebax-1; unc-40 double mutant animals. In contrast, the guidance defects in P1-loss animals were rescued by neuron-restricted expression of EBAX-1."
 Reference	"WBPaper00044158"
 
 
@@ -7433,7 +7430,7 @@ Involved	"WBbt:0005784"	Sufficient
 Remark	"ENTITY:WBbt:0005784(germ line)|GO:0008283(cell proliferation)"
 Remark	"QUALITY:PATO:0001997(reduced) NOT"
 Remark	"Genotype \"kin-10(ok1751);glp-1(ar202gf); ugEx27[kin-10::FLAG]\""
-Remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant."
+Remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&amp;#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant."
 Reference	"WBPaper00045273"
 
 
@@ -7446,7 +7443,7 @@ Remark	"ENTITY:WBbt:0005784(germ line)|GO:0008283(cell proliferation)"
 Remark	"QUALITY:PATO:0001997(reduced)"
 Remark	"Genotype \"kin-10(ok1751);glp-1(ar202gf); ugEx27[kin-10::FLAG]\""
 Remark	"Published_as kin-10"
-Remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant."
+Remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&amp;#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant."
 Reference	"WBPaper00045273"
 
 
@@ -8032,7 +8029,7 @@ Involved	"WBbt:0006768"	Necessary
 Remark	"ENTITY:WBbt:0004617(VC4)|WBbt:0004613(VC5)|WBGene00006744(unc-4)|GO:0006351(transcription, DNA-templated)"
 Remark	"QUALIFY:PATO:0002052(deceased occurrence)"
 Remark	"Genotype \"uIs45[unc-4p::GFP]\""
-Remark	"laser ablation of vulF cells caused the loss of unc-4 expression in the VC4 and VC5 neurons, suggesting that vulF cells are responsible for releasing EGF that activates unc-4. "
+Remark	"laser ablation of vulF cells caused the loss of unc-4 expression in the VC4 and VC5 neurons, suggesting that vulF cells are responsible for releasing EGF that activates unc-4."
 Reference	"WBPaper00044613"
 
 
@@ -8080,7 +8077,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|PATO:0000304(decrea
 Remark	"QUALIFY:PATO:0001997(decreased amount) NOT"
 Remark	"Genotype \"XE1474(lin-15B(n744)X; eri-1(mg366)IV; rde-1(ne219)V; wpSi6[Pdat-1::rde-1:SL2:sid-1,Cbunc-119(+)]II)\""
 Remark	"Published_as dop-3"
-Remark	"RNAi against dop-3 blocked basal slowing in the control strain (susceptible to systemic RNAi) but did not affect basal slowing in the Pdat-1 strain (susceptibble to dopaminergic neuron-specific RNAi). Our results demonstrate that the dopamine receptor dop-3 does not function in the dopamine neurons. "
+Remark	"RNAi against dop-3 blocked basal slowing in the control strain (susceptible to systemic RNAi) but did not affect basal slowing in the Pdat-1 strain (susceptibble to dopaminergic neuron-specific RNAi). Our results demonstrate that the dopamine receptor dop-3 does not function in the dopamine neurons."
 Reference	"WBPaper00044483"
 
 
@@ -8093,7 +8090,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0009612(response to mechanical stimulus
 Remark	"QUALIFY:PATO:0001997(decreased amount) NOT"
 Remark	"Genotype \"XE1474(lin-15B(n744)X; eri-1(mg366)IV; rde-1(ne219)V; wpSi11[Peat-4::rde-1:SL2:sid-1, Cbunc-119(+)]II)\""
 Remark	"Published_as glr-1"
-Remark	"We fed neuron-sensitized (lin15B; eri-1) animals dsRNA against glr-1. These animals were deficient in their ability to respond to nose touch when compared to controls. In contrast, RNAi against glr-1 did not affect the ability of the glutamate-specific (vis-a-vis RNAi susceptibility) strain to respond to nose touch.  Our results demonstrate that the glutamate receptor glr-1 does not function in the glutamate neurons. "
+Remark	"We fed neuron-sensitized (lin15B; eri-1) animals dsRNA against glr-1. These animals were deficient in their ability to respond to nose touch when compared to controls. In contrast, RNAi against glr-1 did not affect the ability of the glutamate-specific (vis-a-vis RNAi susceptibility) strain to respond to nose touch.  Our results demonstrate that the glutamate receptor glr-1 does not function in the glutamate neurons."
 Reference	"WBPaper00044483"
 
 
@@ -8275,7 +8272,7 @@ Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:000300
 Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
 Remark	"Genotype \"plx-1(nc36); Ex[Pitr-1::plx-1]\""
 Remark	"Published_as plx-1"
-Remark	"We also observed partial but significant rescue of synaptic tiling between DA8 and DA9 phenotype with another DA9 specific promoter (Pitr-1), which is active only in later larval stage (L3 to L4). "
+Remark	"We also observed partial but significant rescue of synaptic tiling between DA8 and DA9 phenotype with another DA9 specific promoter (Pitr-1), which is active only in later larval stage (L3 to L4)."
 Reference	"WBPaper00042107"
 
 
@@ -8353,7 +8350,7 @@ Remark	"ENTITY:WBbt:0004858(DA8)|WBbt:0004857(DA9)|GO:0045202(synapse)|GO:000300
 Remark	"QUALIFY:PATO:0001507(disrupted) NOT"
 Remark	"Genotype \"smp-1; smp-2; Ex[Pitr-1::smp-1]\""
 Remark	"Published_as smp-1"
-Remark	"We also observed partial but significant rescue of synaptic tiling between DA8 and DA9 phenotype with another DA9 specific promoter (Pitr-1), which is active only in later larval stage (L3 to L4). "
+Remark	"We also observed partial but significant rescue of synaptic tiling between DA8 and DA9 phenotype with another DA9 specific promoter (Pitr-1), which is active only in later larval stage (L3 to L4)."
 Reference	"WBPaper00042107"
 
 
@@ -8739,7 +8736,7 @@ Assay	"Genetic_mosaic"
 Phenotype	"WBPhenotype:0000105"
 Gene	"WBGene00002189"
 Not_involved	"WBbt:0005784"	Unnecessary
-Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation) "
+Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)"
 Remark	"QUALIFY:PATO:0002052(decreased occurance) NOT"
 Remark	"Genotype \"kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]\""
 Remark	"Published_as kin-1"
@@ -8752,7 +8749,7 @@ Assay	"Genetic_mosaic"
 Phenotype	"WBPhenotype:0000106"
 Gene	"WBGene00002189"
 Not_involved	"WBbt:0005784"	Unnecessary
-Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)|GO:1900194(negative regulation of oocyte maturation) "
+Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)|GO:1900194(negative regulation of oocyte maturation)"
 Remark	"QUALIFY:PATO:0002052(decreased occurance) NOT"
 Remark	"Genotype \"kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]\""
 Remark	"Published_as kin-1"
@@ -8766,7 +8763,7 @@ Phenotype	"WBPhenotype:0000105"
 Gene	"WBGene00002189"
 Involved	"WBbt:0005828"	Sufficient
 Involved	"WBbt:0005828"	Necessary
-Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation) "
+Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)"
 Remark	"QUALIFY:PATO:0002052(decreased occurance)"
 Remark	"Genotype \"kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]\""
 Remark	"Published_as kin-1"
@@ -9001,7 +8998,7 @@ Remark	"ENTITY: WBbt:0004874(V6R)|WBbt:0004875(V6L)|GO:0001708(cell fate specifi
 Remark	"QUALITY:PATO:0002470(absent) NOT"
 Remark	"Genotype \"pal-1(ct224) dpy-17(e164) ncl-1(e1865) unc-36(e251) III; him-8(e1489) IV; sDp3(III;f)\""
 Remark	"Published_as pal-1"
-Remark	"We isolated viable pal-1(ct224) genetic mosaics using the linked mutation ncl-1 as a genotypic marker. We also identified several other Ncl-1 mosaic males in which other cells that require mab-5 activity were Ncl. Four of these animals were pal-1(&#8722;) in ABp-derived cells and produced animals that appeared wild type. Since ABp gives rise to V5, this finding indicates that cells in the V5 lineage do not require pal-1 activity to develop normally."
+Remark	"We isolated viable pal-1(ct224) genetic mosaics using the linked mutation ncl-1 as a genotypic marker. We also identified several other Ncl-1 mosaic males in which other cells that require mab-5 activity were Ncl. Four of these animals were pal-1(&amp;#8722;) in ABp-derived cells and produced animals that appeared wild type. Since ABp gives rise to V5, this finding indicates that cells in the V5 lineage do not require pal-1 activity to develop normally."
 Reference	"WBPaper00003428"
 
 
@@ -9363,7 +9360,7 @@ Involved	"WBbt:0007026"	Necessary
 Involved	"WBbt:0004506"	Necessary
 Remark	"ENTITY:WBbt:0006865(DTC)|GO:0030154(cell differentiation)"
 Remark	"QUALITY:PATO:0000462(absent)"
-Remark	"Wild-type animals with laser-ablated Z1.aa and Z4.pp failed to produce DTC (lag-2::GFP expressing cell). "
+Remark	"Wild-type animals with laser-ablated Z1.aa and Z4.pp failed to produce DTC (lag-2::GFP expressing cell)."
 Reference	"WBPaper00029347"
 
 
@@ -9374,7 +9371,7 @@ Gene	"WBGene00010497"
 Involved	"WBbt:0005812"	Sufficient
 Remark	"ENTITY:WBbt:0005812(excretory cell)|WBbt:0005775(excretory canal)|GO:0044463(cell projection part)|GO:0048858(cell projection morphogenesis)"
 Remark	"QUALITY:PATO:0000628(ectopic) NOT"
-Remark	"Genotype \"axl-1(tm1095);huEx102[vha-1&#8759;axl-1;myo-2&#8759;gfp]\""
+Remark	"Genotype \"axl-1(tm1095);huEx102[vha-1&amp;#8759;axl-1;myo-2&amp;#8759;gfp]\""
 Remark	"Published_as axl-1"
 Remark	"The formation of excretory canal ectopic branch phenotype was rescued by excretory cell-specific expression of axl-1 (using the promoter of the vha-1 gene), demonstrating that AXL-1 functions cell autonomously in excretory cell development."
 Reference	"WBPaper00030820"
@@ -9478,7 +9475,7 @@ Involved	"WBbt:0004096"	Necessary
 Remark	"ENTITY:WBbt:0004096(PQR)|GO:0001764(neuron migration)"
 Remark	"QUALITY:PATO:0001511(defective)"
 Remark	"Genotype \"mig-15(rh80);Ex[mig-15(+)\""
-Remark	"Mosaic analysis was used to determine if mig-15 acts cell-autonomously. Forty seven mosaics had losses in the PQR lineage and displayed PQR direction and migration defects similar to mig-15(rh80) alone. Twenty-&#64257;ve PQR(&#8722;) mosaics had detectable losses only in PQR displayed PQR migration defects."
+Remark	"Mosaic analysis was used to determine if mig-15 acts cell-autonomously. Forty seven mosaics had losses in the PQR lineage and displayed PQR direction and migration defects similar to mig-15(rh80) alone. Twenty-&amp;#64257;ve PQR(&amp;#8722;) mosaics had detectable losses only in PQR displayed PQR migration defects."
 Remark	"Mosaic analysis was used to determine if mig-15 acts cell-autonomously. Of 64 mosaics that retained mig-15(+) in PQR, 62 displayed normal PQR migration."
 Remark	"Published_as mig-15"
 Reference	"WBPaper00032247"
@@ -9494,7 +9491,7 @@ Remark	"ENTITY:WBbt:0003927(AQR)|GO:0001764(neuron migration)"
 Remark	"QUALITY:PATO:0001511(defective)"
 Remark	"Genotype \"mig-15(rh80);Ex[mig-15(+)\""
 Remark	"Mosaic analysis was used to determine if mig-15 acts cell-autonomously. Of 61 mosaics that retained mig-15(+) in AQR, 60 showed normal AQR migration. 12 mosaics with losses in URXR, an AB.a derivative, but not AQR had normal AQR migration."
-Remark	"Mosaic analysis was used to determine if mig-15 acts cell-autonomously. Thirty three mosaics were identi&#64257;ed that had lost mig-15(+) in AQR and displayed AQR migration defects similar to mig-15(rh80) alone. 22 mosaics with losses in AQR but not in URXR had defective migration of the Q cell descendant neurons."
+Remark	"Mosaic analysis was used to determine if mig-15 acts cell-autonomously. Thirty three mosaics were identi&amp;#64257;ed that had lost mig-15(+) in AQR and displayed AQR migration defects similar to mig-15(rh80) alone. 22 mosaics with losses in AQR but not in URXR had defective migration of the Q cell descendant neurons."
 Remark	"Published_as mig-15"
 Reference	"WBPaper00032247"
 
@@ -9538,7 +9535,7 @@ Phenotype	"WBPhenotype:0000384"	Autonomous
 Gene	"WBGene00003006"
 Involved	"WBbt:0005270"	Sufficient
 Involved	"WBbt:0005303"
-Remark	"Because Wnt signaling is known to affect a variety of cells in the C. elegans tail, "
+Remark	"Because Wnt signaling is known to affect a variety of cells in the C. elegans tail,"
 Remark	"ENTITY:WBbt:0005270(DD neuron)|WBbt:0005303(VD neuron)|GO:0007411(axon guidance)"
 Remark	"QUALITY:PATO:0001511(defective) NOT"
 Remark	"Genotype \"lin-17(n671); Ex[Punc-47::lin-17]\""
@@ -9938,7 +9935,7 @@ Not_involved	"WBbt:0005178"	Unnecessary
 Remark	"ENTITY:WBbt:0007809(VPC)|WBGene00003024(lin-39)|GO:0006351(transcription, DNA-templated)"
 Remark	"QUALITY:PATO:0002175(deviation) NOT"
 Remark	"Genotype \"ehn-3(q689); hnd-1(q740)\""
-Remark	"In order to determine whether the gonad in&#64258;uenced the LIN-39 pro&#64257;le in vulval precursor cells, we quanti&#64257;ed LIN-39 level by immunostaining in an ehn-3(q689); hnd-1(q740) double mutant, where the gonadal progenitor cells Z1 and Z4 die at early stages. The LIN-39 pro&#64257;le was not affected in ehn-3(q689); hnd-1(q740) double mutants compared to N2, which excluded the gonad as a source of asymmetry for the early L2 stage LIN-39 pro&#64257;le."
+Remark	"In order to determine whether the gonad in&amp;#64258;uenced the LIN-39 pro&amp;#64257;le in vulval precursor cells, we quanti&amp;#64257;ed LIN-39 level by immunostaining in an ehn-3(q689); hnd-1(q740) double mutant, where the gonadal progenitor cells Z1 and Z4 die at early stages. The LIN-39 pro&amp;#64257;le was not affected in ehn-3(q689); hnd-1(q740) double mutants compared to N2, which excluded the gonad as a source of asymmetry for the early L2 stage LIN-39 pro&amp;#64257;le."
 Reference	"WBPaper00039829"
 
 
@@ -9995,7 +9992,7 @@ Remark	"ENTITY:WBbt:0008598(Q cell)|GO:0016477(cell migration)"
 Remark	"QUALITY:PATO:0000460(abnormal) NOT"
 Remark	"Genotype \"mig-21(u787); Ex[Pegl-17::mig-21]\""
 Remark	"Published_as mig-21"
-Remark	"To investigate whether expression of mig-21 in the Q neuroblasts is suf&#64257;cient for the function of mig-21 in Q cell polarization and migration, we expressed wild type mig-21 using the egl-17 promoter in mig-21 mutants. At the L1 stage of larval development, the egl-17 promoter is expressed in the Q neuroblasts and in a subset of cells in the head. Importantly, the egl-17 promoter is not expressed in body wall muscle cells, as con&#64257;rmed by smFISH analysis of mig-21(u787); Pegl-17::mig-21 animals, which showed clear overexpression of mig-21 in the Q neuroblasts but not in body wall muscle cells. We found that Q neuroblast speci&#64257;c expression of mig-21 almost fully rescued the mig-21 mutant phenotype, consistent with a cell autonomous function of mig-21 in the Q neuroblasts."
+Remark	"To investigate whether expression of mig-21 in the Q neuroblasts is suf&amp;#64257;cient for the function of mig-21 in Q cell polarization and migration, we expressed wild type mig-21 using the egl-17 promoter in mig-21 mutants. At the L1 stage of larval development, the egl-17 promoter is expressed in the Q neuroblasts and in a subset of cells in the head. Importantly, the egl-17 promoter is not expressed in body wall muscle cells, as con&amp;#64257;rmed by smFISH analysis of mig-21(u787); Pegl-17::mig-21 animals, which showed clear overexpression of mig-21 in the Q neuroblasts but not in body wall muscle cells. We found that Q neuroblast speci&amp;#64257;c expression of mig-21 almost fully rescued the mig-21 mutant phenotype, consistent with a cell autonomous function of mig-21 in the Q neuroblasts."
 Reference	"WBPaper00040419"
 
 
@@ -10033,7 +10030,7 @@ Remark	"ENTITY:WBbt:0003927(AQR)|WBbt:0004096(PQR)|GO:0016477(cell migration)"
 Remark	"QUALITY:PATO:0000460(defective) NOT"
 Remark	"Genotype \"unc-40(n324); lqIs151[Pscm::unc-40::gfp]\""
 Remark	"Published_as unc-40"
-Remark	"We drove the expression of the unc-40 coding region fused to green &#64258;uorescent protein (gfp) in the seam cells and Q cells using the scm promoter. This construct was expressed in these cells, and UNC-40::GFP accumulated at the cell margins of the seam cells and Q cells. Furthermore, Pscm::unc-40::gfp rescued the AQR and PQR migration defects of unc-40(n324), suggesting that UNC-40 activity in the seam cells and/or Q cells is suf&#64257;cient for AQR and PQR migration."
+Remark	"We drove the expression of the unc-40 coding region fused to green &amp;#64258;uorescent protein (gfp) in the seam cells and Q cells using the scm promoter. This construct was expressed in these cells, and UNC-40::GFP accumulated at the cell margins of the seam cells and Q cells. Furthermore, Pscm::unc-40::gfp rescued the AQR and PQR migration defects of unc-40(n324), suggesting that UNC-40 activity in the seam cells and/or Q cells is suf&amp;#64257;cient for AQR and PQR migration."
 Reference	"WBPaper00041597"
 
 
@@ -10233,7 +10230,7 @@ Remark	"ENTITY:WBbt:0003927(AQR)|GO:0016477(cell migration)"
 Remark	"QUALITY:PATO:0000574(decreased length)"
 Remark	"Genotype \"casEx5002[Punc-47::MIG-13::GFP]; zdIs5[Pmec-4::GFP]; mig-13(mu225) casIs35[Pgcy-32::mCherry]\""
 Remark	"Published_as mig-13"
-Remark	"The previous study suggested that mig-13 acted in the motor neurons to promote QR.x migration. To examine this possibility, we expressed mig-13a using a motor neuron-specific promoter, Punc-47, in mig-13 mutants, and we found that Punc-47::mig-13 transgene failed to rescue the migration defects of AQR and AVM. "
+Remark	"The previous study suggested that mig-13 acted in the motor neurons to promote QR.x migration. To examine this possibility, we expressed mig-13a using a motor neuron-specific promoter, Punc-47, in mig-13 mutants, and we found that Punc-47::mig-13 transgene failed to rescue the migration defects of AQR and AVM."
 Reference	"WBPaper00042520"
 
 
@@ -10310,7 +10307,7 @@ Remark	"ENTITY:WBbt:0003832(AVM)|GO:0016477(cell migration)"
 Remark	"QUALITY:PATO:0000574(decreased length)"
 Remark	"Genotype \"casEx5002[Punc-47::MIG-13::GFP]; zdIs5[Pmec-4::GFP]; mig-13(mu225) casIs35[Pgcy-32::mCherry]\""
 Remark	"Published_as mig-13"
-Remark	"The previous study suggested that mig-13 acted in the motor neurons to promote QR.x migration. To examine this possibility, we expressed mig-13a using a motor neuron-specific promoter, Punc-47, in mig-13 mutants, and we found that Punc-47::mig-13 transgene failed to rescue the migration defects of AQR and AVM. "
+Remark	"The previous study suggested that mig-13 acted in the motor neurons to promote QR.x migration. To examine this possibility, we expressed mig-13a using a motor neuron-specific promoter, Punc-47, in mig-13 mutants, and we found that Punc-47::mig-13 transgene failed to rescue the migration defects of AQR and AVM."
 Reference	"WBPaper00042520"
 
 
@@ -10446,7 +10443,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO
 Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
 Remark	"Genotype \"daf-7(ok3125);Ex[Ptrx-1::daf-7]\""
 Remark	"Published_as daf-7"
-Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&amp;#64257;c trx-1 promoter, as well as under the ASI-speci&amp;#64257;c str-3 promoter, were each suf&amp;#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
 Reference	"WBPaper00045859"
 
 
@@ -10459,7 +10456,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0002209(behavioral defense response)|GO
 Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
 Remark	"Genotype \"daf-7(ok3125);Ex[Pstr-3::daf-7]\""
 Remark	"Published_as daf-7"
-Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&amp;#64257;c trx-1 promoter, as well as under the ASI-speci&amp;#64257;c str-3 promoter, were each suf&amp;#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
 Reference	"WBPaper00045859"
 
 
@@ -10472,7 +10469,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0016265(death)|NCBITaxon:287(Pseudomona
 Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
 Remark	"Genotype \"daf-7(ok3125);Ex[Ptrx-1::daf-7]\""
 Remark	"Published_as daf-7"
-Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&amp;#64257;c trx-1 promoter, as well as under the ASI-speci&amp;#64257;c str-3 promoter, were each suf&amp;#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
 Reference	"WBPaper00045859"
 
 
@@ -10485,7 +10482,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0016265(death)|NCBITaxon:287(Pseudomona
 Remark	"QUALITY: PATO:0002052(decreased occurrence) NOT"
 Remark	"Genotype \"daf-7(ok3125);Ex[Pstr-3::daf-7]\""
 Remark	"Published_as daf-7"
-Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&#64257;c trx-1 promoter, as well as under the ASI-speci&#64257;c str-3 promoter, were each suf&#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
+Remark	"We determined that transgenic overexpression of daf-7 under the native daf-7 promoter or the ASJ-speci&amp;#64257;c trx-1 promoter, as well as under the ASI-speci&amp;#64257;c str-3 promoter, were each suf&amp;#64257;cient to restore wild-type pathogen avoidance and susceptibility in the daf-7(ok3125) mutant background, consistent with the activity of DAF-7 as a secreted ligand."
 Reference	"WBPaper00045859"
 
 
@@ -11156,7 +11153,7 @@ Phenotype	"WBPhenotype:0001455"
 Involved	"WBbt:0006812"	Necessary
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0000625(reversed)"
-Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response. "
+Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
 Remark	"Genotype \"Ex[Pgcy-28.d::unc-103(gf)]\""
 Reference	"WBPaper00045214"
 
@@ -11167,7 +11164,7 @@ Phenotype	"WBPhenotype:0001455"
 Involved	"WBbt:0005413"	Necessary
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0000625(reversed)"
-Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response. "
+Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
 Remark	"Genotype \"Ex[Pttx-3::unc-103(gf)]\""
 Reference	"WBPaper00045214"
 
@@ -11178,7 +11175,7 @@ Phenotype	"WBPhenotype:0001455"
 Involved	"WBbt:0005836"	Necessary
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0000625(reversed)"
-Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response. "
+Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
 Remark	"Genotype \"Ex[Plin-11::unc-103(gf)]\""
 Reference	"WBPaper00045214"
 
@@ -11189,7 +11186,7 @@ Phenotype	"WBPhenotype:0001455"
 Involved	"WBbt:0006813"	Necessary
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0050919(negative chemotaxis)|PATO:0001159(concentrated)|MI:0351(pure)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0002052(decreased occurrence)"
-Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response. "
+Remark	"Functional inhibition of AIA, AIY, or AIZ interneurons changed the response from avoidance to attraction in worms exposed to high diacetyl concentrations, and inhibition of AIB impaired the avoidance response."
 Remark	"Genotype \"Ex[Pnpr-9::unc-103(gf)]\""
 Reference	"WBPaper00045214"
 
@@ -11289,7 +11286,7 @@ Involved	"WBbt:0005840"	Sufficient
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0000498(increased duration) NOT"
 Remark	"Genotype \"msi-1(os1); utrEx61[pnmr-1::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]\""
-Remark	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Remark	"In order to de&amp;#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&amp;#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
 Remark	"Published_as msi-1"
 Reference	"WBPaper00045009"
 
@@ -11307,7 +11304,7 @@ Involved	"WBbt:0004070"	Sufficient
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0000498(increased duration) NOT"
 Remark	"Genotype \"msi-1(os1); utrEx60[prig-3::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]\""
-Remark	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Remark	"In order to de&amp;#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&amp;#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
 Remark	"Published_as msi-1"
 Reference	"WBPaper00045009"
 
@@ -11326,7 +11323,7 @@ Not_involved	"WBbt:0005361"	Insufficient
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0000498(increased duration)"
 Remark	"Genotype \"msi-1(os1); utrEx59[plim-4::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]\""
-Remark	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Remark	"In order to de&amp;#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&amp;#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
 Remark	"Published_as msi-1"
 Reference	"WBPaper00045009"
 
@@ -11345,7 +11342,7 @@ Not_involved	"WBbt:0005303"	Insufficient
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0007613(memory)|GO:0008306(associative learning)|GO:0042595(behavioral response to starvation)|GO:0006935(chemotaxis)|CHEBI:16583(diacetyl)"
 Remark	"QUALITY:PATO:0000498(increased duration)"
 Remark	"Genotype \"msi-1(os1); utrEx70[punc-47::msi-1cDNA::MYC-tag::3'UTR, psur-5::mDsRed]\""
-Remark	"In order to de&#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
+Remark	"In order to de&amp;#64257;ne the cellular requirement for MSI-1, we performed tissue-speci&amp;#64257;c rescue experiments by expressing the msi-1 cDNA under the control of the endogenous, nmr-1, lim-4, rig-3, or the unc-47 promoters in the msi-1(lf) mutant. In the STAM (short-term associative memory) test, the endogenous promoter as well as the Pnmr-1- and Prig-3-driven msi-1 cDNA rescued the memory phenotype of msi-1(lf) mutants, whereas no rescue was observed when using Plim-4 or Punc-47."
 Remark	"Published_as msi-1"
 Reference	"WBPaper00045009"
 
@@ -11877,7 +11874,7 @@ Assay	"Expression_mosaic"
 Phenotype	"WBPhenotype:0002171"
 Gene	"WBGene00006526"
 Involved	"WBbt:0003904"	Sufficient
-Remark	"ASEL-specific expression of TAX-4 in tax-4 mutants completely reversed the alkaline pH chemotaxis defect. "
+Remark	"ASEL-specific expression of TAX-4 in tax-4 mutants completely reversed the alkaline pH chemotaxis defect."
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
 Remark	"QUALITY:PATO:0002303(decreased object quality) NOT"
 Remark	"Genotype \"tax-4(p678); ixEx183[pgcy-7p::tax-4gDNA; pmyo-3p::venus]\""
@@ -11890,7 +11887,7 @@ Assay	"Expression_mosaic"
 Phenotype	"WBPhenotype:0002171"
 Gene	"WBGene00006526"
 Not_involved	"WBbt:0003903"	Insufficient
-Remark	"ASEL-specific (but not ASER-specific) expression of TAX-4 in tax-4 mutants completely reversed the alkaline pH chemotaxis defect. "
+Remark	"ASEL-specific (but not ASER-specific) expression of TAX-4 in tax-4 mutants completely reversed the alkaline pH chemotaxis defect."
 Remark	"ENTITY:WBbt:0007833(organism)|GO:0010446(response to alkaline pH)|GO:0006935(chemotaxis)"
 Remark	"QUALITY:PATO:0002303(decreased object quality)"
 Remark	"Genotype \"tax-4(p678); ixEx183[pgcy-5p::tax-4gDNA; pmyo-3p::venus]\""
@@ -12073,7 +12070,7 @@ Remark	"ENTITY:WBbt:0007833(organism)|GO:0040011(locomotion)|PATO:0000763(paraly
 Remark	"QUALITY:PATO:0002302(decreased process quality) NOT"
 Remark	"Genotype \" [Punc-47::EAT-16::SL2::mCherry, unc-122::GFP]; eat-16(sa609)\""
 Remark	"Published_as eat-16"
-Remark	"Similarly, rescue expression of eat-16 in GABAergic neurons partly restores sensitivity to exogenous tyramine. "
+Remark	"Similarly, rescue expression of eat-16 in GABAergic neurons partly restores sensitivity to exogenous tyramine."
 Reference	"WBPaper00042221"
 
 
@@ -12690,9 +12687,9 @@ Not_involved	"WBbt:0007805"	Unnecessary
 Not_involved	"WBbt:0007805"	Unnecessary
 Not_involved	"WBbt:0007805"	Unnecessary
 Not_involved	"WBbt:0006861"	Unnecessary
-Remark	"Ablation of SPD and SPV neurons (n=14 males) at early L4 stage or damage "
-Remark	"to their sensory endings via laser cauterization of the spicule tips at "
-Remark	"adult stage (n=10 animals) did not interfere with males' ability to prod "
+Remark	"Ablation of SPD and SPV neurons (n=14 males) at early L4 stage or damage"
+Remark	"to their sensory endings via laser cauterization of the spicule tips at"
+Remark	"adult stage (n=10 animals) did not interfere with males' ability to prod"
 Remark	"or insert their spicules into hermaphrodites."
 Remark	"When SPC-ablated males (n=10) were mated to easily penetrable 96 hr unc-31 adult hermaphrodites, they did not extend their spicules through the vulva, but continuously prodded the vulval slit. Therefore, SPC neurons are required for prolonged protractor contraction but not for initiating or sustaining periodic contractions."
 Reference	"WBPaper00005027"
@@ -12925,7 +12922,7 @@ Remark	"ENTITY:WBbt:0005784(germ line)|GO:0008283(cell proliferation)"
 Remark	"QUALITY:PATO:0001997(reduced)"
 Remark	"Genotype \"kin-10(ok1751);glp-1(ar202gf); ugEx27[kin-10::FLAG]\""
 Remark	"Published_as kin-10"
-Remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant. Although we did not recover animals with speci&#64257;c loss of the ugEx27 array in the germ line, gonads with robust somatic gonad KIN-10 expression, but very limited expression in the germ line, maintain over-proliferation in regions where KIN-10 expression is low or absent."
+Remark	"To determine in which tissue KIN-10 functions to inhibit the proliferative fate, we performed mosaic analysis using kin-10(ok1751); glp-1(ar202gf); ugEx27[kin-10::FLAG] animals. In mosaic gonads that have no expression in the somatic gonad (including the DTC), expression in the germline is suf&amp;#64257;cient to suppress the tumorous phenotype of the kin-10(ok1751); glp-1(ar202gf) double mutant. Although we did not recover animals with speci&amp;#64257;c loss of the ugEx27 array in the germ line, gonads with robust somatic gonad KIN-10 expression, but very limited expression in the germ line, maintain over-proliferation in regions where KIN-10 expression is low or absent."
 Reference	"WBPaper00045273"
 
 
@@ -12961,7 +12958,7 @@ Phenotype	"WBPhenotype:0000105"
 Gene	"WBGene00002189"
 Not_involved	"WBbt:0007816"	Insufficient
 Not_involved	"WBbt:0007816"	Unnecessary
-Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation) "
+Remark	"ENTITY:WBbt:0006797(oocyte)|GO:0001556(oocyte maturation)"
 Remark	"QUALIFY:PATO:0002052(decreased occurance)"
 Remark	"Genotype \"kin-1(ok338); nEx109[kin-1(+) sur-5::gfp]\""
 Remark	"Published_as kin-1"
@@ -13191,5 +13188,289 @@ Involved	"WBbt:0003679"	Sufficient
 Involved	"WBbt:0005792"	Sufficient
 Remark	"Author Statement \"Expression of MRP-1 in only one tissue (neurons, intestinal cells or pharyngeal muscles) rescued the dauer larva formation abnormality only weakly. By contrast, the abnormality was rescued efficiently by expressing MRP-1 in two or three tissues (Fig. 6).\""
 Reference	"WBPaper00026626"
+
+
+Anatomy_function : "WBbtf1091"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000637"
+Gene	"WBGene00003508"
+Involved	"WBbt:0005661"	Sufficient
+Remark	"Rescue observed in high pheromone condition. Annotated by Pranjal Garg."
+Remark	"Author Statement \"As predicted, we observed that expression of mut-16::gfp in ADL neurons also resulted in a significant rescue of the mut-16 daf-d phenotype, while expression in AWA neurons resulted in no rescue (Figure 4A).\""
+Reference	"WBPaper00050683"
+
+
+Anatomy_function : "WBbtf1092"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000637"
+Gene	"WBGene00003508"
+Involved	"WBbt:0005667"	Sufficient
+Involved	"WBbt:0005666"	Sufficient
+Remark	"Expression of mut-16 in ASI or ASJ is sufficient to rescue mut-1 mutants. Annotated by Pranjal Garg."
+Remark	"The rescue is observed in high pheromone environmental condition."
+Remark	"Author Statement \"We found that expression of mut-16::gfp in ASI and ASJ neurons in the mut-16(pk710) strain resulted in significantly greater number of dauers compared to mut-16(pk710) without the transgene.\""
+Reference	"WBPaper00050683"
+
+
+Anatomy_function : "WBbtf1093"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0002232"	Autonomous
+Gene	"WBGene00004134"
+Involved	"WBbt:0005270"	Necessary
+Remark	"Annotated by Pranjal Garg"
+Remark	"Genotype \"gfp::myrf-1::3xFlag(ybq14) II gfp::myrf-2(ybq46)\""
+Remark	"Author Statement \"myrf-1(1-790 GFP) allele, in which a part of the extracellular domain of MYRF was removed, exhibited blocked synaptic rewiring under myrf-2 null background (Figure 6; Figure 6-figure supplements 1-12), a phenotype similarly observed in myrf-1(ybq6).\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1094"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0002232"	Autonomous
+Gene	"WBGene00004134"
+Involved	"WBbt:0005270"	Necessary
+Remark	"This is in contrast to myrf-1 (1-790 GFP) allele, where only a part of extracellular domain of MYRF is removed. This showed blocked synaptic rewiring."
+Remark	"Genotype \"gfp::myrf-1::3xFlag(ybq14) II\""
+Remark	"Author Statement \"Notably, the precocious dorsal synapses in myrf-11-700 GFP mutants were not uniformly distributed along the dorsal cord, that is in some DDs the remodeling occurred while in the rest the remodeling did not, even though they were in the same animal, implying that the observed precocity in myrf-1 (1-700 GFP) mutants was not a strictly regulated event.\""
+Remark	"Author Statement \"In contrast, myrf-1 (1-700 GFP) allele, in which the whole extracellular region of MYRF is lost, exhibited precocious synaptic rewiring, that is clearly detectable synaptic puncta formed in the dorsal processes of DDs at 12, 14 post-hatch hours, time points by which synaptic rewiring has not occurred yet in wild type animals (Figure 6; Figure 6-figure supplements 1-12).\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1095"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000436"	Autonomous
+Gene	"WBGene00004134"
+Involved	"WBbt:0005270"	Necessary
+Remark	"The extracellular domain of both myrf-1 and myrf-2 are necessary for localization of MYRF. Annotated by Pranjal Garg"
+Remark	"Genotype \"gfp::myrf-1::3xFlag(ybq14) II gfp::myrf-2(ybq46)\""
+Remark	"Author Statement \"We generated an in- frame deletion allele of myrf-11-700 GFP that removed the entire extracellular domain from MYRF-1 (Figure 8A).\""
+Remark	"Author Statement \"Importantly, MYRF-1 (1-700 GFP) displayed prominent cytoplasmic signals while its cell-membrane or nuclear localization were not obvious at any viable stages (Figure 8D-F; Figure 8-figure supplement 1), showing that the extracellular domain is required for MYRF's proper localization.\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1096"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0002232"	Autonomous
+Gene	"WBGene00003915"
+Involved	"WBbt:0005270"	Sufficient
+Remark	"Genotype \"Punc-25-mCherry::Rab-3(juIs236)/mT1 II,pan-1(gk142)/mT1 III; Punc-25-pan-1b::gfp(ybqIs131) Punc-25-mCherry::Rab-3(juIs236)/mT1II; pan-1(gk142)/mT1 III; Pflp-13-pan-1b:gfp(ybqEx821)\""
+Remark	"Author Statement \"To confirm that loss of pan-1 is responsible for synaptic remodeling defects in pan-1 mutants, we performed rescue experiments by expressing pan-1 in DD neurons (Figure 2A,B;Figure 2-figure supplement 1A,B). Expression of longest isoform pan-1b driven by unc-25pro (expressed in DD and VD) restored the synaptic remodeling defects in pan-1mutants. Furthermore, expression of pan-1 (referring to pan-1b hereafter) driven by flp-13pro (expressed in DD not VD among ventral cord motor neurons) also rescued synaptic rewiring defects in pan-1 mutants (Figure 2-figure supplement 1A).\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1097"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0002232"	Autonomous
+Gene	"WBGene00003915"
+Involved	"WBbt:0005270"	Sufficient
+Remark	"pan-1 has three isoforms- pan 1a, pan 1b, pan-1c Annotated by Pranjal Garg"
+Remark	"Genotype \"Punc-25-mCherry::Rab-3(juIs236)/mT1 II, pan-1(gk142)/mT1 III; Punc-25-pan-1a (ybqEx624)\""
+Remark	"Author Statement \"Expression of longest isoform pan-1b driven by unc-25pro (expressed in DD and VD) restored the synaptic remodeling defects in pan-1 mutants, while the other two isoforms, pan-1a or pan-1c could not (Figure 2B).\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1098"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000436"	Autonomous
+Gene	"WBGene00008999"
+Involved	"WBbt:0005270"	Necessary
+Remark	"The extracellular domain of both myrf-1 and myrf-2 are necessary for localization of MYRF. Annotated by Pranjal Garg"
+Remark	"Genotype \"gfp::myrf-2(ybq46) X\""
+Remark	"Author Statement \"	 Using a similar strategy, we analyzed an in-frame deletion allele myrf-2 (1-728 GFP) and found that the extracellular region of MYRF-2 was necessary for MYRF-2's cell membrane localization because MYRF-2 (1-728) was primarily detected in cytoplasm (Figure 8-figure supplement 2).\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1099"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0002232"
+Gene	"WBGene00003915"
+Not_involved	"WBbt:0005733"	Insufficient
+Remark	"The expression of pan-1b in epidermis did not rescue the pan-1 null mutants from synaptic rewiring defects in contrast to expression of pan-1b in DD neurons. Annotated by Pranjal Garg"
+Remark	"Genotype \"Punc-25-mCherry::Rab-3(juIs236) /mT1 II, pan-1(gk142)/mT1 III\""
+Remark	"Author Statement \"In contrast, specific expression of pan-1 in muscles, epidermis, or intestine did not mitigate the deficient synaptic remodeling in pan-1(0) (Figure 2-figure supplement 1B).\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1100"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0002232"
+Gene	"WBGene00003915"
+Not_involved	"WBbt:0005772"	Insufficient
+Remark	"The expression of pan-1b in intestine did not rescue the pan-1 null mutants from synaptic rewiring defects in contrast to expression of pan-1b in DD neurons. Annotated by Pranjal Garg"
+Remark	"Genotype \"Punc-25-mCherry::Rab-3(juIs236) /mT1 II, pan-1(gk142)/mT1 III\""
+Remark	"Author Statement \"In contrast, specific expression of pan-1 in muscles, epidermis, or intestine did not mitigate the deficient synaptic remodeling in pan-1(0).\""
+Reference	"WBPaper00061377"
+
+
+Anatomy_function : "WBbtf1101"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0000637"
+Involved	"WBbt:0005666"	Necessary
+Remark	"AM251 is the antagonist of human cannabinoid receptor. Annotated by Pranjal Garg."
+Remark	"Author Statement \"Ablation of the ASI neuron strongly reduced the ability of AM251 to promote reproductive growth (Figure 4A), but loss of the ASJ neuron had no effect (Figure 4B). These data show that the effect of AM251 in suppressing dauer entry is mediated via the ASI neuron.\""
+Reference	"WBPaper00049436"
+
+
+Anatomy_function : "WBbtf1102"
+Involved	"WBbt:0005667"	Necessary
+Remark	"Results show that the signals from cell body and axon promote dauer entry. Annotated by Pranjal Garg"
+
+
+Anatomy_function : "WBbtf1103"
+Not_involved	"WBbt:0005668"	Unnecessary
+Not_involved	"WBbt:0006976"	Unnecessary
+Remark	"Annotated by Pranjal Garg."
+
+
+Anatomy_function : "WBbtf1104"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000637"
+Involved	"WBbt:0005667"	Necessary
+Remark	"Results show that the signals from cell body and axon promote dauer entry. Annotated by Pranjal Garg"
+Remark	"Author Statement \"We performed surgeries at 4 hr after hatching on the ASJ cell body, dendrite, and axon to determine their roles in daf-11 dauer entry signaling. When assayed at 25 C, significantly (p < 10?4) lower percentages of L+R whole-cell-ablated and L+R dendrite-cut daf-11 mutants enter dauer compared to mock animals (Figure 3A).\""
+Reference	"WBPaper00043943"
+
+
+Anatomy_function : "WBbtf1105"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000637"
+Not_involved	"WBbt:0005668"	Unnecessary
+Not_involved	"WBbt:0006976"	Unnecessary
+Remark	"Annotated by Pranjal Garg."
+Remark	"Author Statement \"Interestingly, surgeries on the ASK or PVQ neurons, the postsynaptic partners of the ASJ, did not significantly change dauer entry, suggesting that the signal might be secreted from the ASJ axon rather than synaptically mediated.\""
+Reference	"WBPaper00043943"
+
+
+Anatomy_function : "WBbtf1106"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000637"
+Gene	"WBGene00003970"
+Involved	"WBbt:0005666"	Sufficient
+Remark	"Annotated by Pranjal Garg"
+Remark	"Genotype \"daf-28(sa191);pek-1(ok275)\""
+Remark	"Author Statement \"Consistent with this expectation, ASI-specific expression of pek-1 was able to restore the constitutive dauer entry phenotype of the daf-28(sa191);pek-1(ok275) mutant, demonstrating that PEK-1 activation by ER stress in the ASI neuron pair is sufficient to promote entry into dauer diapause.\""
+Reference	"WBPaper00044570"
+
+
+Anatomy_function : "WBbtf1107"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000637"	Autonomous
+Gene	"WBGene00021351"
+Involved	"WBbt:0005666"	Sufficient
+Remark	"Annotated by Pranjal Garg."
+Remark	"Genotype \"daf-28(sa191);pek-1(ok275)\""
+Remark	"Author Statement \"	 We introduced the ASI-specific phosphomimetic eIF2a(S49D) transgene into the daf-28(sa191);pek-1(ok275) mutant and found that this transgene substantially restored the constitutive dauer entry phenotype of the daf-28(sa191) mutant that was suppressed by pek-1(ok275).\""
+Reference	"WBPaper00044570"
+
+
+Anatomy_function : "WBbtf1108"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000637"	Autonomous
+Gene	"WBGene00021351"
+Involved	"WBbt:0005666"	Sufficient
+Remark	"Annotated by Pranjal Garg"
+Remark	"Genotype \"daf-28(sa191)\""
+Remark	"Author Statement \"We overexpressed an unphosphorylatable version of eIF2a(S49A) specifically in the ASI neurons of the daf-28(sa191) mutant and observed partial suppression of the constitutive dauer entry phenotype\""
+Reference	"WBPaper00044570"
+
+
+Anatomy_function : "WBbtf1109"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000637"
+Involved	"WBbt:0005664"	Sufficient
+Involved	"WBbt:0005660"	Sufficient
+Involved	"WBbt:0005666"	Sufficient
+Remark	"In daf-11(sa195): When all exposed amphid neurons are left intact- number of dauers/ total = 121/126. When exposed amphid neurons left intact are ADF, ASI, ASG- number of dauers/ total = 0/5. In daf-11(m87): When all exposed amphid neurons are left intact- number of dauers/ total = 14/15. When exposed amphid neurons left intact are ADF, ASI, ASG- number of dauers/ total = 1/6. Annotated by Pranjal Garg"
+Remark	"Genotype \"daf-11(sa195), daf-11(m87)\""
+Remark	"Author Statement \"These neurons were also sufficient to prevent dauer formation in two daf-11 mutants, suggesting that daf-11 does not disrupt ADF, ASI, or ASG function.\""
+Remark	"Author Statement \"We killed AFD and all exposed amphid neurons except for ADF, ASI, and ASG in the wild type and in Daf-c mutants and determined whether dauer formation was still repressed (Table 1). Though not exposed to the environment, AFD was included because it regulates response to temperature (22), an important modulator of dauer formation (13). As previously reported (4), we found that isolated ADF, ASI, and ASG neurons were sufficient to prevent dauer formation in the wild type\""
+Reference	"WBPaper00002586"
+
+
+Anatomy_function : "WBbtf1110"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000012"
+Involved	"WBbt:0005667"	Necessary
+Remark	"Complete suppression of gene expression was not observed. Annotated by Pranjal Garg."
+Remark	"Author Statement \"To determine which amphid neurons were responsible for the suppression of daf-11, each neuron class was killed individually in a daf-11 mutant (Figure 3A). Only killing ASJ resulted in statistically significant suppression of the daf-11 Daf-c phenotype (p < 0.0001).\""
+Reference	"WBPaper00002586"
+
+
+Anatomy_function : "WBbtf1111"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000637"
+Involved	"WBbt:0005667"	Necessary
+Remark	"Annotated by Pranjal Garg"
+Remark	"Author Statement \"We killed ASJ in the wild type and exposed the animals to several different concentrations of pheromone. At each pheromone concentration, killing ASJ significantly impaired the ability of wild-type animals to form dauers (Figure 5). We conclude that the activity of ASJ contributes to the activation of dauer formation in the wild type.\""
+Reference	"WBPaper00002586"
+
+
+Anatomy_function : "WBbtf1112"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000637"
+Involved	"WBbt:0005667"	Necessary
+Remark	"This showed that suppression of daf-c phenotype is not specific to daf-11. Annotated by Pranjal Garg."
+Remark	"Author Statement \"Killing ASJ suppressed dauer formation for two additional alleles of daf-11 (m84 and m87), as well as for daf-21(p673), another group 1 Daf-c mutation (Figure 4A).\""
+Reference	"WBPaper00002586"
+
+
+Anatomy_function : "WBbtf1113"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000877"	Autonomous
+Gene	"WBGene00006652"
+Involved	"WBbt:0006754"	Sufficient
+Remark	"Amphid sheath published as AMsh. Annotated by Pranjal Garg"
+Remark	"Genotype \"ttx- 1(p767); daf-7(e1372); glia::ttx1 (nsIs219), daf-7(e1372); ttx- 1(p767), daf-7(e1372); ttx-1(oy26)\""
+Remark	"Author Statement \"As shown in Fig. 2E, AMsh glia fusion failed to occur in almost all daf-7(e1372); ttx- 1(p767) and daf-7(e1372); ttx-1(oy26) double-mutant dauer animals scored using the cytoplasmic mixing assay\""
+Remark	"Author Statement \"Restoring ttx-1 in AMsh glia, however, rescued AMsh glia fusion (Fig. 2E) but not thermotaxis or AFD morphology (see Fig. S4A,D,E,I in the supplementary material).\""
+Reference	"WBPaper00038156"
+
+
+Anatomy_function : "WBbtf1114"
+Assay	"Expression_mosaic"
+Phenotype	"WBPhenotype:0000135"	Autonomous
+Gene	"WBGene00006652"
+Involved	"WBbt:0006754"	Sufficient
+Remark	"Done in non dauer adult animals. Annotated by Pranjal Garg."
+Remark	"Author Statement \"The induction of ver-1 expression by temperature was, however, dependent on ttx-1, as animals containing ttx-1 mutations failed to express the ver-1 promoter::gfp reporter at high temperatures (Fig. 6B). Restoring ttx-1 specifically in glia rescued temperature-dependent ver-1 expression, whereas restoring ttx-1 in AFD neurons did not (Table 1).\""
+Reference	"WBPaper00038156"
+
+
+Anatomy_function : "WBbtf1115"
+Assay	"Genetic_ablation"
+Phenotype	"WBPhenotype:0000717"	Autonomous
+Not_involved	"WBbt:0005662"	Unnecessary
+Remark	"Amphid sheath published as AMsh. Annotated by Pranjal Garg"
+Remark	"Author Statement \"To determine whether temperature control of ver-1 expression was mediated by the sensory neurons associated with the AMsh glia, we genetically ablated both thermosensory AFD neurons and observed no defect in ver-1 expression (Table 1).\""
+Reference	"WBPaper00038156"
+
+
+Anatomy_function : "WBbtf1116"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000877"
+Not_involved	"WBbt:0005672"	Unnecessary
+Remark	"Amphid Sheath glial cell fusion is independent of signals from AWC neurons. Annotated by Pranjal Garg."
+Remark	"Genotype \"daf-7(e1372); AWC::yfp (oyIs45)\""
+Remark	"Author Statement \"we ablated the two AWC neurons using a laser microbeam in first-stage daf-7(e1372) larvae that were mosaic for AMsh glia::gfp expression and that expressed an AWC promoter::yfp reporter (oyIs45). Ablated animals were then induced to become dauers by incubation at 25&deg;C for 48 hours, and glial fusion was monitored using the cytoplasmic mixing assay. We found that mock-ablated animals had a high rate of fusion (89%; n=36), perhaps a result of the strain background. Importantly, in animals where both AWC neurons were ablated, we saw no significant decrease in glial cell fusion (81%; n=26; P=0.47, Fisher's exact test).\""
+Reference	"WBPaper00038156"
+
+
+Anatomy_function : "WBbtf1117"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000127"
+Involved	"WBbt:0005118"	Necessary
+Remark	"Annotated by Pranjal Garg"
+Remark	"Genotype \"daf-7(e1372)\""
+Remark	"Author Statement \"Moreover, laser ablation of the IL2 neurons (which express the Notch ligand lag-2) prior to dauer entry in a daf-7(e1372) mutant background also leads to dauer maintenance defects that are comparable to those observed in a daf-7; lag-2 double mutant background (Table 2).\""
+Reference	"WBPaper00031997"
+
+
+Anatomy_function : "WBbtf1118"
+Assay	"Laser_ablation"
+Phenotype	"WBPhenotype:0000127"
+Involved	"WBbt:0005672"	Necessary
+Remark	"Annotated by Pranjal Garg"
+Remark	"Genotype \"glp-1(e2141) daf-7(e1372)\""
+Remark	"Author Statement \"	 These neurons are crucial for dauer recovery, as ablation of the AWC neurons in a glp-1(e2141) daf-7(e1372) mutant background suppressed their premature recovery/dauer maintenance defect (Table 2).\""
+Reference	"WBPaper00031997"
 
 
